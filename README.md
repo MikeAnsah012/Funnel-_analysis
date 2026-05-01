@@ -2,6 +2,7 @@
 
 # Dashboard
 
+
 # Executive Summary
 This project analyzes the player journey from install to purchase, identifying key drop-off points and revenue opportunities within the gaming funnel. Out of 1.2K players, early engagement is strong, with 90% progressing from install to game open. However, onboarding shows friction, as only 72% complete the tutorial. The largest gap occurs at monetization, with just 17% of players converting to paying users, highlighting a key opportunity to improve purchase strategies. PC is the leading platform, generating 43% of revenue, while EMEA is the top region with a 32% share.
 
