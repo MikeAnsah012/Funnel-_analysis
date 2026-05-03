@@ -1,0 +1,1254 @@
+player_id,country,region,platform,acquisition_channel,age,skill_segment,device_name,clean_signup_date,row_num
+NULL,"United Kingdom",EMEA,NULL,Influencer,35,Core,"Windows 10","2025-08-13 14:33:00",1
+NULL,NULL,APAC,Xbox,Influencer,23,Core,PS5,"2025-08-14 00:00:00",1
+NULL,"South Korea",APAC,Xbox,Influencer,23,Core,PS5,"2025-08-14 00:00:00",1
+NULL,Brazil,LATAM,Mobile,Influencer,32,Core,"Windows 10","2025-08-17 22:31:00",1
+NULL,Spain,EMEA,Mobile,Influencer,43,Core,iPad,"2025-09-17 03:31:54",1
+NULL,India,APAC,PC,"Paid Search",38,Competitive,"Windows 10","2025-09-19 19:33:46",1
+NULL,"United States",NA,Mobile,NULL,43,Core,"Windows 10","2025-09-26 00:00:00",1
+NULL,"United States",NA,PC,NULL,43,Core,"Windows 10","2025-09-26 00:00:00",1
+NULL,India,APAC,PC,"Paid Search",22,Core,"Steam Deck","2025-10-04 00:00:00",1
+NULL,"United States",NA,PC,"Paid Search",41,Casual,"Xbox Series X","2025-10-07 11:23:57",1
+NULL,"United Kingdom",EMEA,Mobile,Influencer,18,Competitive,iPhone,"2025-10-13 06:22:00",1
+NULL,"United States",NA,PC,Discord,45,Core,"Xbox Series X","2025-11-20 08:01:17",1
+NULL,Brazil,LATAM,NULL,"App Store",37,Casual,"Windows 11","2025-12-01 00:00:00",1
+NULL,Canada,NA,PC,Influencer,16,Competitive,NULL,"2025-12-23 00:00:00",1
+NULL,"United States",NA,PC,Discord,35,Core,"Windows 10","2026-01-05 05:05:00",1
+NULL,"United Kingdom",EMEA,PC,Organic,45,Core,"Windows 11","2026-01-15 18:26:00",1
+NULL,Australia,APAC,PlayStation,Influencer,22,Competitive,"Xbox Series X","2026-02-01 00:00:00",1
+NULL,Mexico,LATAM,PC,"Paid Search",NULL,Core,"Windows 11","2026-02-20 08:23:54",1
+NULL,"United Kingdom",EMEA,PC,"App Store",45,Casual,"Windows 11","2026-02-25 11:15:00",1
+NULL,"United States",NA,Mobile,Influencer,44,Casual,"Windows 11","2026-03-05 17:46:00",1
+P00001,India,APAC,PlayStation,Organic,22,Casual,"Windows 11","2026-02-06 00:00:00",1
+P00002,Japan,APAC,PC,"App Store",NULL,Casual,"Windows 11","2026-02-17 18:04:00",1
+P00003,"United Kingdom",EMEA,PC,Organic,40,Competitive,"Android Tablet","2025-08-09 00:00:00",1
+P00004,India,APAC,Mobile,Organic,38,Casual,iPhone,"2025-11-29 03:41:00",1
+P00005,Australia,APAC,Mobile,"Paid Search",43,Core,"Xbox Series X","2026-02-11 00:14:01",1
+P00006,"United Kingdom",EMEA,PlayStation,"Paid Search",28,Core,"Android Tablet","2025-11-04 11:22:00",1
+P00007,"United Kingdom",EMEA,Mobile,Referral,34,Casual,"Android Tablet","2026-02-07 20:54:00",1
+P00008,Mexico,LATAM,PC,"Paid Search",21,Casual,"Windows 11","2025-09-26 00:00:00",1
+P00009,Germany,EMEA,Mobile,Organic,36,Core,"Samsung Galaxy","2026-01-01 00:00:00",1
+P00010,"United States",NA,Xbox,Organic,34,Casual,"Samsung Galaxy","2026-02-24 14:25:16",1
+P00011,NULL,APAC,PC,"Paid Search",41,Core,"Windows 10","2026-03-06 00:00:00",1
+P00012,"United Kingdom",EMEA,Xbox,"Paid Search",29,Core,iPhone,"2025-12-07 00:00:00",1
+P00013,"United Kingdom",EMEA,PC,Influencer,25,Core,PS5,"2026-02-22 00:00:00",1
+P00014,NULL,NA,Mobile,NULL,24,Core,"Windows 11","2026-02-10 00:00:00",1
+P00015,India,APAC,PC,Organic,25,Casual,iPad,"2025-12-08 00:00:00",1
+P00016,Spain,EMEA,PC,Organic,41,Casual,NULL,"2026-01-06 00:00:00",1
+P00017,Mexico,LATAM,PlayStation,"Paid Search",16,Core,iPhone,"2025-12-02 00:00:00",1
+P00018,"United Kingdom",EMEA,NULL,"Paid Search",36,Core,"Samsung Galaxy","2025-12-22 00:00:00",1
+P00019,India,APAC,Mobile,Influencer,43,Casual,"Samsung Galaxy","2025-08-01 00:00:00",1
+P00020,India,APAC,PC,Influencer,19,Competitive,"Android Tablet","2025-09-01 00:00:00",1
+P00020,India,APAC,PC,Influencer,19,Competitive,"Android Tablet","2025-12-23 08:31:03",1
+P00021,Australia,LATAM,PC,"Paid Search",NULL,Core,Pixel,"2026-01-01 14:56:00",1
+P00021,Mexico,LATAM,Xbox,Organic,NULL,Core,Pixel,"2026-01-01 14:56:00",1
+P00022,"South Korea",APAC,Xbox,Influencer,25,Casual,"Samsung Galaxy","2025-11-19 00:00:00",1
+P00023,"United Kingdom",EMEA,PC,Discord,38,Core,PS5,"2025-09-21 21:18:48",1
+P00024,Germany,EMEA,PC,Organic,36,Casual,"Samsung Galaxy","2026-02-27 00:00:00",1
+P00025,Germany,EMEA,PC,Organic,36,Casual,iPhone,"2026-01-01 00:00:00",1
+P00026,"United Kingdom",EMEA,PC,"Paid Search",25,Core,"Windows 10","2025-09-08 14:38:00",1
+P00027,"United States",NA,PC,Organic,43,Core,iPad,"2025-12-30 17:15:00",1
+P00029,Germany,EMEA,Xbox,Organic,24,Casual,"Windows 11","2025-10-04 20:07:35",1
+P00030,Brazil,LATAM,PC,"Paid Search",17,Casual,iPhone,"2025-10-03 00:00:00",1
+P00031,India,APAC,PC,Influencer,17,Casual,"Windows 11","2025-10-20 00:00:00",1
+P00032,Spain,EMEA,NULL,Influencer,19,Casual,"Xbox Series X","2026-02-04 21:34:39",1
+P00033,India,APAC,PC,"Paid Search",20,Casual,PS5,"2025-11-15 07:23:00",1
+P00034,"United States",NA,NULL,Organic,35,Competitive,PS5,"2025-12-28 00:00:00",1
+P00035,"South Korea",APAC,PC,"Paid Search",40,Casual,"Android Tablet","2025-09-08 00:00:00",1
+P00036,India,APAC,Mobile,"Paid Search",20,Casual,"Windows 10","2025-11-13 00:00:00",1
+P00036,"United States",APAC,Mobile,"Paid Search",20,Casual,"Windows 10","2025-11-13 00:00:00",1
+P00037,Germany,EMEA,PlayStation,Organic,34,Casual,Pixel,"2025-10-14 09:35:20",1
+P00038,Germany,EMEA,PlayStation,Organic,44,Core,"Samsung Galaxy","2026-01-04 00:35:00",1
+P00039,Germany,EMEA,PC,Influencer,18,Core,"Xbox Series X","2025-12-01 21:49:00",1
+P00040,Canada,NA,Xbox,Influencer,27,Casual,"Xbox Series X","2025-12-05 00:00:00",1
+P00041,Australia,APAC,PlayStation,Discord,33,Competitive,"Windows 11","2026-02-24 16:10:56",1
+P00042,NULL,EMEA,Xbox,Influencer,41,Casual,PS5,"2025-09-28 03:28:00",1
+P00043,Germany,EMEA,Xbox,"Paid Search",20,Casual,iPhone,"2025-08-16 00:00:00",1
+P00044,Japan,APAC,PC,Influencer,20,Core,"Samsung Galaxy",NULL,1
+P00045,India,APAC,PlayStation,Influencer,37,Casual,"Samsung Galaxy","2025-08-26 11:32:00",1
+P00046,Spain,EMEA,PC,Organic,34,Casual,"Windows 10","2025-08-20 08:50:37",1
+P00047,India,APAC,Mobile,"Paid Search",45,Core,"Windows 11","2025-09-14 00:00:00",1
+P00048,"United Kingdom",EMEA,PC,"Paid Search",25,Competitive,"Samsung Galaxy","2025-11-30 00:00:00",1
+P00049,"United Kingdom",EMEA,Mobile,Influencer,NULL,Competitive,"Windows 11","2025-09-29 04:08:49",1
+P00050,"South Korea",APAC,Mobile,Influencer,35,Casual,"Android Tablet","2025-12-27 00:00:00",1
+P00051,"South korea",APAC,PC,"App Store",24,Core,iPhone,"2025-09-16 20:52:35",1
+P00052,India,APAC,Xbox,"Paid Search",34,Casual,PS5,"2025-12-09 02:47:00",1
+P00053,India,APAC,PlayStation,"Paid Search",24,Casual,"Windows 10","2025-11-01 02:26:11",1
+P00054,NULL,APAC,PlayStation,"Paid Search",16,Casual,PS5,"2025-12-11 19:51:02",1
+P00055,France,EMEA,PC,"Paid Search",37,Casual,iPhone,"2025-11-13 00:00:00",1
+P00056,Brazil,LATAM,Mobile,Influencer,34,Casual,iPad,"2025-12-09 00:00:00",1
+P00057,Germany,EMEA,PlayStation,Influencer,27,Casual,NULL,"2025-11-12 10:13:00",1
+P00058,Canada,NA,PlayStation,Referral,45,Core,iPhone,"2026-02-15 23:14:00",1
+P00059,Germany,EMEA,PC,Organic,24,Core,"Windows 11","2026-03-01 02:28:32",1
+P00060,Japan,APAC,Xbox,NULL,34,Core,PS5,"2025-08-28 07:45:00",1
+P00060,"United States",APAC,Xbox,NULL,34,Core,PS5,"2025-08-28 07:45:00",1
+P00061,"United States",NA,PlayStation,Organic,38,Core,PS5,"2025-11-22 00:00:00",1
+P00062,Japan,APAC,PC,Influencer,37,Casual,"Windows 10","2025-10-08 12:55:00",1
+P00063,Germany,EMEA,Mobile,Organic,35,Casual,"Android Tablet","2025-09-26 00:00:00",1
+P00064,Mexico,LATAM,Mobile,"Paid Search",16,Casual,PS5,"2025-10-27 00:00:00",1
+P00065,"United States",NA,PlayStation,"App Store",38,Casual,iPhone,"2026-01-28 01:42:00",1
+P00066,"South Korea",APAC,PC,"Paid Search",40,Casual,"Windows 10","2026-02-26 00:00:00",1
+P00067,India,APAC,PC,"Paid Search",29,Casual,"Windows 10","2025-11-11 05:44:15",1
+P00068,"United States",NA,PC,Discord,34,Casual,"Samsung Galaxy","2026-01-25 23:54:00",1
+P00069,India,APAC,PC,"Paid Search",38,Casual,"Steam Deck","2026-01-29 17:51:00",1
+P00070,"United States",NA,PC,Discord,39,Casual,"Windows 11","2026-01-27 17:04:00",1
+P00071,Brazil,LATAM,PC,Organic,24,Competitive,"Xbox Series X","2025-09-20 00:00:00",1
+P00072,France,EMEA,Xbox,Referral,44,Casual,"Windows 10","2025-08-20 00:00:00",1
+P00073,"South Korea",APAC,PC,Community,18,Core,"Windows 11",NULL,1
+P00074,"United States",NA,PC,Organic,27,Core,"Xbox Series X","2026-02-16 04:20:24",1
+P00075,"United Kingdom",EMEA,Mobile,Organic,42,Core,Pixel,"2026-01-13 18:29:22",1
+P00076,"United States",NA,Xbox,Organic,24,Casual,"Windows 10","2026-01-11 00:00:00",1
+P00077,Mexico,LATAM,Mobile,Referral,26,Casual,PS5,"2025-10-01 00:00:00",1
+P00078,"South Korea",APAC,Mobile,Organic,22,Core,"Xbox Series X","2025-10-06 12:59:00",1
+P00079,"United States",NA,Xbox,Influencer,36,Competitive,"Windows 11","2026-02-04 00:00:00",1
+P00080,"United States",NA,Mobile,Community,40,Casual,"Xbox Series X","2025-10-23 16:56:52",1
+P00081,Canada,NA,Xbox,Organic,30,Casual,"Android Tablet","2026-01-08 17:45:55",1
+P00082,"United States",NA,PlayStation,Discord,26,Core,"Windows 11","2025-08-03 09:29:00",1
+P00083,"United States",NA,PC,Organic,22,Competitive,Pixel,"2025-08-02 00:00:00",1
+P00084,"United Kingdom",EMEA,Xbox,Influencer,40,Competitive,"Samsung Galaxy","2026-02-28 00:00:00",1
+P00085,Brazil,EMEA,Xbox,Discord,23,Competitive,"Windows 10","2025-11-10 00:00:00",1
+P00085,France,EMEA,PC,Influencer,23,Competitive,"Windows 10","2025-11-13 00:00:00",1
+P00086,"United States",NA,PC,"Paid Search",34,Core,"Windows 10","2025-10-25 00:00:00",1
+P00087,Brazil,LATAM,Mobile,Organic,21,Competitive,"Samsung Galaxy","2026-02-14 00:00:00",1
+P00088,Australia,APAC,PC,Influencer,31,Core,"Steam Deck","2026-01-29 00:00:00",1
+P00089,Mexico,LATAM,Xbox,"App Store",25,Casual,"Windows 10","2026-02-02 20:52:22",1
+P00090,France,EMEA,PC,Organic,45,Core,iPhone,"2025-11-29 00:00:00",1
+P00091,Canada,NA,Xbox,Influencer,24,Casual,iPhone,"2025-09-25 07:56:26",1
+P00092,Brazil,LATAM,Mobile,Organic,45,Casual,PS5,"2025-11-17 00:00:00",1
+P00093,India,EMEA,Mobile,Organic,17,Casual,"Xbox Series X","2025-11-03 04:47:00",1
+P00093,"United Kingdom",EMEA,Mobile,Organic,17,Casual,"Xbox Series X","2025-11-03 04:47:00",1
+P00094,"United States",NA,PC,Organic,30,Core,"Windows 11","2025-11-04 00:00:00",1
+P00095,Spain,EMEA,PC,NULL,35,Core,"Windows 10","2025-11-18 02:58:00",1
+P00096,"United Kingdom",EMEA,PC,Influencer,39,Core,"Android Tablet","2025-10-22 00:52:36",1
+P00096,"United Kingdom",EMEA,PC,Referral,39,Core,"Android Tablet","2026-03-07 10:29:00",1
+P00097,India,APAC,Mobile,Discord,27,Competitive,"Samsung Galaxy","2026-02-21 00:00:00",1
+P00098,Brazil,LATAM,Xbox,"Paid Search",17,Casual,"Windows 11","2025-12-15 04:33:00",1
+P00099,Mexico,LATAM,Mobile,Influencer,NULL,Casual,iPhone,"2026-01-20 00:00:00",1
+P00100,India,APAC,Xbox,"App Store",22,Casual,Pixel,"2026-01-21 00:00:00",1
+P00101,India,APAC,Xbox,Influencer,22,Core,"Samsung Galaxy","2026-01-17 03:03:00",1
+P00102,Mexico,LATAM,PlayStation,Organic,25,Casual,"Windows 10","2026-01-17 07:41:06",1
+P00103,Australia,APAC,Mobile,"Paid Search",32,Casual,"Android Tablet","2026-01-16 00:00:00",1
+P00104,Australia,APAC,PlayStation,"Paid Search",37,Competitive,iPhone,"2025-12-25 00:00:00",1
+P00105,Brazil,LATAM,Mobile,Organic,39,Competitive,iPhone,"2025-10-18 00:00:00",1
+P00106,Brazil,LATAM,PC,Community,21,Core,"Windows 11","2025-09-13 12:22:00",1
+P00107,Australia,APAC,PC,Organic,26,Core,"Steam Deck","2025-12-19 00:00:00",1
+P00108,Germany,EMEA,Mobile,Organic,26,Casual,"Steam Deck","2025-12-08 19:33:00",1
+P00109,"United States",NA,PlayStation,Influencer,21,Core,PS5,"2025-12-25 00:00:00",1
+P00110,"United States",NA,Xbox,Influencer,45,Casual,"Android Tablet","2025-08-17 00:00:00",1
+P00111,Germany,EMEA,PC,Organic,35,Core,"Samsung Galaxy","2026-01-14 00:00:00",1
+P00112,Australia,APAC,Xbox,Influencer,40,Core,"Windows 11",NULL,1
+P00113,Spain,EMEA,Mobile,"Paid Search",25,Casual,"Xbox Series X","2026-01-01 00:00:00",1
+P00114,Brazil,LATAM,PC,Influencer,38,Competitive,"Xbox Series X","2025-09-28 00:32:02",1
+P00115,"United States",NA,PC,Influencer,41,Core,"Android Tablet","2025-09-24 00:00:00",1
+P00116,France,EMEA,Mobile,Influencer,21,Competitive,"Windows 10","2025-09-25 00:00:00",1
+P00117,Brazil,LATAM,PC,Organic,40,Core,"Samsung Galaxy","2025-08-31 00:00:00",1
+P00118,Japan,APAC,PC,Influencer,31,Core,"Samsung Galaxy","2026-02-16 00:00:00",1
+P00119,"United Kingdom",EMEA,PC,"Paid Search",NULL,Casual,"Xbox Series X","2025-11-10 00:00:00",1
+P00120,Canada,NA,Mobile,Influencer,25,Competitive,PS5,"2026-02-25 12:19:46",1
+P00121,"United States",NA,Mobile,Influencer,16,Core,iPhone,"2025-11-21 00:00:00",1
+P00122,"United States",NA,PC,Organic,37,Competitive,iPhone,"2026-02-09 00:00:00",1
+P00123,India,APAC,Mobile,Organic,21,Core,"Windows 11","2025-08-04 00:13:13",1
+P00124,"South Korea",APAC,Mobile,Influencer,42,Competitive,"Windows 10",NULL,1
+P00125,"United States",NA,PC,Influencer,29,Core,"Windows 11","2026-01-08 00:00:00",1
+P00126,Mexico,LATAM,PC,Organic,33,Casual,"Xbox Series X","2025-09-26 00:00:00",1
+P00127,Japan,APAC,PlayStation,Influencer,43,Casual,"Windows 10","2026-02-21 16:30:00",1
+P00128,"United States",NA,PC,Organic,27,Competitive,Pixel,"2025-08-20 00:00:00",1
+P00129,"United States",NA,PlayStation,Referral,39,Core,"Samsung Galaxy","2025-12-22 15:46:00",1
+P00130,India,APAC,PC,Influencer,26,Core,"Windows 11","2025-12-10 18:17:03",1
+P00131,India,APAC,Xbox,Influencer,32,Casual,"Xbox Series X","2026-01-25 05:55:00",1
+P00131,India,APAC,Xbox,Referral,32,Casual,"Xbox Series X","2026-01-25 05:55:00",1
+P00132,Germany,EMEA,Xbox,Influencer,28,Core,"Windows 10","2025-11-27 00:00:00",1
+P00133,France,EMEA,PC,Organic,36,Casual,"Xbox Series X","2025-09-12 15:16:08",1
+P00134,India,APAC,Mobile,Organic,31,Casual,"Samsung Galaxy","2025-12-25 16:39:20",1
+P00135,France,EMEA,Mobile,Referral,25,Casual,"Windows 10","2025-12-13 00:00:00",1
+P00135,France,EMEA,Mobile,Referral,25,Casual,"Windows 10","2026-02-22 00:00:00",1
+P00136,"United States",NA,Mobile,Influencer,35,Casual,PS5,"2025-10-01 08:04:00",1
+P00137,"South korea",APAC,Mobile,Influencer,32,Competitive,NULL,"2025-10-13 00:00:00",1
+P00138,India,APAC,Xbox,Influencer,29,Competitive,"Windows 11","2025-09-05 11:54:00",1
+P00139,Australia,APAC,PlayStation,"Paid Search",36,Core,"Windows 11","2025-12-14 00:00:00",1
+P00140,India,APAC,PlayStation,"App Store",19,Core,iPhone,"2025-10-15 08:26:00",1
+P00141,"United Kingdom",EMEA,Mobile,Influencer,17,Casual,"Windows 10","2025-09-23 00:00:00",1
+P00143,"United States",NA,PC,Influencer,35,Core,"Android Tablet","2026-01-01 05:34:00",1
+P00145,"United States",NA,Mobile,NULL,41,Core,"Xbox Series X","2026-02-16 06:18:18",1
+P00146,India,APAC,Mobile,NULL,44,Core,Pixel,NULL,1
+P00147,"South korea",APAC,PC,Referral,27,Core,PS5,"2026-02-12 00:00:00",1
+P00148,India,APAC,PC,"Paid Search",32,Casual,iPhone,"2025-09-13 00:00:00",1
+P00149,NULL,APAC,NULL,Referral,19,Core,"Windows 11","2025-10-04 00:00:00",1
+P00150,Mexico,LATAM,Xbox,"Paid Search",24,Casual,"Windows 11","2025-10-28 00:00:00",1
+P00151,Brazil,LATAM,Mobile,Influencer,NULL,Casual,PS5,"2026-01-19 02:15:00",1
+P00152,Brazil,LATAM,NULL,NULL,20,Casual,"Windows 10","2025-12-06 00:00:00",1
+P00153,Japan,APAC,Mobile,Organic,42,Core,"Xbox Series X",NULL,1
+P00154,Brazil,LATAM,Mobile,"Paid Search",41,Core,iPhone,"2025-08-20 11:11:00",1
+P00155,Japan,APAC,PC,"Paid Search",45,Core,NULL,"2025-10-01 00:00:00",1
+P00156,"United States",NA,PC,"App Store",30,Core,NULL,"2025-09-16 00:00:00",1
+P00157,Brazil,LATAM,PlayStation,"App Store",42,Core,NULL,"2026-03-05 00:00:00",1
+P00158,Brazil,LATAM,Mobile,Influencer,27,Competitive,"Windows 11","2025-08-01 14:09:00",1
+P00159,Mexico,LATAM,NULL,Discord,37,Casual,"Windows 11","2025-11-04 22:58:00",1
+P00160,Spain,EMEA,PC,Organic,NULL,Casual,"Samsung Galaxy","2025-10-22 00:00:00",1
+P00161,"United States",NA,Mobile,"Paid Search",18,Competitive,"Windows 10","2026-01-30 00:00:00",1
+P00162,Germany,EMEA,PC,Community,22,Core,iPhone,"2026-01-27 00:00:00",1
+P00163,Brazil,LATAM,PlayStation,Influencer,28,Casual,"Xbox Series X","2026-02-02 07:06:00",1
+P00164,India,APAC,Mobile,Organic,16,Core,Pixel,"2025-11-30 08:56:57",1
+P00165,Australia,APAC,PlayStation,Community,17,Core,"Xbox Series X","2026-01-22 00:00:00",1
+P00166,"United States",NA,PlayStation,Influencer,22,Casual,"Steam Deck","2026-03-09 10:57:49",1
+P00167,Brazil,LATAM,PC,Organic,40,Casual,"Windows 10","2026-02-02 00:00:00",1
+P00168,NULL,EMEA,PC,Organic,18,Core,"Samsung Galaxy","2025-11-09 03:52:51",1
+P00169,Germany,EMEA,Mobile,Influencer,34,Core,"Xbox Series X","2025-12-02 03:19:00",1
+P00170,Germany,EMEA,Mobile,Organic,31,Casual,Pixel,"2025-08-05 00:00:00",1
+P00171,India,APAC,Mobile,Influencer,24,Competitive,"Windows 10","2025-12-04 00:00:00",1
+P00172,"United Kingdom",EMEA,Mobile,NULL,31,Casual,"Samsung Galaxy","2025-10-19 00:00:00",1
+P00174,"United States",NA,Xbox,Organic,39,Casual,"Samsung Galaxy","2025-12-04 11:47:00",1
+P00175,"United States",NA,Mobile,"Paid Search",45,Competitive,iPhone,"2025-09-22 07:32:00",1
+P00176,Germany,EMEA,Xbox,"Paid Search",33,Core,"Android Tablet","2025-12-25 00:00:00",1
+P00177,Germany,EMEA,PC,"App Store",30,Casual,iPhone,"2025-10-21 18:32:45",1
+P00178,"United States",NA,PC,Referral,32,Casual,Pixel,NULL,1
+P00179,"United States",NA,Xbox,Influencer,41,Core,"Windows 11","2025-11-21 15:36:00",1
+P00180,India,APAC,PC,Organic,39,Casual,Pixel,"2025-08-15 06:49:47",1
+P00181,India,APAC,Mobile,Influencer,45,Casual,"Windows 11","2025-08-05 22:30:22",1
+P00182,Brazil,LATAM,NULL,Referral,28,Competitive,"Xbox Series X","2025-11-07 16:41:00",1
+P00183,Brazil,LATAM,Mobile,Influencer,30,Core,"Windows 10","2026-03-08 00:00:00",1
+P00184,"United Kingdom",EMEA,PlayStation,"Paid Search",34,Casual,Pixel,"2025-12-25 00:00:00",1
+P00185,Spain,EMEA,Xbox,Organic,21,Casual,Pixel,"2026-01-17 00:00:00",1
+P00186,Brazil,LATAM,PC,Influencer,18,Casual,Pixel,"2025-12-03 23:21:00",1
+P00187,"United Kingdom",EMEA,PC,Organic,32,Casual,"Windows 10","2026-01-01 00:00:00",1
+P00189,India,APAC,Xbox,"Paid Search",26,Casual,"Android Tablet","2025-08-09 00:00:00",1
+P00190,"United States",NA,PC,Organic,36,Casual,Pixel,"2025-12-01 06:24:00",1
+P00191,India,APAC,Mobile,Discord,39,Core,iPhone,"2025-10-02 04:09:59",1
+P00192,"South Korea",APAC,Mobile,Influencer,44,Core,"Android Tablet","2026-01-11 00:00:00",1
+P00193,India,APAC,Xbox,"Paid Search",39,Casual,"Windows 11","2026-01-16 06:21:00",1
+P00194,Japan,APAC,PlayStation,Organic,41,Casual,iPhone,"2025-09-23 00:00:00",1
+P00195,France,EMEA,Mobile,"Paid Search",31,Casual,"Android Tablet","2026-01-17 04:49:06",1
+P00196,Japan,APAC,PlayStation,Community,37,Core,iPhone,"2025-10-19 10:15:46",1
+P00197,India,APAC,PlayStation,Organic,17,Casual,"Steam Deck","2026-01-27 01:53:32",1
+P00198,India,APAC,PC,Organic,36,Core,iPhone,"2025-12-25 00:00:00",1
+P00199,"United States",NA,PlayStation,Organic,35,Core,"Windows 11","2025-12-03 07:35:00",1
+P00200,India,APAC,Xbox,Influencer,28,Core,iPhone,"2026-01-16 00:13:00",1
+P00201,Brazil,LATAM,PC,Influencer,44,Competitive,"Windows 11","2026-01-17 04:32:31",1
+P00202,"United States",NA,Mobile,Organic,39,Core,"Xbox Series X","2025-12-08 19:51:46",1
+P00204,"United States",NA,PlayStation,Influencer,27,Casual,"Xbox Series X","2026-02-04 00:00:00",1
+P00204,"United States",NA,Xbox,Influencer,27,Casual,"Xbox Series X","2026-02-04 00:00:00",1
+P00205,"South Korea",APAC,Mobile,Influencer,30,Casual,iPad,"2026-01-15 18:26:00",1
+P00206,Australia,APAC,Mobile,"Paid Search",30,Competitive,"Android Tablet","2026-02-26 00:00:00",1
+P00207,"United States",NA,PC,"Paid Search",20,Casual,"Windows 10","2025-11-29 00:00:00",1
+P00208,"United States",NA,PC,Organic,34,Competitive,iPhone,"2026-01-01 00:00:00",1
+P00209,India,APAC,Xbox,Influencer,42,Core,"Windows 11","2025-09-21 23:32:00",1
+P00210,Germany,EMEA,PlayStation,"Paid Search",26,Casual,iPhone,"2025-12-27 00:00:00",1
+P00211,France,EMEA,PC,"Paid Search",43,Competitive,"Android Tablet","2026-02-22 00:00:00",1
+P00212,Brazil,LATAM,Mobile,Influencer,42,Core,"Xbox Series X","2026-01-08 00:00:00",1
+P00213,France,EMEA,Mobile,"App Store",38,Competitive,"Windows 11","2025-10-28 00:00:00",1
+P00214,Brazil,LATAM,Xbox,"App Store",31,Core,iPhone,"2025-12-26 04:48:00",1
+P00215,"United States",NA,Mobile,"Paid Search",28,Core,"Xbox Series X","2025-11-06 00:00:00",1
+P00216,India,APAC,PC,"App Store",22,Casual,"Windows 10","2025-11-09 00:00:00",1
+P00217,Germany,EMEA,Xbox,Organic,23,Competitive,"Samsung Galaxy","2025-12-01 00:00:00",1
+P00218,France,EMEA,PlayStation,Organic,45,Competitive,"Android Tablet","2025-09-07 00:00:00",1
+P00219,France,EMEA,Mobile,Organic,24,Core,iPhone,"2025-08-28 12:34:48",1
+P00220,"United States",NA,PC,Influencer,19,Core,PS5,"2026-01-13 00:41:02",1
+P00221,Brazil,LATAM,Mobile,Organic,24,Casual,"Steam Deck","2025-09-10 00:00:00",1
+P00222,"United States",NA,PC,Organic,25,Core,"Windows 11","2026-01-21 00:00:00",1
+P00223,"United States",NA,Mobile,Organic,33,Core,"Windows 11","2025-10-13 11:13:52",1
+P00224,France,EMEA,PC,Organic,37,Core,iPhone,"2025-11-19 00:00:00",1
+P00225,Japan,APAC,Mobile,Influencer,23,Core,"Windows 11","2025-08-11 00:00:00",1
+P00226,Spain,EMEA,Xbox,Organic,25,Casual,NULL,"2025-08-08 00:00:00",1
+P00227,Brazil,LATAM,PC,Organic,31,Competitive,"Android Tablet","2026-02-06 00:00:00",1
+P00228,Australia,APAC,PC,Discord,40,Core,iPhone,"2026-01-13 00:00:00",1
+P00229,Brazil,LATAM,Xbox,Organic,19,Casual,"Android Tablet","2025-08-05 00:00:00",1
+P00230,France,EMEA,Xbox,Organic,22,Competitive,"Android Tablet","2025-09-11 00:00:00",1
+P00231,Germany,EMEA,Mobile,Organic,19,Competitive,"Windows 11","2025-09-09 00:00:00",1
+P00232,NULL,EMEA,Mobile,Organic,17,Core,"Android Tablet","2026-01-27 00:00:00",1
+P00233,NULL,EMEA,PlayStation,Discord,36,Casual,iPad,"2026-01-27 18:42:20",1
+P00234,Brazil,LATAM,PC,"App Store",23,Core,"Samsung Galaxy","2025-08-23 18:22:00",1
+P00235,Mexico,LATAM,Xbox,"Paid Search",42,Casual,iPhone,"2025-08-26 00:00:00",1
+P00236,Mexico,LATAM,PC,"Paid Search",31,Casual,PS5,"2026-02-25 02:48:00",1
+P00237,India,APAC,Mobile,"App Store",43,Core,PS5,"2025-09-12 00:00:00",1
+P00238,India,APAC,PlayStation,Organic,34,Casual,"Samsung Galaxy","2026-02-14 19:50:11",1
+P00239,"United Kingdom",EMEA,PC,"Paid Search",18,Casual,"Xbox Series X",NULL,1
+P00240,Canada,NA,PC,Influencer,27,Core,"Windows 11","2025-09-01 00:00:00",1
+P00241,India,APAC,Xbox,"Paid Search",39,Core,iPhone,"2026-01-16 00:00:00",1
+P00242,Canada,NA,Mobile,"Paid Search",24,Competitive,iPhone,"2025-10-31 00:00:00",1
+P00243,Japan,APAC,Mobile,Influencer,26,Casual,"Windows 10","2025-10-08 02:03:00",1
+P00243,Japan,APAC,Mobile,Referral,26,Casual,"Windows 10","2025-10-08 02:03:00",1
+P00244,Canada,NA,PlayStation,Influencer,22,Casual,iPhone,"2025-09-02 13:36:00",1
+P00245,"United Kingdom",EMEA,PC,Organic,32,Casual,iPad,"2025-11-29 00:00:00",1
+P00246,"South Korea",APAC,PlayStation,Influencer,20,Core,iPad,"2025-10-06 19:20:00",1
+P00247,"United States",NA,Xbox,Organic,24,Core,"Xbox Series X","2026-01-01 07:59:00",1
+P00248,Canada,NA,PlayStation,Discord,40,Casual,"Windows 10","2026-02-26 00:00:00",1
+P00249,India,APAC,PC,"Paid Search",44,Casual,iPhone,"2025-08-10 00:00:00",1
+P00250,"United States",NA,PC,Influencer,24,Core,Pixel,"2025-12-15 22:39:52",1
+P00251,Canada,NA,Mobile,"Paid Search",30,Core,"Xbox Series X","2025-08-31 00:00:00",1
+P00252,India,NA,PC,Organic,40,Casual,iPhone,"2026-02-26 00:00:00",1
+P00252,"United States",NA,PC,Organic,40,Casual,iPhone,"2026-02-26 00:00:00",1
+P00253,"United Kingdom",EMEA,PlayStation,"Paid Search",23,Competitive,"Samsung Galaxy","2025-08-05 00:00:00",1
+P00254,Brazil,LATAM,PlayStation,Organic,42,Core,NULL,"2025-09-03 00:00:00",1
+P00255,"United States",NA,PC,Influencer,18,Competitive,PS5,"2025-09-04 02:49:00",1
+P00256,India,APAC,Xbox,"Paid Search",19,Core,"Xbox Series X","2025-12-03 18:30:00",1
+P00257,Mexico,LATAM,PC,Organic,39,Casual,iPhone,"2025-10-10 12:10:00",1
+P00258,France,EMEA,PlayStation,Influencer,33,Core,"Samsung Galaxy","2025-12-19 03:32:00",1
+P00259,Canada,NA,Xbox,"Paid Search",37,Core,"Xbox Series X","2025-09-17 23:48:00",1
+P00260,France,EMEA,PC,Organic,36,Core,"Windows 11","2025-10-28 00:00:00",1
+P00261,"South Korea",APAC,Mobile,Referral,33,Core,PS5,NULL,1
+P00262,"South Korea",APAC,Xbox,Influencer,41,Casual,NULL,"2025-09-08 00:00:00",1
+P00263,India,APAC,Mobile,Discord,38,Casual,"Windows 11","2025-11-07 10:21:33",1
+P00264,Brazil,LATAM,PC,"Paid Search",16,Competitive,iPhone,"2025-12-13 13:32:00",1
+P00265,Germany,EMEA,PC,Organic,39,Competitive,"Windows 11","2026-01-20 02:51:22",1
+P00266,India,APAC,PlayStation,"App Store",34,Casual,Pixel,"2025-10-07 00:00:00",1
+P00267,"United States",NA,Xbox,Discord,45,Core,"Samsung Galaxy","2025-09-28 00:00:00",1
+P00268,NULL,NA,Mobile,"Paid Search",42,Casual,PS5,"2025-10-03 05:22:11",1
+P00269,"United States",NA,PC,Organic,45,Casual,"Windows 10","2025-08-06 00:48:55",1
+P00270,India,APAC,Mobile,Influencer,45,Core,"Windows 11",NULL,1
+P00271,Japan,APAC,Mobile,"App Store",20,Core,iPhone,"2026-01-20 00:00:00",1
+P00272,France,EMEA,PC,"App Store",41,Casual,"Xbox Series X","2025-12-06 00:00:00",1
+P00273,Spain,EMEA,PC,NULL,27,Casual,iPhone,"2026-02-26 00:00:00",1
+P00274,Japan,APAC,NULL,"Paid Search",21,Casual,"Windows 11","2025-09-24 00:00:00",1
+P00275,"United States",NA,Xbox,"App Store",26,Casual,"Xbox Series X","2026-01-03 00:00:00",1
+P00276,"United Kingdom",EMEA,PC,Community,37,Casual,"Windows 10","2025-10-18 19:46:09",1
+P00277,Australia,APAC,PC,Discord,28,Core,"Android Tablet","2026-02-09 09:49:00",1
+P00278,"United States",NA,Mobile,Influencer,33,Casual,"Xbox Series X","2025-09-28 02:04:55",1
+P00279,"United States",NA,PC,Influencer,40,Casual,"Xbox Series X","2026-02-12 00:00:00",1
+P00280,Brazil,LATAM,PlayStation,"Paid Search",23,Core,"Windows 10","2025-10-01 00:00:00",1
+P00281,"United States",NA,Mobile,"Paid Search",32,Core,"Windows 10","2025-08-19 00:00:00",1
+P00282,"United Kingdom",EMEA,PlayStation,NULL,23,Casual,"Xbox Series X","2026-01-12 17:57:17",1
+P00283,"United States",NA,PlayStation,"App Store",45,Core,iPhone,"2025-11-17 00:00:00",1
+P00284,"United Kingdom",EMEA,PC,Influencer,41,Casual,Pixel,"2026-02-16 08:49:20",1
+P00285,Canada,NA,Mobile,NULL,21,Core,Pixel,"2025-09-18 22:09:18",1
+P00286,"United Kingdom",EMEA,Mobile,Influencer,16,Casual,"Windows 11","2025-12-24 00:00:00",1
+P00287,"United States",NA,PlayStation,"Paid Search",43,Competitive,"Xbox Series X","2025-08-10 00:00:00",1
+P00288,Brazil,LATAM,Mobile,"Paid Search",23,Core,"Samsung Galaxy","2026-02-05 11:20:00",1
+P00289,India,APAC,Mobile,Influencer,42,Casual,"Windows 10","2026-01-03 00:00:00",1
+P00290,Australia,APAC,Mobile,Influencer,32,Casual,iPhone,"2025-08-10 09:46:39",1
+P00290,Australia,APAC,Mobile,Influencer,32,Casual,iPhone,"2025-11-19 00:00:00",1
+P00291,India,APAC,Mobile,"App Store",NULL,Casual,"Windows 11","2025-09-06 00:00:00",1
+P00292,"South Korea",APAC,Mobile,Influencer,NULL,Casual,PS5,"2025-11-19 23:59:00",1
+P00293,Brazil,LATAM,PC,Organic,39,Core,"Samsung Galaxy","2026-03-06 00:00:00",1
+P00294,"South Korea",APAC,PC,Discord,26,Core,"Windows 10","2025-10-20 19:11:48",1
+P00295,Spain,EMEA,PC,Referral,31,Casual,"Windows 10","2025-10-26 03:29:00",1
+P00296,"United States",NA,PC,Organic,37,Casual,"Windows 11","2025-11-07 00:00:00",1
+P00297,"United States",NA,PC,"Paid Search",35,Casual,"Windows 11","2025-12-18 00:00:00",1
+P00297,France,NA,PC,"Paid Search",35,Casual,"Windows 11","2026-01-20 00:00:00",1
+P00298,Germany,EMEA,PlayStation,Influencer,35,Core,iPhone,"2025-11-14 00:00:00",1
+P00299,"United States",NA,PlayStation,Community,26,Competitive,"Windows 10","2026-01-23 00:00:00",1
+P00301,"United Kingdom",EMEA,Mobile,"App Store",16,Casual,PS5,"2025-11-10 00:00:00",1
+P00302,France,EMEA,PC,"Paid Search",36,Core,PS5,"2025-12-12 11:43:00",1
+P00303,India,APAC,Mobile,Referral,36,Core,NULL,"2025-11-24 00:00:00",1
+P00304,"United Kingdom",EMEA,PC,Organic,NULL,Competitive,PS5,"2025-09-07 22:53:25",1
+P00304,Japan,EMEA,PC,"Paid Search",NULL,Competitive,PS5,"2026-01-31 00:00:00",1
+P00305,India,APAC,Xbox,Discord,NULL,Casual,PS5,"2025-08-20 05:16:00",1
+P00306,"United States",NA,Xbox,Influencer,36,Core,iPad,"2025-09-27 00:00:00",1
+P00307,Australia,APAC,PC,"Paid Search",16,Core,"Samsung Galaxy","2026-01-21 10:41:00",1
+P00308,"United States",NA,Mobile,Influencer,29,Core,iPhone,"2025-08-29 12:48:37",1
+P00309,NULL,EMEA,Xbox,"Paid Search",16,Casual,"Windows 11","2025-10-08 00:00:00",1
+P00310,"United States",NA,Xbox,Organic,22,Core,"Xbox Series X","2026-01-02 03:25:00",1
+P00311,"South korea",APAC,PC,Organic,33,Casual,"Windows 10","2025-11-25 00:00:00",1
+P00312,Canada,NA,PlayStation,Organic,45,Competitive,iPad,"2025-08-16 00:00:00",1
+P00313,Germany,EMEA,Mobile,Influencer,34,Competitive,iPhone,"2025-10-20 00:00:00",1
+P00314,India,APAC,PC,Influencer,26,Core,"Steam Deck","2025-11-01 00:00:00",1
+P00315,"United Kingdom",EMEA,PlayStation,Referral,40,Competitive,iPhone,"2025-12-13 00:00:00",1
+P00316,India,APAC,Mobile,"App Store",17,Casual,"Samsung Galaxy","2025-10-14 00:00:00",1
+P00317,"United Kingdom",EMEA,Xbox,Referral,26,Casual,PS5,"2026-02-02 19:19:46",1
+P00318,"United States",NA,Mobile,Referral,31,Casual,"Samsung Galaxy","2025-08-08 00:00:00",1
+P00319,Australia,APAC,PC,"App Store",18,Casual,iPhone,"2025-10-01 00:00:00",1
+P00320,Spain,EMEA,Xbox,Organic,37,Core,"Samsung Galaxy",NULL,1
+P00321,Germany,EMEA,Mobile,Discord,45,Competitive,"Windows 11","2026-02-19 18:59:00",1
+P00322,"United States",NA,PlayStation,Influencer,23,Casual,NULL,"2026-01-21 00:00:00",1
+P00323,NULL,APAC,PlayStation,"App Store",27,Core,"Windows 10","2025-09-18 04:49:09",1
+P00324,Japan,APAC,Mobile,Organic,39,Casual,"Windows 11","2026-02-01 16:40:00",1
+P00325,Canada,NA,Xbox,Influencer,31,Casual,iPhone,"2026-03-09 00:00:00",1
+P00326,Australia,APAC,PC,"Paid Search",20,Casual,"Xbox Series X","2025-09-16 00:00:00",1
+P00327,"South Korea",APAC,PC,Organic,40,Casual,PS5,"2025-12-22 08:10:00",1
+P00328,India,APAC,PC,"App Store",44,Core,Pixel,"2025-10-24 23:11:48",1
+P00329,France,EMEA,PC,Influencer,34,Core,"Windows 11","2025-08-24 14:10:41",1
+P00330,Canada,NA,PlayStation,Influencer,20,Core,"Windows 10","2025-09-04 00:00:00",1
+P00331,"United States",NA,Mobile,Influencer,23,Casual,"Xbox Series X","2025-09-12 00:00:00",1
+P00332,"United States",NA,PlayStation,"Paid Search",35,Competitive,"Windows 11","2025-11-19 01:32:00",1
+P00333,Australia,APAC,PC,"App Store",24,Core,iPhone,"2025-11-13 04:53:00",1
+P00334,Canada,NA,Xbox,Organic,28,Core,"Windows 11","2025-10-26 12:34:00",1
+P00335,Brazil,LATAM,PC,"Paid Search",34,Core,"Samsung Galaxy","2026-03-01 00:00:00",1
+P00336,"United States",NA,Xbox,"Paid Search",42,Competitive,"Windows 11","2025-10-31 00:00:00",1
+P00337,"United Kingdom",EMEA,Mobile,Influencer,30,Competitive,"Windows 11",NULL,1
+P00338,Mexico,LATAM,Mobile,Organic,26,Casual,"Windows 10","2025-08-13 00:00:00",1
+P00339,Mexico,LATAM,PlayStation,Influencer,24,Core,Pixel,"2025-09-08 16:59:00",1
+P00339,Mexico,LATAM,PlayStation,Influencer,24,Core,Pixel,"2025-12-07 10:36:00",1
+P00340,Japan,NA,Mobile,Influencer,20,Casual,"Windows 11",NULL,1
+P00340,"United States",NA,Mobile,Influencer,20,Casual,"Windows 11",NULL,1
+P00341,India,APAC,Mobile,"Paid Search",16,Core,"Xbox Series X","2026-01-14 00:00:00",1
+P00342,France,EMEA,PC,Discord,26,Competitive,"Windows 11","2025-08-02 00:00:00",1
+P00343,Spain,EMEA,PC,NULL,34,Core,iPad,"2026-01-02 00:00:00",1
+P00344,Mexico,LATAM,Mobile,Referral,44,Core,iPad,"2025-12-14 00:00:00",1
+P00345,Canada,NA,Xbox,Influencer,22,Casual,PS5,"2025-10-31 18:03:00",1
+P00346,Brazil,LATAM,PC,Influencer,25,Casual,iPhone,"2025-12-24 00:00:00",1
+P00347,"United States",NA,PlayStation,"Paid Search",44,Competitive,NULL,"2026-01-10 00:00:00",1
+P00348,India,APAC,PlayStation,"Paid Search",25,Casual,"Windows 11","2026-01-26 02:55:00",1
+P00349,France,EMEA,PC,Influencer,23,Competitive,"Android Tablet","2025-09-19 00:00:00",1
+P00350,India,APAC,Mobile,Organic,NULL,Competitive,"Windows 10","2025-09-01 00:00:00",1
+P00351,Germany,EMEA,PC,Organic,19,Core,"Xbox Series X","2025-12-31 09:03:00",1
+P00352,Mexico,LATAM,PlayStation,Community,18,Competitive,iPad,"2025-12-16 18:03:00",1
+P00353,Germany,EMEA,PC,Influencer,40,Competitive,"Samsung Galaxy","2026-02-13 00:00:00",1
+P00354,"United States",NA,Mobile,"Paid Search",24,Casual,"Xbox Series X","2025-10-04 00:00:00",1
+P00355,Spain,EMEA,PC,Referral,19,Casual,"Android Tablet","2025-10-07 11:15:00",1
+P00356,"United States",NA,PlayStation,Organic,40,Core,NULL,"2025-09-16 08:10:00",1
+P00357,France,EMEA,PlayStation,"Paid Search",36,Core,PS5,"2026-01-20 00:00:00",1
+P00358,"United States",APAC,PlayStation,Influencer,18,Core,Pixel,"2025-12-04 13:46:00",1
+P00358,India,APAC,PlayStation,Influencer,18,Core,Pixel,"2025-12-09 00:00:00",1
+P00359,Mexico,LATAM,PC,Referral,34,Competitive,"Windows 11","2025-10-27 05:20:00",1
+P00360,"United Kingdom",EMEA,PC,Organic,39,Casual,iPhone,"2026-01-16 00:40:00",1
+P00361,"United States",NA,Mobile,"App Store",42,Casual,"Windows 11","2026-02-21 00:00:00",1
+P00362,Brazil,LATAM,PC,"Paid Search",42,Casual,PS5,"2025-08-21 00:00:00",1
+P00363,"United States",NA,NULL,NULL,27,Competitive,"Samsung Galaxy","2025-10-27 00:00:00",1
+P00364,France,EMEA,Xbox,"Paid Search",23,Casual,iPhone,"2026-01-26 18:40:09",1
+P00365,Japan,APAC,PC,Referral,32,Casual,"Windows 11","2025-12-25 00:00:00",1
+P00366,"United States",NA,PC,Organic,32,Competitive,"Windows 10","2026-02-05 00:00:00",1
+P00367,Canada,NA,Mobile,Discord,27,Core,"Windows 11","2025-08-21 23:30:39",1
+P00368,Canada,NA,Mobile,Community,17,Competitive,"Windows 11","2025-09-17 00:00:00",1
+P00369,"United States",NA,PlayStation,Organic,18,Casual,"Android Tablet","2025-08-19 22:28:00",1
+P00370,India,APAC,PlayStation,Influencer,39,Core,"Windows 11","2025-12-10 00:00:00",1
+P00371,"United States",NA,Xbox,Discord,44,Core,"Windows 10","2025-09-23 10:42:00",1
+P00372,NULL,APAC,Mobile,"Paid Search",24,Competitive,iPhone,"2025-10-21 00:00:00",1
+P00373,Spain,EMEA,PC,Referral,42,Core,PS5,"2025-09-15 18:30:00",1
+P00374,India,APAC,PC,Influencer,20,Casual,iPad,"2026-01-11 00:00:00",1
+P00375,Brazil,LATAM,PC,Community,37,Casual,"Windows 11","2025-09-12 00:00:00",1
+P00376,France,EMEA,Xbox,Influencer,21,Casual,iPhone,"2025-09-26 19:44:00",1
+P00377,Germany,EMEA,PlayStation,Influencer,19,Core,"Steam Deck","2026-02-02 01:42:00",1
+P00378,India,APAC,Xbox,Influencer,43,Casual,NULL,"2025-11-24 00:00:00",1
+P00380,Japan,APAC,Xbox,Organic,30,Core,iPhone,"2026-02-08 00:00:00",1
+P00381,Canada,NA,Xbox,"App Store",29,Casual,PS5,"2025-09-09 00:00:00",1
+P00382,"South Korea",APAC,PC,"Paid Search",33,Core,"Windows 11","2025-12-15 00:00:00",1
+P00383,"United Kingdom",EMEA,Xbox,Organic,28,Casual,"Samsung Galaxy","2025-09-03 00:00:00",1
+P00384,Canada,NA,PC,Influencer,NULL,Casual,"Windows 10","2025-09-07 00:00:00",1
+P00385,"United States",NA,PC,Organic,33,Casual,"Xbox Series X","2025-11-19 02:29:00",1
+P00386,Japan,APAC,PC,Influencer,26,Casual,iPhone,"2025-10-17 21:24:00",1
+P00387,"United States",NA,Xbox,Influencer,30,Casual,"Windows 10","2026-01-23 00:00:00",1
+P00388,Mexico,LATAM,Mobile,Influencer,28,Casual,"Xbox Series X","2025-08-24 00:00:00",1
+P00389,India,APAC,Mobile,Influencer,16,Casual,"Samsung Galaxy","2025-08-06 07:20:00",1
+P00390,Canada,NA,Mobile,Organic,30,Casual,PS5,"2025-11-21 23:19:00",1
+P00391,"United Kingdom",EMEA,PlayStation,Organic,28,Core,"Windows 10","2025-10-19 22:02:00",1
+P00392,"United Kingdom",EMEA,Mobile,Organic,34,Casual,"Windows 10","2025-08-27 17:19:59",1
+P00393,Spain,EMEA,Mobile,Organic,28,Core,"Windows 10","2025-10-20 00:00:00",1
+P00394,Germany,EMEA,Mobile,Organic,29,Core,"Windows 10","2026-01-27 09:54:30",1
+P00395,Mexico,LATAM,Mobile,"Paid Search",NULL,Casual,iPhone,"2025-12-26 00:00:00",1
+P00396,Spain,EMEA,Mobile,Influencer,32,Core,"Windows 11","2025-08-14 00:00:00",1
+P00396,Spain,EMEA,Mobile,"Paid Search",32,Core,"Windows 11","2025-08-14 00:00:00",1
+P00397,"United Kingdom",EMEA,Mobile,Influencer,16,Casual,"Windows 10","2026-01-30 04:26:00",1
+P00398,Japan,APAC,Mobile,"Paid Search",38,Casual,iPhone,"2026-03-09 15:19:00",1
+P00399,Japan,APAC,PlayStation,"Paid Search",30,Core,"Windows 11","2025-10-04 00:00:00",1
+P00400,NULL,EMEA,NULL,Influencer,31,Casual,"Windows 11","2025-11-22 00:00:00",1
+P00401,Brazil,LATAM,Mobile,"Paid Search",16,Core,"Xbox Series X","2026-03-01 00:00:00",1
+P00402,Canada,NA,Mobile,"Paid Search",25,Casual,PS5,"2025-10-27 00:00:00",1
+P00403,Canada,NA,Mobile,"App Store",19,Casual,"Samsung Galaxy","2025-08-13 00:00:00",1
+P00404,Japan,APAC,Mobile,Influencer,43,Core,"Windows 11","2026-02-13 13:56:16",1
+P00405,India,APAC,PC,Influencer,23,Casual,"Windows 11","2025-11-22 14:05:08",1
+P00406,Spain,EMEA,PlayStation,Organic,43,Competitive,"Xbox Series X","2026-01-31 00:00:00",1
+P00409,Canada,NA,PC,Influencer,29,Core,"Windows 10","2025-12-21 00:00:00",1
+P00411,"United States",NA,PC,Referral,28,Casual,iPhone,"2025-12-13 20:01:00",1
+P00412,France,EMEA,Xbox,Influencer,42,Casual,"Windows 11","2026-01-11 00:00:00",1
+P00413,Germany,EMEA,PC,Organic,27,Core,Pixel,"2025-11-16 00:00:00",1
+P00414,India,APAC,PC,"App Store",NULL,Casual,PS5,"2025-11-02 18:07:00",1
+P00415,"United States",NA,Mobile,Influencer,34,Competitive,"Android Tablet","2025-11-02 00:00:00",1
+P00416,Germany,EMEA,PC,Referral,25,Competitive,"Windows 10","2026-01-26 01:41:00",1
+P00417,NULL,EMEA,PC,"App Store",45,Core,iPhone,"2025-09-22 00:00:00",1
+P00418,"South korea",APAC,PlayStation,Organic,17,Core,"Steam Deck","2025-09-05 00:00:00",1
+P00419,India,APAC,Mobile,Organic,39,Casual,"Steam Deck","2025-11-04 00:00:00",1
+P00420,India,APAC,Xbox,Community,37,Casual,"Steam Deck","2026-02-28 09:54:00",1
+P00421,"United States",NA,PlayStation,Influencer,22,Casual,"Xbox Series X","2025-11-17 00:00:00",1
+P00422,Germany,EMEA,PC,Community,27,Casual,"Windows 10","2025-11-28 22:00:46",1
+P00423,India,APAC,PlayStation,Influencer,31,Casual,PS5,"2026-01-28 00:00:00",1
+P00424,India,APAC,Xbox,"Paid Search",29,Casual,"Android Tablet","2025-08-14 00:00:00",1
+P00425,Japan,APAC,Mobile,Organic,31,Casual,iPhone,"2026-02-17 00:00:00",1
+P00426,Australia,APAC,Xbox,Influencer,44,Core,"Android Tablet","2025-09-21 17:06:00",1
+P00427,India,APAC,Xbox,Organic,41,Competitive,"Xbox Series X","2025-11-28 00:00:00",1
+P00428,Canada,NA,Mobile,Discord,24,Casual,"Android Tablet","2025-11-24 08:36:00",1
+P00429,Canada,NA,Mobile,Influencer,43,Core,PS5,"2025-11-04 00:00:00",1
+P00430,Japan,APAC,PlayStation,"Paid Search",39,Competitive,iPhone,"2026-01-21 00:00:00",1
+P00431,India,APAC,Mobile,Influencer,33,Casual,"Samsung Galaxy","2025-09-04 00:00:00",1
+P00432,"United Kingdom",EMEA,Mobile,"Paid Search",34,Competitive,"Android Tablet","2025-09-21 00:00:00",1
+P00433,India,APAC,PlayStation,Organic,18,Casual,PS5,"2025-08-03 00:00:00",1
+P00434,France,EMEA,PC,Discord,39,Competitive,iPhone,"2026-02-18 00:00:00",1
+P00435,"United Kingdom",EMEA,PlayStation,"Paid Search",21,Casual,"Samsung Galaxy","2025-12-29 11:37:00",1
+P00436,NULL,EMEA,Mobile,Referral,26,Core,"Windows 11","2025-08-05 00:00:00",1
+P00437,Australia,APAC,Mobile,Organic,29,Casual,"Xbox Series X","2025-10-16 15:25:48",1
+P00438,"United States",NA,PlayStation,Discord,NULL,Core,"Xbox Series X","2025-12-24 00:00:00",1
+P00439,Canada,NA,PC,"Paid Search",41,Core,"Android Tablet","2025-09-03 00:00:00",1
+P00440,Spain,EMEA,PlayStation,Influencer,38,Casual,"Android Tablet","2026-02-21 00:00:00",1
+P00441,"United States",NA,PlayStation,Discord,36,Competitive,"Samsung Galaxy","2026-03-03 06:46:00",1
+P00442,Mexico,LATAM,Xbox,Influencer,27,Core,"Windows 10","2025-12-25 05:00:39",1
+P00443,Canada,NA,Mobile,"Paid Search",33,Core,"Android Tablet","2025-10-15 06:22:00",1
+P00444,France,EMEA,Mobile,Organic,29,Casual,"Samsung Galaxy","2025-11-18 00:00:00",1
+P00445,Mexico,LATAM,PC,"App Store",40,Casual,iPhone,"2025-08-19 00:05:00",1
+P00446,"United Kingdom",EMEA,PC,Referral,35,Casual,Pixel,"2025-08-08 12:30:00",1
+P00447,Brazil,LATAM,PlayStation,Organic,43,Casual,"Windows 10","2025-08-17 08:31:37",1
+P00448,France,EMEA,Xbox,Referral,NULL,Core,"Android Tablet","2025-10-09 06:43:00",1
+P00449,India,APAC,PC,Influencer,42,Casual,PS5,"2025-10-19 00:00:00",1
+P00450,France,EMEA,PlayStation,Influencer,27,Casual,"Windows 11","2026-03-02 18:26:31",1
+P00451,India,APAC,PlayStation,"Paid Search",27,Casual,"Windows 11","2025-09-21 23:49:00",1
+P00452,Australia,APAC,PC,Referral,NULL,Core,PS5,"2025-10-04 00:00:00",1
+P00452,Japan,APAC,PC,Referral,NULL,Core,PS5,"2025-10-04 00:00:00",1
+P00453,Japan,APAC,PlayStation,Organic,44,Core,iPhone,"2025-11-14 02:46:00",1
+P00454,Australia,APAC,PC,Influencer,41,Casual,"Samsung Galaxy","2025-09-12 00:00:00",1
+P00455,Germany,EMEA,PC,Influencer,34,Casual,"Xbox Series X","2026-02-03 00:00:00",1
+P00456,"United Kingdom",EMEA,Mobile,Referral,34,Casual,"Windows 10",NULL,1
+P00457,"United States",NA,PC,"Paid Search",38,Casual,"Windows 11","2025-08-15 22:49:51",1
+P00458,"United States",NA,Mobile,Organic,21,Core,Pixel,"2026-02-01 23:53:40",1
+P00459,Brazil,LATAM,PlayStation,Organic,20,Casual,iPhone,"2025-11-11 00:00:00",1
+P00460,France,EMEA,Xbox,Organic,35,Casual,iPad,NULL,1
+P00461,India,APAC,PC,Referral,32,Competitive,"Samsung Galaxy","2026-01-24 02:48:36",1
+P00462,India,APAC,NULL,Referral,43,Casual,"Windows 10","2026-03-08 00:00:00",1
+P00463,"United States",NA,Xbox,"Paid Search",30,Core,iPhone,"2025-12-19 00:00:00",1
+P00464,Germany,EMEA,PC,Influencer,24,Casual,"Windows 11","2025-12-14 05:07:56",1
+P00464,Mexico,EMEA,PC,Influencer,24,Casual,"Windows 11","2026-02-20 00:00:00",1
+P00465,Spain,EMEA,PlayStation,"Paid Search",NULL,Casual,iPad,"2025-08-20 00:00:00",1
+P00466,India,APAC,Mobile,Organic,45,Casual,"Samsung Galaxy","2025-11-19 00:00:00",1
+P00467,"United States",NA,Mobile,Referral,26,Core,iPhone,"2026-02-23 08:51:00",1
+P00468,India,APAC,PlayStation,Organic,24,Core,iPhone,"2026-02-04 00:00:00",1
+P00469,Germany,EMEA,PlayStation,Influencer,24,Casual,"Xbox Series X","2025-12-27 00:00:00",1
+P00470,Germany,EMEA,PC,Referral,31,Casual,"Windows 11","2026-01-08 00:00:00",1
+P00471,Mexico,LATAM,PC,"Paid Search",35,Casual,NULL,"2025-08-16 00:00:00",1
+P00472,"United States",NA,PlayStation,"Paid Search",35,Casual,"Samsung Galaxy","2025-10-04 06:37:40",1
+P00473,Japan,APAC,Mobile,"Paid Search",42,Competitive,"Samsung Galaxy","2026-03-02 09:45:00",1
+P00474,Germany,EMEA,PlayStation,"App Store",31,Core,"Windows 11","2025-10-07 00:00:00",1
+P00475,Canada,NA,PlayStation,Influencer,34,Casual,"Android Tablet","2026-02-21 21:41:06",1
+P00476,Spain,EMEA,Mobile,Referral,21,Casual,"Samsung Galaxy","2025-12-20 11:03:31",1
+P00477,Brazil,LATAM,PlayStation,Influencer,31,Core,"Windows 11","2026-03-06 11:37:00",1
+P00478,"United States",NA,PC,"Paid Search",37,Core,iPhone,"2025-08-12 00:00:00",1
+P00479,"United States",NA,PlayStation,Organic,23,Core,"Samsung Galaxy","2026-02-11 10:35:00",1
+P00480,Australia,APAC,PC,Influencer,45,Casual,"Windows 11","2026-02-23 01:57:00",1
+P00481,India,APAC,PC,"Paid Search",NULL,Core,"Android Tablet","2026-01-07 03:34:00",1
+P00482,Brazil,LATAM,PC,"Paid Search",37,Core,PS5,"2025-09-08 20:05:00",1
+P00483,Japan,APAC,Xbox,Discord,20,Casual,"Windows 11","2025-11-03 00:00:00",1
+P00484,"United Kingdom",EMEA,PlayStation,Referral,29,Casual,PS5,"2026-01-18 00:00:00",1
+P00485,"United States",NA,Mobile,Organic,22,Casual,iPhone,"2026-02-14 00:00:00",1
+P00486,"United States",NA,PC,Organic,34,Core,"Steam Deck","2025-10-22 04:30:00",1
+P00487,Mexico,LATAM,PlayStation,Organic,24,Competitive,"Xbox Series X","2026-02-05 00:00:00",1
+P00488,"South Korea",APAC,PC,Influencer,21,Competitive,"Windows 10","2025-11-25 00:00:00",1
+P00489,Canada,NA,Mobile,Community,39,Core,iPad,"2026-01-26 17:00:00",1
+P00490,Australia,APAC,PlayStation,Influencer,32,Casual,"Windows 11","2025-11-06 14:58:00",1
+P00491,India,APAC,PC,"Paid Search",17,Core,"Xbox Series X","2026-02-19 00:00:00",1
+P00492,"United States",NA,Xbox,"Paid Search",21,Casual,"Xbox Series X","2026-02-28 00:00:00",1
+P00493,Brazil,LATAM,PC,Influencer,43,Core,"Windows 11","2026-02-10 00:00:00",1
+P00494,France,EMEA,PlayStation,Organic,29,Casual,iPhone,"2026-01-23 00:00:00",1
+P00495,Germany,EMEA,PC,Influencer,22,Core,PS5,"2026-02-20 00:00:00",1
+P00496,Japan,APAC,PC,Influencer,22,Core,"Windows 11","2026-01-25 16:33:27",1
+P00497,"United States",NA,Xbox,Influencer,33,Casual,"Xbox Series X","2025-08-03 00:00:00",1
+P00498,"United States",NA,PlayStation,"App Store",37,Core,"Samsung Galaxy","2025-12-09 00:00:00",1
+P00499,Canada,NA,PlayStation,Discord,23,Casual,"Windows 11","2025-12-05 00:00:00",1
+P00500,France,EMEA,Mobile,"Paid Search",23,Core,Pixel,"2025-08-23 00:00:00",1
+P00501,"United Kingdom",EMEA,Mobile,Influencer,36,Core,iPad,"2025-10-17 00:00:00",1
+P00502,"United States",NA,PC,"Paid Search",41,Casual,PS5,"2025-09-24 00:00:00",1
+P00503,India,APAC,Mobile,"Paid Search",36,Core,"Android Tablet","2025-11-12 00:00:00",1
+P00504,"United States",NA,PC,"Paid Search",21,Casual,iPad,"2026-01-14 00:00:00",1
+P00505,"United States",NA,PC,Organic,33,Casual,"Windows 10",NULL,1
+P00506,India,APAC,PlayStation,"Paid Search",31,Casual,"Xbox Series X","2025-11-25 00:00:00",1
+P00507,"South Korea",APAC,PC,Influencer,45,Casual,"Windows 11","2025-08-07 00:00:00",1
+P00508,Canada,NA,PC,Organic,30,Casual,"Windows 10","2025-09-29 00:00:00",1
+P00509,Canada,NA,Mobile,"Paid Search",NULL,Casual,iPhone,"2025-11-28 01:19:00",1
+P00510,India,APAC,Xbox,Organic,35,Casual,"Android Tablet","2025-12-23 22:34:00",1
+P00511,France,EMEA,Xbox,Influencer,19,Core,"Xbox Series X","2026-01-17 08:16:00",1
+P00512,Australia,APAC,PC,"App Store",37,Competitive,iPhone,"2026-03-03 00:00:00",1
+P00513,"United States",NA,Xbox,Organic,26,Casual,"Steam Deck","2025-12-13 13:52:32",1
+P00514,Mexico,LATAM,Xbox,Organic,17,Core,"Samsung Galaxy","2025-10-04 15:25:21",1
+P00515,India,APAC,PC,Organic,18,Core,"Windows 11","2026-01-18 00:00:00",1
+P00516,Brazil,LATAM,Mobile,"Paid Search",29,Core,"Windows 11","2025-11-24 12:25:00",1
+P00517,"United States",NA,PlayStation,Organic,40,Casual,iPhone,"2025-10-01 13:08:19",1
+P00518,"United States",NA,PC,Organic,38,Casual,PS5,"2025-09-22 00:00:00",1
+P00519,Brazil,LATAM,PlayStation,Referral,29,Casual,"Samsung Galaxy","2025-10-16 07:49:00",1
+P00520,NULL,APAC,PC,Influencer,NULL,Casual,iPad,"2025-11-22 00:00:00",1
+P00521,Japan,APAC,Xbox,"Paid Search",NULL,Casual,PS5,"2026-01-22 00:00:00",1
+P00521,Japan,APAC,Xbox,"Paid Search",NULL,Casual,PS5,"2026-02-26 20:12:28",1
+P00522,"United States",NA,PC,Organic,29,Core,"Xbox Series X","2025-09-19 00:00:00",1
+P00523,Australia,APAC,Mobile,Influencer,NULL,Core,"Windows 11","2025-10-13 22:48:51",1
+P00524,India,APAC,PC,Discord,45,Core,"Windows 11","2025-08-09 00:00:00",1
+P00525,"United Kingdom",EMEA,PC,Discord,37,Casual,"Windows 10","2025-12-30 14:38:00",1
+P00526,India,APAC,PlayStation,Organic,33,Casual,"Windows 10","2025-09-21 21:47:34",1
+P00527,"United States",NA,PlayStation,Influencer,NULL,Core,PS5,"2025-08-04 17:52:00",1
+P00528,Mexico,LATAM,PC,Influencer,20,Casual,PS5,"2026-03-04 01:42:39",1
+P00529,"United Kingdom",EMEA,Xbox,Influencer,NULL,Casual,PS5,"2026-02-01 16:24:16",1
+P00530,France,EMEA,PC,Organic,31,Casual,"Windows 10","2025-11-23 00:00:00",1
+P00531,Germany,EMEA,Xbox,Organic,31,Casual,"Xbox Series X","2025-12-07 00:00:00",1
+P00532,Canada,NA,PlayStation,Community,45,Casual,"Windows 10","2025-12-03 00:00:00",1
+P00533,Japan,APAC,PlayStation,Influencer,27,Casual,Pixel,"2025-10-10 00:00:00",1
+P00534,Brazil,LATAM,Xbox,Referral,16,Casual,PS5,"2025-08-20 19:09:50",1
+P00535,Brazil,LATAM,PlayStation,Influencer,43,Core,"Xbox Series X","2025-08-16 00:00:00",1
+P00536,Japan,APAC,Xbox,"App Store",39,Casual,"Windows 11","2025-11-08 00:00:00",1
+P00537,India,APAC,PC,Community,31,Casual,"Android Tablet","2025-12-22 20:53:00",1
+P00537,India,APAC,PC,Referral,31,Casual,"Android Tablet","2025-12-22 20:53:00",1
+P00538,Australia,APAC,PC,Influencer,26,Competitive,"Windows 11","2025-10-13 00:00:00",1
+P00539,Germany,EMEA,Xbox,Influencer,39,Competitive,iPhone,"2025-12-27 00:00:00",1
+P00540,Germany,EMEA,PC,Organic,24,Casual,"Windows 11","2026-03-05 23:07:00",1
+P00541,Canada,NA,Mobile,"Paid Search",23,Competitive,"Windows 11","2025-08-09 00:00:00",1
+P00542,India,APAC,Xbox,NULL,22,Core,"Samsung Galaxy","2025-08-01 00:00:00",1
+P00543,Germany,EMEA,PC,Influencer,34,Core,"Samsung Galaxy","2025-10-05 05:03:00",1
+P00544,Canada,NA,PlayStation,Discord,42,Casual,"Xbox Series X","2025-12-01 23:14:00",1
+P00545,Mexico,LATAM,Mobile,Discord,28,Casual,"Android Tablet","2025-12-22 09:08:52",1
+P00546,"United Kingdom",EMEA,Mobile,Organic,26,Core,"Windows 10","2025-09-25 00:00:00",1
+P00547,Germany,EMEA,Xbox,Influencer,NULL,Casual,"Windows 11","2026-01-20 18:50:00",1
+P00548,France,EMEA,Mobile,Influencer,23,Core,"Samsung Galaxy","2025-11-03 00:00:00",1
+P00549,India,APAC,Mobile,Organic,23,Core,iPhone,"2025-08-20 00:00:00",1
+P00550,NULL,EMEA,Mobile,Influencer,30,Competitive,PS5,"2025-10-17 00:00:00",1
+P00551,NULL,APAC,PC,"Paid Search",28,Core,iPhone,"2025-12-16 00:00:00",1
+P00552,"United Kingdom",EMEA,Mobile,Community,41,Core,"Windows 10","2025-11-28 00:00:00",1
+P00553,"United Kingdom",EMEA,PlayStation,"Paid Search",44,Casual,"Windows 10","2025-08-11 03:40:10",1
+P00554,France,EMEA,Mobile,Discord,18,Core,"Windows 11",NULL,1
+P00555,Germany,EMEA,PlayStation,Influencer,18,Core,"Windows 11","2025-11-06 00:00:00",1
+P00556,India,APAC,PC,Organic,16,Competitive,"Windows 10","2025-09-01 00:00:00",1
+P00557,"United States",NA,Mobile,Influencer,40,Casual,"Windows 11","2025-11-19 10:50:09",1
+P00558,Mexico,LATAM,Mobile,Organic,38,Core,"Windows 10","2025-08-21 14:51:40",1
+P00559,Japan,APAC,PC,Organic,18,Competitive,PS5,"2025-08-09 00:00:00",1
+P00560,France,EMEA,PC,Discord,40,Casual,"Windows 11","2025-12-02 10:51:00",1
+P00561,Brazil,LATAM,PC,Organic,37,Core,"Samsung Galaxy","2025-10-27 00:00:00",1
+P00562,"United States",NA,PC,Community,19,Casual,"Windows 10","2025-12-13 00:00:00",1
+P00563,Spain,EMEA,PC,Community,32,Competitive,"Windows 11","2026-01-01 00:00:00",1
+P00564,India,APAC,Mobile,Organic,17,Casual,"Windows 11","2026-02-09 15:11:00",1
+P00565,India,APAC,PC,Organic,43,Casual,"Windows 11","2025-09-25 00:00:00",1
+P00566,"United Kingdom",EMEA,PC,Referral,18,Core,"Android Tablet","2025-12-28 23:20:00",1
+P00567,France,EMEA,PC,"Paid Search",30,Competitive,"Windows 10","2025-08-02 00:51:00",1
+P00568,"United Kingdom",EMEA,Xbox,"Paid Search",22,Casual,"Windows 10","2026-02-04 21:31:02",1
+P00569,"United States",NA,Mobile,Influencer,33,Competitive,"Windows 10","2026-01-03 07:59:00",1
+P00570,Australia,APAC,Mobile,Organic,NULL,Competitive,NULL,"2026-02-21 00:00:00",1
+P00571,"South korea",APAC,PlayStation,Influencer,39,Competitive,PS5,"2025-11-02 00:00:00",1
+P00572,Mexico,LATAM,NULL,Organic,37,Core,Pixel,"2025-12-23 00:00:00",1
+P00573,Australia,APAC,Mobile,Influencer,41,Casual,iPhone,"2025-11-02 00:00:00",1
+P00574,India,APAC,PC,Organic,41,Core,Pixel,"2025-10-05 03:22:00",1
+P00575,India,APAC,Xbox,Discord,28,Core,"Windows 10","2025-12-01 00:00:00",1
+P00576,India,APAC,Xbox,Influencer,24,Casual,Pixel,"2026-02-06 00:00:00",1
+P00577,Spain,EMEA,PC,Influencer,40,Competitive,"Steam Deck","2026-03-05 00:00:00",1
+P00578,"United States",NA,PC,Discord,17,Casual,"Windows 11","2025-11-11 00:00:00",1
+P00579,India,APAC,PC,"Paid Search",16,Core,"Android Tablet","2025-10-24 09:42:00",1
+P00580,"United States",NA,PC,"Paid Search",19,Core,iPhone,"2026-01-31 23:53:45",1
+P00581,India,APAC,Mobile,Organic,40,Casual,"Windows 11","2025-10-09 00:00:00",1
+P00582,Mexico,LATAM,Mobile,Referral,45,Core,"Windows 10","2025-09-07 05:28:00",1
+P00582,France,LATAM,Mobile,Referral,45,Core,"Windows 10","2026-01-20 00:00:00",1
+P00583,Brazil,LATAM,PC,"Paid Search",32,Core,"Windows 10","2025-10-20 00:09:44",1
+P00584,NULL,NA,Xbox,"Paid Search",29,Competitive,"Xbox Series X","2025-10-07 00:00:00",1
+P00585,India,APAC,PlayStation,Organic,21,Casual,"Windows 10","2025-10-13 11:27:00",1
+P00586,Japan,APAC,Mobile,Discord,18,Competitive,"Windows 11","2026-03-08 01:23:00",1
+P00587,Germany,EMEA,Mobile,Influencer,38,Competitive,"Android Tablet","2025-12-13 15:31:00",1
+P00587,Germany,EMEA,Xbox,"App Store",38,Competitive,"Android Tablet","2025-12-13 15:31:00",1
+P00588,Germany,EMEA,Mobile,Discord,28,Core,"Windows 11","2025-09-05 00:00:00",1
+P00589,Brazil,LATAM,PC,"Paid Search",29,Core,"Windows 10","2026-01-19 00:00:00",1
+P00590,India,APAC,PC,Influencer,23,Core,"Android Tablet","2026-01-11 09:26:00",1
+P00591,Germany,EMEA,PC,Organic,34,Casual,"Windows 11","2025-10-14 07:00:00",1
+P00591,"South Korea",EMEA,PC,Organic,34,Casual,"Windows 11","2025-10-14 07:00:00",1
+P00592,Japan,APAC,PC,Organic,26,Core,"Windows 10","2025-08-08 00:00:00",1
+P00593,Japan,APAC,Mobile,"Paid Search",17,Casual,iPad,"2026-02-05 00:00:00",1
+P00594,India,APAC,Xbox,"Paid Search",27,Core,Pixel,"2025-11-20 00:00:00",1
+P00595,"United States",NA,PC,Influencer,26,Core,"Xbox Series X","2025-08-09 00:00:00",1
+P00596,Canada,NA,Mobile,Organic,33,Casual,"Android Tablet","2025-08-31 00:00:00",1
+P00597,Mexico,LATAM,Mobile,Influencer,18,Core,Pixel,"2025-09-09 00:00:00",1
+P00598,India,APAC,Xbox,"Paid Search",21,Casual,PS5,"2025-12-25 00:00:00",1
+P00599,India,APAC,PC,Organic,45,Casual,"Xbox Series X","2025-10-19 02:36:16",1
+P00600,India,APAC,PlayStation,Organic,36,Casual,"Windows 10","2025-08-13 00:00:00",1
+P00601,"United States",NA,PlayStation,Referral,27,Casual,iPhone,"2026-01-25 13:59:00",1
+P00602,Spain,EMEA,PC,Influencer,26,Core,"Windows 11","2025-08-21 00:00:00",1
+P00603,Brazil,LATAM,PlayStation,"Paid Search",41,Casual,"Windows 11","2026-01-25 00:44:00",1
+P00604,Mexico,LATAM,PlayStation,Community,26,Core,"Xbox Series X","2025-08-09 19:02:09",1
+P00605,Mexico,LATAM,PlayStation,Referral,26,Competitive,iPhone,"2025-08-23 00:00:00",1
+P00606,Germany,EMEA,PC,Influencer,24,Core,iPhone,"2026-01-05 00:00:00",1
+P00607,Japan,APAC,PC,Organic,30,Casual,"Windows 11","2026-02-09 10:20:29",1
+P00608,Canada,EMEA,Xbox,Organic,18,Casual,NULL,"2025-08-03 08:22:00",1
+P00608,Germany,EMEA,Mobile,Organic,18,Casual,NULL,"2025-08-03 08:22:00",1
+P00609,"United States",NA,PC,Referral,41,Core,iPhone,"2025-09-23 00:00:00",1
+P00610,Mexico,LATAM,Xbox,NULL,45,Core,iPhone,NULL,1
+P00611,"United Kingdom",EMEA,Mobile,Discord,NULL,Core,PS5,"2026-03-08 02:58:00",1
+P00612,"United States",NA,PC,Referral,34,Core,"Samsung Galaxy","2025-08-03 10:18:05",1
+P00613,Mexico,LATAM,PC,Organic,32,Competitive,"Windows 10","2026-01-07 00:00:00",1
+P00614,"United States",NA,PlayStation,Organic,29,Casual,"Xbox Series X","2026-03-06 00:00:00",1
+P00615,"South Korea",APAC,PC,"App Store",18,Core,"Xbox Series X","2026-02-22 05:34:00",1
+P00616,Australia,APAC,Mobile,Influencer,17,Core,PS5,"2025-08-09 00:00:00",1
+P00617,Mexico,LATAM,Mobile,"Paid Search",33,Core,iPhone,"2025-12-31 01:27:00",1
+P00618,Germany,EMEA,PC,Influencer,42,Casual,iPhone,"2026-01-21 00:00:00",1
+P00619,Mexico,LATAM,PC,Influencer,22,Core,Pixel,"2025-11-26 00:00:00",1
+P00620,Brazil,LATAM,PC,Discord,42,Core,NULL,"2025-09-24 00:00:00",1
+P00621,Brazil,LATAM,PlayStation,Discord,42,Casual,"Windows 11","2025-11-06 00:00:00",1
+P00622,Brazil,LATAM,Mobile,Organic,37,Casual,Pixel,"2025-12-04 00:00:00",1
+P00623,"South korea",APAC,PC,"Paid Search",45,Core,PS5,"2025-11-03 00:00:00",1
+P00624,India,APAC,Mobile,Influencer,29,Core,PS5,NULL,1
+P00626,India,APAC,PlayStation,"App Store",43,Competitive,PS5,"2025-10-07 00:00:00",1
+P00627,Brazil,LATAM,PlayStation,"Paid Search",18,Competitive,"Windows 10","2025-09-07 00:00:00",1
+P00628,"United States",NA,Xbox,Organic,26,Casual,iPhone,"2026-02-04 14:54:00",1
+P00629,"South Korea",APAC,PlayStation,Influencer,NULL,Casual,"Windows 11","2026-03-09 10:19:04",1
+P00630,Mexico,LATAM,PC,Organic,18,Competitive,PS5,"2025-10-06 00:00:00",1
+P00631,India,APAC,PC,Influencer,27,Casual,PS5,"2025-11-29 00:00:00",1
+P00633,Brazil,LATAM,Mobile,"App Store",39,Casual,"Windows 11","2025-08-01 00:00:00",1
+P00634,Canada,NA,Xbox,"App Store",19,Core,PS5,"2025-12-03 18:34:20",1
+P00635,France,EMEA,PC,Influencer,32,Core,"Samsung Galaxy","2025-09-17 00:00:00",1
+P00636,"United States",NA,Mobile,Influencer,36,Core,iPhone,"2025-12-23 00:00:00",1
+P00637,"United States",NA,Xbox,NULL,NULL,Casual,"Samsung Galaxy","2025-10-29 21:41:40",1
+P00638,Mexico,LATAM,Mobile,"Paid Search",16,Competitive,iPhone,"2026-01-20 06:16:00",1
+P00639,Germany,EMEA,Mobile,Organic,32,Casual,Pixel,"2025-09-23 05:39:00",1
+P00640,Canada,NA,Mobile,Organic,44,Competitive,"Steam Deck","2026-02-28 23:38:16",1
+P00641,Mexico,LATAM,PlayStation,Organic,35,Casual,"Xbox Series X","2025-09-15 00:00:00",1
+P00642,France,EMEA,Mobile,Organic,41,Core,Pixel,"2025-12-26 00:00:00",1
+P00643,France,EMEA,PC,Influencer,28,Core,"Windows 11","2025-10-13 22:43:00",1
+P00644,Spain,EMEA,PlayStation,Organic,17,Core,"Xbox Series X","2026-01-18 10:19:00",1
+P00645,"United Kingdom",EMEA,PlayStation,Influencer,22,Core,"Windows 10","2026-03-01 00:00:00",1
+P00646,India,APAC,NULL,Influencer,30,Core,"Windows 11","2025-12-31 00:00:00",1
+P00647,Japan,APAC,Xbox,Discord,37,Casual,"Android Tablet","2025-08-25 00:00:00",1
+P00648,France,EMEA,PC,"Paid Search",45,Core,"Windows 11","2025-10-08 00:00:00",1
+P00649,Japan,APAC,Mobile,Referral,16,Casual,"Windows 11","2025-08-14 08:04:00",1
+P00650,"United States",NA,PC,Discord,34,Casual,"Samsung Galaxy","2025-11-04 00:00:00",1
+P00651,Spain,EMEA,PlayStation,Influencer,34,Core,"Xbox Series X","2025-10-16 18:12:00",1
+P00652,Australia,APAC,Mobile,Organic,18,Core,NULL,"2025-12-15 15:49:00",1
+P00653,France,APAC,NULL,Influencer,39,Casual,"Windows 11","2025-11-10 00:00:00",1
+P00653,Japan,APAC,NULL,Influencer,39,Casual,"Windows 11","2025-11-10 00:00:00",1
+P00654,"South Korea",APAC,PC,Discord,17,Casual,"Xbox Series X","2026-02-03 00:00:00",1
+P00655,Australia,APAC,NULL,"App Store",NULL,Casual,Pixel,"2026-03-04 00:00:00",1
+P00656,Canada,NA,PlayStation,Influencer,38,Casual,"Windows 10","2025-09-08 00:00:00",1
+P00657,France,EMEA,PlayStation,Discord,16,Core,iPhone,"2025-11-08 14:37:40",1
+P00658,India,APAC,Mobile,Influencer,20,Competitive,"Windows 10","2025-12-06 16:52:54",1
+P00659,Brazil,LATAM,Mobile,Discord,45,Core,iPhone,NULL,1
+P00660,NULL,NA,PlayStation,Organic,39,Competitive,PS5,"2026-03-06 00:00:00",1
+P00661,"United Kingdom",EMEA,PC,Influencer,28,Casual,"Windows 11","2025-10-28 19:34:49",1
+P00662,"South Korea",APAC,PC,Influencer,35,Casual,"Windows 11","2025-11-05 00:00:00",1
+P00663,Germany,EMEA,PC,Influencer,43,Casual,"Samsung Galaxy","2025-11-14 22:31:57",1
+P00664,"United States",NA,PC,Organic,25,Core,"Windows 11","2026-01-23 15:53:28",1
+P00665,Brazil,LATAM,Mobile,Influencer,17,Competitive,Pixel,"2025-12-19 00:00:00",1
+P00666,"United Kingdom",EMEA,Mobile,"Paid Search",45,Core,iPhone,"2025-11-05 16:58:00",1
+P00667,Japan,APAC,PC,Referral,26,Casual,"Windows 11","2025-12-05 14:00:00",1
+P00668,"United States",NA,PlayStation,"Paid Search",45,Core,"Windows 11","2025-08-12 00:00:00",1
+P00669,Germany,EMEA,PlayStation,Referral,21,Casual,iPhone,"2025-11-01 00:00:00",1
+P00670,NULL,EMEA,PC,Organic,26,Casual,"Xbox Series X","2025-12-17 17:52:18",1
+P00671,"United States",NA,Xbox,"App Store",35,Casual,"Windows 11","2026-01-27 00:00:00",1
+P00672,India,APAC,NULL,"App Store",35,Competitive,"Windows 11","2025-09-14 00:00:00",1
+P00673,Brazil,LATAM,PC,Discord,NULL,Casual,"Windows 11","2026-01-18 00:00:00",1
+P00674,"United States",NA,PlayStation,"App Store",40,Casual,"Steam Deck","2026-02-01 00:00:00",1
+P00675,Canada,NA,Mobile,"Paid Search",28,Casual,"Windows 10","2026-03-06 00:00:00",1
+P00676,"South korea",APAC,PC,"Paid Search",43,Competitive,Pixel,"2025-10-05 00:00:00",1
+P00677,India,APAC,Xbox,Referral,44,Casual,iPhone,"2026-03-01 11:24:00",1
+P00679,"South korea",APAC,PC,Organic,33,Casual,iPhone,"2026-02-02 00:00:00",1
+P00680,"United States",NA,PC,Influencer,31,Casual,iPhone,"2025-11-11 00:00:00",1
+P00681,"United Kingdom",EMEA,Mobile,"Paid Search",26,Core,iPhone,"2025-09-04 04:48:00",1
+P00682,Canada,NA,PC,Community,34,Casual,"Windows 10","2025-08-21 00:00:00",1
+P00683,"United States",NA,PlayStation,Organic,20,Casual,iPhone,"2025-10-17 03:58:00",1
+P00684,"United States",NA,Mobile,"Paid Search",NULL,Casual,"Xbox Series X","2025-11-22 01:07:20",1
+P00685,France,EMEA,PC,"Paid Search",22,Casual,"Android Tablet","2025-10-04 00:08:00",1
+P00686,"United States",NA,Xbox,Organic,19,Core,"Windows 10","2025-12-15 00:00:00",1
+P00687,"United States",NA,Xbox,"Paid Search",19,Casual,iPhone,"2025-09-09 00:00:00",1
+P00688,Germany,EMEA,Mobile,Organic,43,Competitive,iPhone,"2025-12-21 02:28:00",1
+P00689,"United States",NA,Xbox,Influencer,17,Casual,Pixel,"2025-12-30 06:21:00",1
+P00690,Japan,APAC,Mobile,Referral,43,Casual,PS5,"2026-01-11 19:09:00",1
+P00691,"United Kingdom",EMEA,Xbox,Influencer,44,Core,"Windows 10","2025-08-27 00:00:00",1
+P00692,Mexico,LATAM,Mobile,Influencer,41,Core,iPhone,"2025-09-14 17:57:48",1
+P00693,"United States",NA,PC,Community,38,Competitive,"Android Tablet","2025-11-05 00:00:00",1
+P00694,France,EMEA,Mobile,"Paid Search",24,Casual,"Steam Deck","2025-09-28 00:00:00",1
+P00695,India,APAC,PC,Referral,29,Core,"Android Tablet","2025-12-19 00:00:00",1
+P00696,"United States",NA,Mobile,Influencer,40,Casual,"Windows 10","2026-02-08 22:35:00",1
+P00697,Japan,APAC,PlayStation,"Paid Search",43,Core,"Windows 10","2025-10-10 09:29:00",1
+P00698,Australia,APAC,Mobile,Influencer,17,Competitive,"Windows 10","2026-01-17 00:00:00",1
+P00699,"United Kingdom",EMEA,Xbox,Discord,44,Core,"Windows 10","2025-08-15 00:00:00",1
+P00700,Canada,NA,PC,"App Store",40,Competitive,iPad,"2025-12-18 19:30:52",1
+P00701,Canada,NA,Xbox,"App Store",21,Competitive,"Xbox Series X","2025-10-19 00:00:00",1
+P00702,"United Kingdom",EMEA,PC,Influencer,26,Core,"Windows 11","2026-02-09 13:38:51",1
+P00703,Canada,NA,Xbox,Organic,24,Core,iPad,"2025-12-31 00:00:00",1
+P00704,"United Kingdom",EMEA,PC,Organic,40,Core,"Xbox Series X","2025-08-14 00:00:00",1
+P00705,Australia,APAC,Mobile,Organic,20,Competitive,PS5,"2025-12-21 05:55:00",1
+P00706,Germany,EMEA,Xbox,Influencer,36,Casual,"Android Tablet","2026-01-27 05:54:35",1
+P00707,India,APAC,PC,Organic,19,Casual,iPhone,"2025-08-28 00:00:00",1
+P00708,France,EMEA,Mobile,Organic,30,Casual,"Samsung Galaxy","2025-10-03 19:28:00",1
+P00709,"United Kingdom",EMEA,PC,"App Store",30,Casual,iPhone,"2026-03-04 19:48:00",1
+P00710,"United Kingdom",EMEA,Mobile,Influencer,41,Core,Pixel,"2025-12-13 00:00:00",1
+P00711,"South Korea",APAC,PC,"Paid Search",18,Competitive,"Windows 10","2025-12-10 04:07:27",1
+P00712,Mexico,LATAM,PC,Organic,45,Casual,"Android Tablet","2025-11-01 00:00:00",1
+P00712,Mexico,LATAM,PC,Organic,45,Casual,"Android Tablet","2026-02-06 00:00:00",1
+P00713,Australia,APAC,Xbox,Organic,17,Core,"Steam Deck","2025-11-17 00:00:00",1
+P00714,"United States",NA,PlayStation,"Paid Search",27,Casual,"Samsung Galaxy","2026-03-01 00:00:00",1
+P00715,Germany,EMEA,Mobile,Referral,17,Casual,"Windows 11","2025-09-19 00:00:00",1
+P00716,India,APAC,Xbox,Influencer,26,Casual,"Windows 11","2025-08-17 12:42:00",1
+P00717,India,APAC,PC,Influencer,44,Casual,Pixel,"2025-12-28 21:38:00",1
+P00718,Canada,NA,PC,"Paid Search",43,Core,"Xbox Series X","2025-08-12 00:00:00",1
+P00719,Mexico,LATAM,Xbox,Influencer,42,Casual,iPhone,"2025-10-20 00:00:00",1
+P00720,"South Korea",APAC,PlayStation,Organic,39,Casual,"Windows 10","2025-11-28 15:07:00",1
+P00721,Germany,EMEA,Xbox,Organic,32,Core,iPhone,"2025-08-08 00:00:00",1
+P00722,France,EMEA,Mobile,Organic,43,Casual,"Windows 11","2025-11-09 00:00:00",1
+P00723,"South korea",APAC,Xbox,Organic,37,Core,"Windows 11",NULL,1
+P00724,"United Kingdom",EMEA,PC,NULL,39,Competitive,iPhone,"2025-08-25 00:00:00",1
+P00725,"United States",NA,Xbox,Organic,37,Core,"Xbox Series X","2025-11-23 09:54:00",1
+P00726,"United States",NA,Mobile,"Paid Search",24,Casual,"Steam Deck","2025-10-03 00:00:00",1
+P00727,Spain,EMEA,PC,Influencer,17,Core,Pixel,"2025-11-21 14:23:51",1
+P00728,India,APAC,PC,Community,18,Competitive,iPhone,"2025-10-15 00:00:00",1
+P00729,France,EMEA,PC,Influencer,17,Competitive,"Windows 11",NULL,1
+P00730,"United Kingdom",EMEA,Mobile,Influencer,41,Core,PS5,"2026-02-21 00:00:00",1
+P00731,Brazil,LATAM,PlayStation,"Paid Search",16,Casual,iPhone,"2025-11-15 00:00:00",1
+P00732,India,APAC,NULL,Organic,26,Core,"Xbox Series X","2025-09-11 11:57:42",1
+P00733,India,APAC,PC,"Paid Search",24,Core,PS5,"2025-10-19 00:00:00",1
+P00734,Canada,NA,PC,Influencer,43,Casual,"Xbox Series X","2026-01-31 00:00:00",1
+P00735,France,EMEA,PlayStation,Influencer,22,Casual,"Android Tablet","2025-12-19 00:00:00",1
+P00736,Australia,APAC,Mobile,"App Store",34,Competitive,"Windows 11","2025-10-11 00:00:00",1
+P00737,Germany,EMEA,PlayStation,Influencer,28,Core,"Samsung Galaxy","2026-01-29 00:00:00",1
+P00738,Spain,EMEA,PC,Influencer,36,Casual,"Steam Deck","2025-09-12 00:00:00",1
+P00739,France,EMEA,Mobile,Influencer,18,Casual,Pixel,"2025-09-21 02:56:00",1
+P00740,Canada,NA,PlayStation,NULL,16,Casual,"Windows 10","2025-11-15 10:28:39",1
+P00741,Germany,EMEA,PlayStation,Referral,24,Competitive,"Windows 10","2025-08-07 00:00:00",1
+P00742,France,EMEA,Xbox,Community,23,Casual,Pixel,"2026-01-11 08:56:00",1
+P00743,"United States",NA,Xbox,Organic,26,Core,"Steam Deck","2026-01-18 07:01:00",1
+P00744,India,APAC,PC,Organic,NULL,Casual,"Xbox Series X","2025-12-26 00:00:00",1
+P00745,"United States",NA,PlayStation,"Paid Search",20,Casual,"Windows 11","2025-10-19 12:57:00",1
+P00746,Brazil,LATAM,PC,"Paid Search",27,Casual,"Windows 11","2026-02-06 16:41:00",1
+P00747,France,EMEA,Xbox,Influencer,37,Competitive,NULL,"2025-10-24 16:40:00",1
+P00748,"United States",NA,Xbox,"Paid Search",19,Casual,"Steam Deck","2025-09-03 06:33:00",1
+P00749,Canada,NA,Mobile,Organic,31,Casual,PS5,"2025-12-24 13:37:50",1
+P00750,Spain,EMEA,Mobile,"Paid Search",29,Core,iPhone,"2025-08-29 00:00:00",1
+P00750,Spain,EMEA,Mobile,Organic,29,Core,iPhone,"2025-09-30 11:33:00",1
+P00751,Japan,APAC,PlayStation,Organic,28,Competitive,"Samsung Galaxy","2025-11-19 15:59:16",1
+P00752,Japan,APAC,PC,"App Store",33,Casual,"Windows 11","2026-03-04 02:31:44",1
+P00752,Japan,APAC,Xbox,"App Store",33,Casual,"Windows 11","2026-03-04 02:31:44",1
+P00753,Spain,EMEA,PC,Influencer,28,Casual,"Samsung Galaxy","2025-12-17 00:00:00",1
+P00753,"United States",EMEA,PC,"App Store",28,Casual,"Samsung Galaxy","2025-12-17 00:00:00",1
+P00754,"United States",NA,Mobile,"Paid Search",45,Casual,"Steam Deck","2025-11-13 00:00:00",1
+P00755,Germany,EMEA,Mobile,"Paid Search",29,Core,"Samsung Galaxy","2025-10-22 00:00:00",1
+P00756,Australia,APAC,Mobile,Organic,NULL,Competitive,"Windows 11","2025-12-11 00:00:00",1
+P00757,India,APAC,Mobile,"App Store",31,Casual,"Steam Deck","2025-10-19 00:00:00",1
+P00758,"United States",NA,PC,Influencer,43,Casual,"Windows 11","2025-09-13 00:00:00",1
+P00759,NULL,APAC,Mobile,"App Store",39,Casual,Pixel,"2025-09-11 16:40:09",1
+P00760,India,APAC,Xbox,Organic,28,Core,"Windows 11","2025-09-02 15:32:59",1
+P00761,Canada,NA,Xbox,Referral,28,Competitive,"Xbox Series X","2026-01-16 15:54:15",1
+P00762,Spain,EMEA,Mobile,Referral,45,Core,"Windows 10","2025-08-16 00:00:00",1
+P00763,India,APAC,PC,Organic,25,Core,"Android Tablet","2025-09-13 08:08:00",1
+P00764,"South korea",APAC,PC,Organic,20,Casual,"Windows 11","2025-09-11 14:51:06",1
+P00765,France,EMEA,Mobile,Organic,23,Casual,"Windows 11","2025-10-19 00:00:00",1
+P00766,"South Korea",APAC,PC,"Paid Search",43,Core,"Windows 10","2025-12-21 07:05:00",1
+P00767,Germany,EMEA,PC,Discord,43,Core,"Windows 11","2025-09-17 00:00:00",1
+P00768,Mexico,LATAM,PlayStation,Influencer,33,Core,PS5,"2025-11-29 00:00:00",1
+P00769,"United Kingdom",EMEA,Mobile,Organic,29,Core,"Android Tablet","2025-12-20 00:00:00",1
+P00770,Spain,EMEA,PC,Organic,17,Core,PS5,"2026-01-11 14:56:00",1
+P00771,Canada,NA,PC,Organic,31,Casual,"Windows 11","2025-09-06 00:00:00",1
+P00772,"United Kingdom",EMEA,Xbox,Organic,31,Casual,"Windows 11","2025-12-15 00:00:00",1
+P00773,India,APAC,Mobile,NULL,24,Casual,"Windows 10",NULL,1
+P00774,"United States",NA,Mobile,Influencer,22,Competitive,"Windows 10","2025-12-11 03:25:00",1
+P00775,"United Kingdom",EMEA,Mobile,"Paid Search",20,Core,"Samsung Galaxy","2025-10-20 00:00:00",1
+P00776,Spain,EMEA,PC,Referral,16,Competitive,"Windows 10","2025-12-31 23:59:00",1
+P00777,Japan,APAC,PC,Influencer,34,Casual,"Xbox Series X","2026-01-10 04:34:39",1
+P00778,"United States",NA,PlayStation,Community,43,Core,iPhone,"2026-01-22 23:40:16",1
+P00779,"United States",NA,PlayStation,Influencer,43,Casual,iPhone,"2025-09-27 00:00:00",1
+P00780,"United States",NA,Mobile,Discord,26,Core,"Windows 10","2026-01-12 04:13:02",1
+P00781,Brazil,LATAM,PC,Influencer,24,Competitive,"Windows 11","2025-10-15 12:19:00",1
+P00781,Brazil,LATAM,PC,Influencer,24,Competitive,"Windows 11","2026-02-11 00:00:00",1
+P00782,Brazil,LATAM,Mobile,Referral,33,Core,NULL,"2025-10-10 00:00:00",1
+P00783,India,APAC,Mobile,"Paid Search",31,Casual,"Samsung Galaxy","2025-11-12 00:00:00",1
+P00784,"United Kingdom",EMEA,Mobile,Referral,30,Core,"Samsung Galaxy","2025-08-29 00:00:00",1
+P00785,"United States",NA,PC,Influencer,27,Casual,"Samsung Galaxy","2025-12-04 21:03:00",1
+P00786,Mexico,LATAM,PC,"Paid Search",26,Casual,NULL,"2025-10-20 00:00:00",1
+P00786,Japan,LATAM,PC,"Paid Search",26,Casual,NULL,"2026-03-08 00:05:45",1
+P00787,"United Kingdom",EMEA,Xbox,Organic,34,Core,iPhone,"2025-08-28 13:30:07",1
+P00788,Brazil,LATAM,PC,Influencer,44,Casual,"Steam Deck","2026-02-14 06:53:10",1
+P00789,"South Korea",APAC,Xbox,"App Store",36,Casual,iPhone,"2025-10-19 07:38:00",1
+P00790,Canada,NA,Xbox,Influencer,20,Competitive,"Windows 11","2025-10-27 00:00:00",1
+P00791,Germany,EMEA,NULL,"Paid Search",37,Competitive,"Windows 11","2025-09-29 00:00:00",1
+P00792,Canada,NA,Xbox,"Paid Search",23,Competitive,iPhone,"2026-02-06 13:02:00",1
+P00793,France,EMEA,PC,Organic,NULL,Casual,"Xbox Series X","2025-11-01 03:58:31",1
+P00794,Japan,APAC,PC,Discord,NULL,Core,Pixel,"2025-09-27 02:11:00",1
+P00795,Brazil,LATAM,PlayStation,Influencer,31,Casual,"Android Tablet","2025-09-26 13:33:08",1
+P00796,France,EMEA,PC,Influencer,45,Casual,iPhone,"2026-02-09 23:05:00",1
+P00797,India,APAC,Xbox,Influencer,26,Core,"Windows 11","2025-10-01 00:00:00",1
+P00798,"South Korea",APAC,Mobile,Influencer,23,Casual,Pixel,"2025-11-14 04:25:00",1
+P00799,"United States",NA,PC,Influencer,26,Core,"Windows 10","2025-09-10 21:13:00",1
+P00800,India,APAC,PC,Organic,39,Core,"Android Tablet","2026-01-03 00:00:00",1
+P00801,"United States",NA,Mobile,Organic,31,Casual,"Windows 10","2025-08-08 00:00:00",1
+P00802,Brazil,LATAM,PlayStation,"Paid Search",27,Competitive,"Samsung Galaxy","2025-11-11 00:00:00",1
+P00803,Canada,NA,NULL,Influencer,31,Competitive,NULL,"2025-11-06 06:38:45",1
+P00804,Mexico,LATAM,PlayStation,Referral,38,Core,iPad,"2025-08-17 00:00:00",1
+P00805,"United Kingdom",EMEA,Mobile,Influencer,21,Casual,PS5,"2026-01-28 00:00:00",1
+P00806,France,EMEA,PlayStation,Influencer,42,Casual,"Xbox Series X","2026-02-28 18:19:00",1
+P00806,France,EMEA,PlayStation,"Paid Search",42,Casual,"Xbox Series X","2026-02-28 18:19:00",1
+P00807,Brazil,LATAM,PC,Organic,20,Core,"Android Tablet","2025-08-15 06:39:00",1
+P00808,Mexico,LATAM,PC,Influencer,20,Casual,"Windows 10","2025-12-04 23:45:00",1
+P00809,"United States",NA,PlayStation,"Paid Search",24,Casual,"Windows 10","2026-01-22 00:00:00",1
+P00810,Spain,EMEA,PC,"Paid Search",17,Competitive,PS5,"2026-02-11 00:00:00",1
+P00811,India,NA,PlayStation,Organic,44,Casual,"Windows 11","2026-01-03 19:43:00",1
+P00811,Canada,NA,PlayStation,Organic,44,Casual,"Windows 11","2026-02-04 07:16:00",1
+P00812,"United Kingdom",EMEA,PC,"App Store",40,Core,PS5,"2025-09-20 03:03:32",1
+P00813,Germany,EMEA,Xbox,Influencer,26,Casual,"Samsung Galaxy","2025-12-11 22:43:00",1
+P00814,"South korea",APAC,Mobile,Community,33,Casual,iPad,"2025-10-05 00:00:00",1
+P00815,India,APAC,PC,Influencer,16,Casual,PS5,"2026-01-25 00:00:00",1
+P00816,Mexico,LATAM,PlayStation,Organic,32,Casual,iPhone,"2026-02-17 00:00:00",1
+P00817,India,APAC,PC,Influencer,20,Casual,Pixel,"2025-10-13 06:53:39",1
+P00818,"United States",NA,Mobile,Organic,26,Casual,"Android Tablet","2026-02-20 00:00:00",1
+P00819,"United States",NA,PlayStation,"App Store",29,Competitive,"Samsung Galaxy","2026-01-28 08:07:00",1
+P00820,Brazil,LATAM,PC,"Paid Search",34,Casual,"Android Tablet","2026-01-30 00:00:00",1
+P00821,Japan,APAC,Mobile,Influencer,23,Core,iPhone,"2025-11-13 02:46:00",1
+P00822,Brazil,LATAM,Xbox,Influencer,23,Core,"Xbox Series X","2025-09-16 00:00:00",1
+P00823,"United States",EMEA,PC,"Paid Search",45,Casual,PS5,"2025-09-04 12:27:50",1
+P00823,"United Kingdom",EMEA,PC,"Paid Search",45,Casual,PS5,"2026-01-27 00:00:00",1
+P00824,Brazil,LATAM,PC,Influencer,30,Casual,PS5,"2025-09-01 00:00:00",1
+P00825,"South korea",APAC,PlayStation,"App Store",39,Casual,"Steam Deck","2025-11-10 00:51:00",1
+P00826,Germany,EMEA,PC,Organic,25,Casual,PS5,"2025-11-19 10:35:00",1
+P00827,Japan,APAC,Mobile,Influencer,34,Core,"Windows 10","2026-01-06 07:07:00",1
+P00827,"United States",APAC,Mobile,Organic,34,Core,"Windows 10","2026-01-06 07:07:00",1
+P00828,India,APAC,PlayStation,"Paid Search",18,Casual,"Windows 11","2026-02-05 00:00:00",1
+P00829,"United States",NA,PC,"Paid Search",NULL,Competitive,"Samsung Galaxy","2025-09-12 17:54:00",1
+P00830,"United States",NA,Xbox,"Paid Search",28,Competitive,"Xbox Series X","2025-09-06 00:00:00",1
+P00831,"South korea",APAC,Mobile,Discord,26,Core,iPhone,"2026-01-04 09:33:25",1
+P00832,Japan,APAC,Xbox,Community,20,Core,"Windows 11","2025-08-11 19:43:00",1
+P00832,Japan,APAC,Xbox,Influencer,20,Core,"Windows 11","2025-08-11 19:43:00",1
+P00833,"United Kingdom",EMEA,PC,Referral,32,Core,Pixel,"2025-09-23 00:00:00",1
+P00834,India,APAC,PC,Organic,23,Core,"Windows 11","2026-03-08 16:33:27",1
+P00835,France,EMEA,Xbox,"Paid Search",37,Core,iPhone,"2026-01-25 00:00:00",1
+P00836,Japan,APAC,PlayStation,Influencer,33,Casual,"Windows 11","2026-01-27 10:22:56",1
+P00837,Mexico,LATAM,PC,Discord,20,Core,PS5,"2025-10-08 11:53:00",1
+P00838,Germany,EMEA,Xbox,"App Store",30,Casual,"Samsung Galaxy","2025-09-12 00:00:00",1
+P00839,Brazil,LATAM,Mobile,Organic,NULL,Core,iPhone,"2025-11-27 00:00:00",1
+P00840,India,APAC,PC,Referral,28,Casual,iPhone,"2025-08-22 00:00:00",1
+P00841,"United Kingdom",EMEA,PC,Organic,43,Casual,iPhone,"2026-01-22 00:34:44",1
+P00842,"United States",NA,Xbox,Influencer,28,Casual,"Xbox Series X","2025-12-10 00:00:00",1
+P00843,"United Kingdom",EMEA,PC,Influencer,42,Core,"Android Tablet","2025-10-02 12:27:00",1
+P00844,France,EMEA,Mobile,"Paid Search",44,Casual,"Windows 11","2025-12-14 10:47:53",1
+P00845,"United States",NA,PC,Referral,42,Casual,"Xbox Series X","2026-01-06 00:00:00",1
+P00846,Spain,EMEA,Mobile,Influencer,43,Competitive,"Android Tablet","2025-09-27 00:00:00",1
+P00847,Germany,EMEA,PC,Referral,17,Casual,"Windows 11","2025-08-30 14:37:31",1
+P00848,"United States",NA,PlayStation,"Paid Search",23,Core,"Windows 10","2026-03-01 00:00:00",1
+P00849,"South Korea",APAC,Xbox,Influencer,39,Casual,PS5,"2026-01-08 21:50:00",1
+P00850,Japan,APAC,PlayStation,Influencer,17,Casual,"Android Tablet","2026-01-01 00:00:00",1
+P00851,Australia,APAC,Mobile,Influencer,33,Casual,iPad,"2025-11-06 23:58:22",1
+P00852,Mexico,LATAM,PC,Discord,39,Competitive,"Windows 10","2025-08-13 00:00:00",1
+P00853,"United States",NA,PlayStation,"Paid Search",24,Core,iPhone,"2025-09-19 00:30:00",1
+P00854,Mexico,LATAM,Mobile,Influencer,22,Casual,"Samsung Galaxy","2026-01-24 22:36:09",1
+P00855,Australia,APAC,PlayStation,Referral,20,Casual,iPhone,"2025-12-12 15:32:06",1
+P00856,France,EMEA,Mobile,Organic,33,Casual,"Xbox Series X","2025-12-22 00:00:00",1
+P00857,Mexico,LATAM,PlayStation,Influencer,27,Casual,"Windows 10",NULL,1
+P00858,Australia,APAC,PC,Discord,29,Core,iPad,"2026-01-17 11:52:00",1
+P00859,India,APAC,PC,Organic,19,Casual,"Windows 11","2025-11-13 05:26:00",1
+P00860,Mexico,LATAM,Mobile,Referral,38,Casual,iPhone,"2025-12-16 00:00:00",1
+P00861,Canada,NA,Mobile,Influencer,32,Core,PS5,"2026-02-17 00:00:00",1
+P00862,Mexico,LATAM,PC,"Paid Search",23,Casual,"Windows 10","2025-09-22 15:05:40",1
+P00863,"United Kingdom",EMEA,PC,Organic,29,Competitive,iPhone,"2025-08-19 19:53:31",1
+P00864,"United States",NA,Mobile,Community,36,Core,"Windows 10","2025-11-28 00:00:00",1
+P00865,"South Korea",APAC,Mobile,Organic,20,Core,"Xbox Series X","2025-11-24 00:00:00",1
+P00866,NULL,EMEA,Xbox,Influencer,39,Casual,PS5,"2026-02-19 12:57:47",1
+P00867,"United Kingdom",EMEA,Mobile,Influencer,34,Competitive,"Windows 10","2025-12-05 00:00:00",1
+P00868,"United States",NA,PC,"Paid Search",45,Core,"Android Tablet","2025-09-04 00:00:00",1
+P00868,"United States",NA,PC,"Paid Search",45,Core,"Android Tablet","2025-11-18 07:26:28",1
+P00869,"United States",NA,PC,NULL,38,Casual,"Windows 10","2025-11-25 00:00:00",1
+P00870,India,APAC,PlayStation,"App Store",42,Core,PS5,"2025-08-18 00:00:00",1
+P00871,"United States",NA,PlayStation,"App Store",24,Casual,"Xbox Series X","2025-10-17 15:49:51",1
+P00871,Japan,NA,Xbox,"App Store",24,Casual,"Xbox Series X","2025-11-08 21:37:23",1
+P00872,"United States",NA,PC,"Paid Search",37,Core,PS5,"2025-09-08 08:18:00",1
+P00873,Japan,APAC,Xbox,Referral,36,Casual,iPhone,"2026-03-06 00:00:00",1
+P00874,India,APAC,PlayStation,Community,22,Core,"Windows 10","2026-01-23 17:22:00",1
+P00875,"United States",NA,Mobile,Referral,28,Casual,PS5,"2025-12-22 00:00:00",1
+P00876,Germany,EMEA,Mobile,"Paid Search",45,Competitive,PS5,"2025-10-11 00:00:00",1
+P00877,Japan,APAC,PlayStation,Discord,22,Casual,PS5,"2026-01-17 05:44:31",1
+P00878,"United Kingdom",EMEA,Mobile,NULL,20,Casual,Pixel,"2025-08-09 08:07:00",1
+P00879,"United States",NA,Mobile,Community,24,Competitive,NULL,"2025-10-14 00:00:00",1
+P00880,"United States",NA,PC,Organic,22,Casual,Pixel,"2025-12-30 00:00:00",1
+P00881,"United States",NA,Mobile,Referral,37,Casual,PS5,"2025-11-06 00:00:00",1
+P00882,India,APAC,PC,Community,27,Core,iPhone,"2025-11-18 11:49:00",1
+P00883,India,APAC,PC,"Paid Search",20,Core,"Windows 11","2025-08-05 00:00:00",1
+P00884,"United States",NA,PC,Influencer,34,Casual,iPad,"2025-09-02 00:00:00",1
+P00885,India,APAC,PC,Influencer,22,Competitive,"Samsung Galaxy","2026-01-23 00:00:00",1
+P00886,Japan,APAC,Mobile,Influencer,18,Casual,Pixel,"2026-01-02 15:01:04",1
+P00887,Germany,EMEA,PC,Influencer,21,Casual,"Windows 11","2025-09-17 00:00:00",1
+P00888,India,APAC,NULL,"Paid Search",22,Competitive,"Windows 10","2025-08-15 00:00:00",1
+P00889,Australia,APAC,PC,Influencer,31,Core,PS5,"2025-10-03 00:00:00",1
+P00890,"United States",NA,PC,Organic,20,Core,"Android Tablet","2025-08-29 00:00:00",1
+P00891,"United States",NA,PlayStation,Organic,21,Core,PS5,"2025-11-05 00:00:00",1
+P00892,Germany,EMEA,Mobile,Referral,20,Core,PS5,"2025-11-18 12:05:00",1
+P00893,"United Kingdom",EMEA,Mobile,"Paid Search",21,Core,"Xbox Series X","2026-03-04 00:00:00",1
+P00894,India,APAC,PC,Discord,18,Core,"Windows 11","2026-02-14 05:15:00",1
+P00895,France,EMEA,Mobile,"App Store",19,Core,"Windows 10","2025-09-27 00:00:00",1
+P00896,"South korea",APAC,PlayStation,Influencer,38,Casual,iPhone,"2025-09-25 22:45:00",1
+P00896,India,APAC,PlayStation,Influencer,38,Casual,iPhone,"2025-10-03 00:00:00",1
+P00897,"United States",NA,Mobile,Influencer,41,Casual,"Android Tablet","2026-01-29 01:56:00",1
+P00898,"United States",NA,PC,"Paid Search",27,Casual,"Windows 10",NULL,1
+P00899,Mexico,LATAM,Mobile,"Paid Search",28,Casual,"Xbox Series X","2025-10-09 05:48:00",1
+P00900,"United Kingdom",EMEA,PlayStation,Influencer,38,Core,"Android Tablet","2025-10-22 00:00:00",1
+P00901,Germany,EMEA,PlayStation,Discord,27,Competitive,"Samsung Galaxy","2025-10-31 00:00:00",1
+P00902,India,APAC,PlayStation,Referral,24,Core,iPad,"2025-10-16 09:04:00",1
+P00903,"South Korea",APAC,PC,Discord,20,Casual,"Steam Deck","2025-11-12 06:41:00",1
+P00904,France,EMEA,Mobile,"App Store",44,Core,"Steam Deck","2025-10-16 02:47:00",1
+P00905,"United States",NA,PC,Organic,30,Competitive,"Windows 11","2026-02-18 12:45:31",1
+P00906,"United Kingdom",EMEA,PC,Influencer,NULL,Core,iPhone,"2025-09-17 04:10:00",1
+P00907,Brazil,LATAM,Mobile,Influencer,36,Competitive,"Windows 11","2026-01-21 00:00:00",1
+P00908,"United Kingdom",EMEA,PlayStation,NULL,35,Casual,"Windows 11","2025-09-18 00:00:00",1
+P00909,Australia,APAC,Mobile,Influencer,21,Casual,PS5,"2025-11-18 03:31:00",1
+P00910,Mexico,LATAM,PlayStation,Organic,36,Casual,"Windows 11","2026-03-07 05:32:00",1
+P00911,"United Kingdom",EMEA,Xbox,Organic,22,Competitive,"Windows 11","2026-02-12 14:10:24",1
+P00912,Spain,EMEA,Mobile,Referral,39,Casual,"Windows 10","2025-08-19 03:40:00",1
+P00913,"United Kingdom",EMEA,PlayStation,Influencer,38,Casual,"Windows 11","2026-01-25 00:00:00",1
+P00914,"United States",NA,Mobile,"Paid Search",30,Casual,iPad,"2026-01-31 00:00:00",1
+P00915,Germany,EMEA,PC,"Paid Search",45,Casual,"Windows 11","2025-08-22 00:00:00",1
+P00916,France,EMEA,Mobile,"Paid Search",32,Core,"Xbox Series X","2025-10-22 05:56:22",1
+P00917,Mexico,LATAM,PlayStation,Influencer,27,Casual,Pixel,"2025-08-19 00:00:00",1
+P00918,India,APAC,Mobile,"Paid Search",40,Core,"Android Tablet","2026-02-23 20:53:00",1
+P00919,Canada,NA,Xbox,"Paid Search",35,Core,"Windows 10","2025-08-04 06:37:05",1
+P00920,Australia,APAC,PC,Community,31,Core,iPad,"2026-01-10 18:42:00",1
+P00921,Germany,EMEA,PC,Influencer,34,Casual,"Windows 11","2025-12-01 03:54:00",1
+P00922,"United States",NA,PlayStation,Organic,35,Competitive,"Xbox Series X","2025-08-15 00:00:00",1
+P00923,"United Kingdom",EMEA,Mobile,Referral,18,Casual,"Android Tablet","2025-09-04 12:37:12",1
+P00924,"United States",NA,Mobile,"App Store",17,Core,NULL,"2025-11-21 00:00:00",1
+P00925,"United States",NA,Xbox,Influencer,44,Core,iPhone,"2025-12-04 06:32:00",1
+P00926,Germany,EMEA,NULL,Referral,28,Casual,"Windows 11","2025-09-01 00:00:00",1
+P00927,"United Kingdom",EMEA,PlayStation,Influencer,17,Core,"Windows 10","2026-01-01 00:00:00",1
+P00928,Mexico,LATAM,PC,Influencer,32,Casual,"Samsung Galaxy","2025-11-05 09:47:00",1
+P00929,NULL,EMEA,Mobile,Referral,17,Casual,"Xbox Series X","2025-08-19 11:56:00",1
+P00930,Brazil,LATAM,PC,"Paid Search",42,Competitive,PS5,"2025-10-08 08:15:52",1
+P00931,"United Kingdom",EMEA,Xbox,Organic,32,Core,PS5,"2025-11-02 00:00:00",1
+P00932,"United States",NA,PC,Organic,23,Competitive,PS5,"2025-10-09 00:00:00",1
+P00933,Mexico,LATAM,PC,Organic,18,Core,iPhone,"2025-10-09 00:00:00",1
+P00934,Brazil,LATAM,Mobile,"App Store",26,Core,"Steam Deck","2025-08-10 22:38:41",1
+P00935,India,APAC,PC,"Paid Search",45,Casual,PS5,"2025-08-17 02:28:36",1
+P00936,Japan,APAC,Mobile,Influencer,19,Core,"Samsung Galaxy","2026-01-04 00:00:00",1
+P00937,Germany,EMEA,PlayStation,"App Store",26,Casual,PS5,"2026-02-25 00:00:00",1
+P00938,"United Kingdom",EMEA,Mobile,"Paid Search",23,Competitive,"Windows 10","2025-11-09 00:00:00",1
+P00939,India,APAC,PC,"Paid Search",44,Core,PS5,"2026-01-22 23:01:19",1
+P00940,Brazil,LATAM,Mobile,Organic,27,Core,"Windows 11","2025-08-19 16:04:00",1
+P00941,"United States",NA,Xbox,"Paid Search",25,Core,"Steam Deck","2025-09-05 02:02:52",1
+P00942,Australia,APAC,Mobile,Influencer,NULL,Core,"Windows 10","2025-08-06 06:39:00",1
+P00943,India,APAC,Mobile,"App Store",20,Core,"Android Tablet","2025-12-17 00:00:00",1
+P00944,Brazil,LATAM,Xbox,Organic,45,Casual,"Samsung Galaxy",NULL,1
+P00945,Germany,EMEA,Xbox,"Paid Search",29,Casual,"Android Tablet","2025-12-03 11:37:49",1
+P00946,"United Kingdom",EMEA,PC,Discord,45,Casual,"Windows 11","2026-02-25 15:13:00",1
+P00947,France,EMEA,PC,Influencer,35,Casual,"Windows 11","2026-02-07 01:57:00",1
+P00948,"United States",NA,Mobile,Organic,17,Casual,PS5,"2025-12-27 00:00:00",1
+P00949,India,APAC,PC,Influencer,27,Core,iPhone,"2025-11-06 19:46:00",1
+P00950,"South Korea",APAC,NULL,Influencer,26,Casual,PS5,"2025-10-17 00:00:00",1
+P00951,Brazil,LATAM,PC,Organic,32,Casual,"Windows 11","2026-01-17 08:38:00",1
+P00952,Canada,NA,PC,"Paid Search",29,Casual,"Windows 10","2026-02-13 08:07:42",1
+P00953,"United States",NA,Mobile,Organic,33,Casual,"Steam Deck",NULL,1
+P00954,"United States",NA,NULL,Influencer,31,Core,"Samsung Galaxy","2025-11-03 00:00:00",1
+P00956,"United States",NA,Xbox,"App Store",24,Casual,"Windows 11","2025-12-21 00:00:00",1
+P00957,"United Kingdom",EMEA,PC,Organic,31,Core,iPhone,"2025-12-26 00:00:00",1
+P00958,"United States",NA,PC,Referral,37,Casual,"Samsung Galaxy",NULL,1
+P00959,"United States",NA,PC,Organic,17,Casual,iPhone,"2026-03-03 00:00:00",1
+P00960,"South Korea",APAC,PC,"App Store",36,Casual,"Windows 10","2025-11-14 23:37:00",1
+P00961,Australia,APAC,NULL,Influencer,38,Casual,PS5,NULL,1
+P00962,"United Kingdom",EMEA,Mobile,Organic,39,Core,"Samsung Galaxy","2025-10-05 15:56:00",1
+P00963,NULL,APAC,Mobile,"Paid Search",28,Core,"Windows 11","2025-12-27 00:00:00",1
+P00964,Spain,EMEA,Xbox,NULL,33,Competitive,"Windows 10","2026-03-05 23:53:02",1
+P00965,India,APAC,PlayStation,Organic,26,Core,"Windows 11","2025-12-08 00:00:00",1
+P00966,"South Korea",APAC,NULL,Organic,19,Core,"Windows 11","2026-01-02 15:02:58",1
+P00967,Spain,EMEA,PC,Discord,NULL,Casual,PS5,"2025-11-22 01:54:00",1
+P00968,"United States",NA,PC,"Paid Search",39,Core,"Windows 11","2025-10-18 00:00:00",1
+P00969,Australia,APAC,PC,Organic,45,Core,iPhone,"2025-09-24 00:00:00",1
+P00970,"United Kingdom",EMEA,Xbox,Influencer,45,Casual,PS5,"2026-02-18 00:00:00",1
+P00971,France,EMEA,Mobile,Influencer,32,Casual,"Android Tablet","2026-03-06 00:00:00",1
+P00972,"United States",NA,PlayStation,Organic,20,Competitive,"Windows 11","2026-02-07 13:58:45",1
+P00973,"United Kingdom",EMEA,Xbox,"Paid Search",37,Core,"Steam Deck","2025-10-15 20:20:00",1
+P00974,"United States",NA,Mobile,Influencer,22,Casual,"Windows 11","2025-10-23 00:00:00",1
+P00975,Brazil,LATAM,Mobile,"Paid Search",42,Core,"Android Tablet","2025-09-09 18:40:24",1
+P00976,Mexico,LATAM,PC,"Paid Search",44,Casual,iPhone,"2025-10-10 05:58:00",1
+P00976,Mexico,LATAM,PC,"Paid Search",44,Casual,iPhone,"2026-01-19 00:00:00",1
+P00977,Brazil,LATAM,PC,Influencer,43,Core,PS5,"2025-09-03 00:00:00",1
+P00978,Spain,EMEA,PC,"Paid Search",39,Casual,"Windows 11",NULL,1
+P00979,"United States",NA,PC,Community,37,Casual,"Windows 11","2025-11-04 00:00:00",1
+P00980,Australia,APAC,Mobile,Referral,25,Core,Pixel,"2025-12-01 10:50:43",1
+P00981,India,APAC,Mobile,Organic,39,Casual,"Xbox Series X","2025-09-08 00:00:00",1
+P00982,Mexico,LATAM,Xbox,Referral,34,Core,"Windows 10","2026-03-07 21:08:04",1
+P00983,India,APAC,NULL,Organic,20,Casual,iPhone,"2025-10-10 00:00:00",1
+P00984,"United States",NA,Mobile,Organic,43,Core,"Windows 11","2025-12-15 00:00:00",1
+P00985,Japan,APAC,Xbox,Organic,19,Casual,iPhone,"2026-03-07 00:00:00",1
+P00986,Spain,EMEA,Xbox,Influencer,27,Core,"Steam Deck","2026-01-05 02:52:29",1
+P00987,Germany,EMEA,PC,"Paid Search",34,Core,"Windows 10","2025-09-08 00:00:00",1
+P00988,India,APAC,Mobile,Organic,NULL,Casual,PS5,"2025-11-04 02:10:51",1
+P00989,"United States",NA,Xbox,Referral,27,Core,Pixel,"2025-10-07 17:04:19",1
+P00990,Germany,EMEA,Mobile,"Paid Search",22,Core,PS5,"2025-10-14 07:25:18",1
+P00991,NULL,LATAM,Mobile,Organic,35,Core,"Windows 11","2025-09-24 15:22:45",1
+P00992,NULL,APAC,Xbox,Discord,36,Competitive,"Xbox Series X","2025-12-24 04:43:00",1
+P00993,India,APAC,PC,Influencer,27,Casual,"Windows 10","2025-10-31 00:00:00",1
+P00994,Australia,APAC,PlayStation,Influencer,25,Casual,"Windows 10","2025-10-31 00:00:00",1
+P00994,Australia,APAC,PlayStation,Influencer,25,Casual,"Windows 10","2026-03-01 17:32:00",1
+P00995,Spain,EMEA,Mobile,Influencer,40,Core,PS5,"2026-01-24 04:44:00",1
+P00996,"United Kingdom",EMEA,PC,Organic,44,Competitive,"Windows 11","2025-12-10 00:00:00",1
+P00997,Germany,EMEA,PC,"Paid Search",43,Casual,"Samsung Galaxy","2025-11-03 00:00:00",1
+P00998,"United States",NA,Mobile,Influencer,35,Casual,"Samsung Galaxy","2025-12-16 00:00:00",1
+P00999,Germany,EMEA,Mobile,Influencer,34,Core,iPhone,"2026-01-30 09:40:00",1
+P01000,Germany,EMEA,PC,Discord,26,Casual,PS5,"2025-09-27 00:00:00",1
+P01001,Canada,NA,PC,"Paid Search",26,Casual,"Windows 10","2025-11-12 00:00:00",1
+P01002,Mexico,LATAM,Xbox,Organic,NULL,Core,Pixel,"2025-12-07 00:14:00",1
+P01003,India,APAC,Mobile,Influencer,32,Casual,iPhone,"2025-12-11 21:32:00",1
+P01004,Mexico,LATAM,PC,Influencer,36,Core,"Windows 11","2025-09-09 19:07:36",1
+P01005,Germany,EMEA,Xbox,"Paid Search",43,Core,PS5,"2025-09-10 00:00:00",1
+P01006,Canada,NA,PC,Referral,40,Casual,PS5,"2025-11-10 04:26:55",1
+P01007,Australia,APAC,PC,"Paid Search",37,Core,"Windows 10","2025-11-04 21:08:00",1
+P01008,"United Kingdom",EMEA,PC,Influencer,37,Competitive,iPad,"2025-10-15 17:29:04",1
+P01009,"United Kingdom",EMEA,Mobile,Referral,26,Casual,"Xbox Series X","2026-03-02 00:00:00",1
+P01010,"United States",NA,PC,Influencer,33,Core,"Steam Deck","2026-03-06 09:45:41",1
+P01011,Brazil,LATAM,PlayStation,"App Store",40,Casual,"Steam Deck","2025-08-10 12:57:00",1
+P01012,India,APAC,PlayStation,"Paid Search",42,Casual,"Samsung Galaxy","2026-02-08 00:00:00",1
+P01014,Germany,EMEA,Xbox,"App Store",43,Competitive,PS5,"2026-01-09 00:00:00",1
+P01015,India,APAC,PC,Organic,23,Core,iPad,"2025-10-13 00:00:00",1
+P01016,India,APAC,Mobile,Influencer,39,Core,"Samsung Galaxy","2025-12-21 00:12:00",1
+P01017,"United States",NA,PlayStation,Influencer,NULL,Casual,"Windows 10","2026-02-14 00:00:00",1
+P01018,"United States",NA,Xbox,Influencer,39,Core,"Windows 11","2025-09-18 00:00:00",1
+P01019,Canada,NA,PlayStation,NULL,18,Casual,"Samsung Galaxy","2026-01-04 00:00:00",1
+P01020,"South Korea",APAC,PC,Organic,17,Casual,"Windows 10","2025-09-06 00:00:00",1
+P01021,Germany,EMEA,Xbox,"App Store",32,Core,"Steam Deck","2025-10-31 10:25:00",1
+P01022,Australia,APAC,Mobile,"Paid Search",33,Core,"Windows 11","2026-02-03 13:33:25",1
+P01023,Germany,EMEA,PC,Influencer,24,Casual,"Windows 11","2026-01-02 03:26:00",1
+P01024,"United States",NA,Xbox,NULL,40,Core,"Steam Deck","2026-01-04 23:10:08",1
+P01025,"United Kingdom",EMEA,PC,Referral,34,Competitive,"Xbox Series X","2026-01-28 00:00:00",1
+P01026,Germany,EMEA,Mobile,Organic,32,Casual,"Windows 11","2025-12-16 00:00:00",1
+P01027,India,APAC,PC,"Paid Search",25,Core,"Xbox Series X","2025-12-11 00:00:00",1
+P01028,"United Kingdom",EMEA,PC,Influencer,25,Core,"Android Tablet","2025-08-05 00:00:00",1
+P01029,"South Korea",APAC,Mobile,Referral,19,Casual,iPhone,"2026-01-30 02:30:00",1
+P01030,"United Kingdom",EMEA,PC,"Paid Search",36,Core,"Windows 11","2025-09-09 00:00:00",1
+P01031,"United Kingdom",EMEA,Xbox,"Paid Search",NULL,Core,PS5,"2025-10-21 15:36:00",1
+P01032,Australia,APAC,Mobile,Organic,30,Competitive,"Android Tablet","2026-02-06 00:00:00",1
+P01033,Brazil,LATAM,Xbox,Influencer,36,Casual,"Xbox Series X","2026-02-01 00:00:00",1
+P01034,Germany,EMEA,Mobile,Influencer,36,Core,"Windows 10","2025-10-29 00:00:00",1
+P01035,Japan,APAC,Mobile,Influencer,28,Core,"Windows 11","2025-11-26 00:00:00",1
+P01036,Japan,APAC,Xbox,Influencer,28,Casual,"Xbox Series X","2025-12-03 22:07:00",1
+P01037,Brazil,LATAM,PC,"Paid Search",24,Competitive,"Steam Deck","2025-09-02 00:00:00",1
+P01038,Brazil,LATAM,Mobile,Influencer,17,Casual,iPhone,"2025-09-23 00:00:00",1
+P01039,Australia,APAC,PC,Organic,17,Casual,"Samsung Galaxy","2025-08-24 00:00:00",1
+P01040,Germany,NA,PC,Influencer,38,Core,PS5,"2025-12-05 00:00:00",1
+P01040,"United States",NA,PC,Influencer,38,Core,PS5,"2025-12-05 00:00:00",1
+P01041,Mexico,LATAM,PC,Discord,39,Casual,"Windows 10","2025-09-06 10:17:00",1
+P01042,Germany,EMEA,Xbox,"Paid Search",21,Casual,PS5,"2025-12-25 00:00:00",1
+P01043,Brazil,LATAM,PlayStation,Organic,31,Casual,"Samsung Galaxy","2025-11-19 00:00:00",1
+P01044,France,EMEA,PC,"Paid Search",42,Core,iPhone,"2025-09-20 14:47:00",1
+P01045,Mexico,LATAM,Mobile,Influencer,22,Core,"Xbox Series X","2026-01-22 00:00:00",1
+P01046,France,EMEA,Mobile,Organic,35,Casual,"Steam Deck","2026-01-01 11:00:00",1
+P01047,Brazil,LATAM,PC,Organic,40,Core,"Android Tablet","2025-10-17 14:50:00",1
+P01048,France,EMEA,Mobile,Influencer,33,Competitive,"Xbox Series X","2025-11-11 00:00:00",1
+P01049,"United Kingdom",EMEA,Mobile,Organic,44,Core,"Windows 11","2025-09-25 02:49:12",1
+P01050,"United Kingdom",EMEA,Mobile,Influencer,43,Core,Pixel,"2025-11-18 00:00:00",1
+P01051,Germany,EMEA,PC,Influencer,43,Core,iPhone,"2026-02-20 12:22:28",1
+P01052,Germany,EMEA,PC,Influencer,37,Casual,"Windows 10","2025-09-23 00:00:00",1
+P01053,India,APAC,PlayStation,Discord,21,Core,"Windows 10","2025-08-24 00:00:00",1
+P01054,Germany,EMEA,PlayStation,Influencer,39,Casual,"Windows 10","2026-01-24 00:00:00",1
+P01055,"South Korea",APAC,Mobile,"Paid Search",43,Competitive,"Xbox Series X","2025-12-10 00:00:00",1
+P01056,"United States",NA,Mobile,Referral,34,Casual,PS5,"2026-01-18 20:45:00",1
+P01057,Japan,APAC,Mobile,Influencer,32,Casual,PS5,"2025-09-22 00:00:00",1
+P01058,"United Kingdom",EMEA,Mobile,"Paid Search",21,Competitive,PS5,"2025-12-12 10:29:00",1
+P01059,NULL,APAC,PC,Organic,28,Casual,"Windows 10","2025-12-18 00:00:00",1
+P01060,Brazil,LATAM,PC,"App Store",36,Competitive,"Xbox Series X","2025-09-18 16:40:00",1
+P01061,Canada,NA,PlayStation,"Paid Search",38,Casual,"Windows 10","2025-09-22 15:57:09",1
+P01062,"United States",NA,Mobile,Discord,39,Casual,"Samsung Galaxy","2025-11-22 00:00:00",1
+P01063,Brazil,LATAM,Mobile,Organic,19,Core,PS5,"2025-09-23 00:00:00",1
+P01064,Brazil,LATAM,PC,Referral,28,Core,"Xbox Series X","2025-12-10 12:17:27",1
+P01064,Brazil,LATAM,Mobile,Referral,28,Core,"Xbox Series X","2026-02-10 12:07:00",1
+P01065,"United States",NA,Mobile,Organic,17,Core,iPhone,"2026-01-05 23:05:47",1
+P01066,Mexico,LATAM,PC,Influencer,20,Casual,iPhone,"2025-12-02 00:00:00",1
+P01067,NULL,LATAM,PlayStation,Community,32,Casual,iPhone,"2025-10-30 00:00:00",1
+P01068,Australia,APAC,Mobile,"App Store",38,Competitive,"Xbox Series X","2026-02-03 00:00:00",1
+P01069,Australia,APAC,Mobile,"Paid Search",39,Core,"Steam Deck","2025-12-26 00:00:00",1
+P01070,Mexico,LATAM,PC,"Paid Search",28,Core,"Xbox Series X","2025-11-04 16:21:00",1
+P01071,Mexico,LATAM,Mobile,Organic,21,Competitive,"Samsung Galaxy",NULL,1
+P01071,Mexico,LATAM,PC,Organic,21,Competitive,"Samsung Galaxy",NULL,1
+P01072,"United States",NA,PlayStation,Organic,41,Casual,"Windows 11","2025-12-22 00:00:00",1
+P01074,"United Kingdom",EMEA,PlayStation,Influencer,23,Casual,"Samsung Galaxy","2026-01-06 00:00:00",1
+P01075,India,APAC,Mobile,"Paid Search",16,Casual,"Samsung Galaxy","2025-12-09 00:00:00",1
+P01076,"United Kingdom",EMEA,Xbox,Influencer,26,Competitive,Pixel,"2025-08-20 00:00:00",1
+P01077,Japan,APAC,Xbox,"Paid Search",25,Core,"Samsung Galaxy","2025-10-23 00:00:00",1
+P01078,"South korea",APAC,Xbox,Influencer,27,Casual,iPhone,"2025-08-10 19:45:00",1
+P01079,"United States",NA,PC,"App Store",25,Core,"Windows 11","2025-12-04 00:00:00",1
+P01080,"United States",NA,PC,"Paid Search",39,Casual,PS5,"2026-03-02 19:21:32",1
+P01081,Japan,APAC,Xbox,Organic,42,Core,Pixel,"2025-08-22 19:38:00",1
+P01082,India,APAC,Xbox,Influencer,24,Core,"Android Tablet","2025-08-14 00:00:00",1
+P01082,India,APAC,Xbox,Influencer,24,Core,"Android Tablet","2026-01-11 00:00:00",1
+P01083,Mexico,LATAM,Xbox,Discord,18,Casual,"Windows 10","2025-12-04 16:46:15",1
+P01084,"United Kingdom",EMEA,PC,Organic,45,Casual,"Windows 11","2025-10-10 00:00:00",1
+P01085,Germany,EMEA,Mobile,"Paid Search",28,Casual,PS5,"2025-12-17 00:00:00",1
+P01086,"United Kingdom",EMEA,Mobile,Influencer,39,Casual,PS5,"2025-12-17 10:46:25",1
+P01087,"United States",NA,Mobile,Influencer,26,Casual,iPhone,"2025-09-14 00:00:00",1
+P01088,Brazil,LATAM,Xbox,Referral,33,Casual,"Windows 10","2026-03-02 15:15:40",1
+P01089,"United States",NA,Mobile,Influencer,30,Casual,iPhone,"2025-09-23 00:00:00",1
+P01090,"South Korea",APAC,PC,Influencer,NULL,Competitive,iPhone,"2025-10-20 13:12:00",1
+P01091,Australia,APAC,PC,Referral,18,Casual,"Windows 10","2025-09-28 06:43:06",1
+P01092,"United States",NA,Xbox,"Paid Search",37,Core,PS5,"2025-09-26 00:00:00",1
+P01093,Spain,EMEA,Mobile,"Paid Search",25,Casual,"Windows 10","2025-11-28 00:00:00",1
+P01094,"United Kingdom",EMEA,Xbox,Influencer,32,Competitive,iPad,"2025-11-01 00:00:00",1
+P01095,France,EMEA,Mobile,Organic,42,Casual,"Android Tablet","2025-11-27 19:43:03",1
+P01096,"United States",NA,PlayStation,"App Store",34,Casual,iPad,"2025-11-20 18:03:00",1
+P01097,"United States",NA,PC,Influencer,41,Core,iPad,"2026-02-12 22:14:00",1
+P01098,"South korea",APAC,Mobile,Referral,43,Casual,"Xbox Series X","2026-01-14 00:00:00",1
+P01099,Germany,EMEA,PlayStation,"App Store",21,Casual,"Samsung Galaxy","2025-11-15 18:31:48",1
+P01100,Canada,NA,PC,"Paid Search",27,Core,PS5,"2025-10-18 10:04:00",1
+P01101,"South Korea",APAC,PC,Influencer,30,Casual,"Windows 11","2025-10-15 00:00:00",1
+P01102,"United States",NA,PlayStation,"App Store",26,Competitive,Pixel,"2025-11-29 00:00:00",1
+P01103,Canada,NA,PC,"App Store",16,Competitive,"Android Tablet","2026-01-10 02:50:44",1
+P01104,Brazil,LATAM,PC,"Paid Search",NULL,Core,"Xbox Series X","2026-03-01 10:05:10",1
+P01105,Brazil,LATAM,Mobile,"Paid Search",37,Core,"Samsung Galaxy","2025-12-18 07:37:00",1
+P01106,Japan,APAC,PC,Referral,29,Core,iPhone,"2025-12-28 00:00:00",1
+P01107,"United States",NA,Mobile,Influencer,30,Casual,"Samsung Galaxy","2025-12-26 21:33:00",1
+P01108,"United Kingdom",EMEA,Mobile,Discord,28,Casual,"Windows 10","2025-12-24 00:00:00",1
+P01109,"United States",NA,Mobile,Influencer,41,Casual,"Steam Deck","2025-08-01 15:01:00",1
+P01110,"United Kingdom",EMEA,Mobile,Influencer,35,Casual,"Android Tablet","2026-02-04 00:00:00",1
+P01111,Brazil,LATAM,PC,Organic,41,Casual,"Windows 11","2025-09-16 00:00:00",1
+P01112,Mexico,LATAM,PlayStation,"Paid Search",NULL,Core,"Steam Deck","2026-01-22 00:00:00",1
+P01113,India,APAC,Mobile,"Paid Search",41,Casual,"Samsung Galaxy","2026-01-19 00:00:00",1
+P01114,Japan,APAC,PC,Influencer,24,Competitive,"Samsung Galaxy","2025-11-08 04:24:00",1
+P01115,Mexico,LATAM,Xbox,"App Store",32,Casual,PS5,"2026-02-22 00:00:00",1
+P01116,"United Kingdom",EMEA,PC,"Paid Search",43,Core,"Android Tablet","2025-11-17 18:11:57",1
+P01117,India,APAC,PC,Organic,20,Casual,"Android Tablet","2026-02-13 03:45:00",1
+P01118,Spain,EMEA,PC,Organic,NULL,Core,"Windows 10","2025-09-22 00:00:00",1
+P01119,NULL,EMEA,PC,"Paid Search",23,Core,"Samsung Galaxy","2025-09-08 09:07:51",1
+P01120,Canada,NA,Xbox,Organic,26,Casual,iPhone,"2026-01-02 00:00:00",1
+P01121,Canada,NA,Xbox,Referral,27,Core,"Samsung Galaxy","2025-08-01 11:53:00",1
+P01122,"South Korea",APAC,PC,Organic,35,Casual,"Windows 10","2025-08-04 00:00:00",1
+P01123,India,APAC,Xbox,Discord,25,Casual,"Steam Deck","2025-11-04 14:06:33",1
+P01124,"United Kingdom",EMEA,Mobile,Influencer,30,Casual,"Windows 11","2025-10-12 00:00:00",1
+P01125,Brazil,LATAM,PC,Organic,32,Casual,"Samsung Galaxy",NULL,1
+P01126,Brazil,LATAM,PC,Influencer,25,Casual,"Windows 11","2025-08-31 00:00:00",1
+P01127,"United Kingdom",EMEA,PC,Influencer,44,Casual,NULL,"2025-09-01 00:00:00",1
+P01128,"United States",NA,Mobile,Organic,17,Casual,"Windows 11","2025-12-24 04:15:00",1
+P01129,"United States",NA,Mobile,Community,34,Competitive,"Windows 10","2026-02-28 00:00:00",1
+P01130,France,EMEA,Mobile,Referral,25,Core,"Windows 10","2025-11-26 00:00:00",1
+P01131,Germany,EMEA,Xbox,Discord,28,Casual,"Android Tablet","2025-09-16 00:00:00",1
+P01131,Germany,EMEA,Xbox,"Paid Search",28,Casual,"Android Tablet","2025-09-16 00:00:00",1
+P01132,Spain,EMEA,Mobile,"App Store",NULL,Casual,"Windows 10","2026-01-11 00:00:00",1
+P01133,"United States",NA,PC,Influencer,NULL,Core,"Windows 11","2025-11-15 00:00:00",1
+P01134,"South Korea",APAC,PlayStation,Organic,35,Casual,"Android Tablet","2025-10-25 20:09:00",1
+P01135,"United States",NA,Mobile,Influencer,31,Core,PS5,"2025-10-05 00:00:00",1
+P01136,Brazil,LATAM,Mobile,Influencer,31,Casual,PS5,"2025-12-16 00:00:00",1
+P01137,Brazil,NA,PlayStation,Discord,44,Casual,iPhone,"2025-11-14 20:48:00",1
+P01137,"United States",NA,PlayStation,Discord,44,Casual,iPhone,"2025-11-14 20:48:00",1
+P01138,Canada,NA,PC,Referral,43,Casual,iPhone,"2025-11-11 11:41:00",1
+P01139,Canada,NA,PC,"Paid Search",18,Core,Pixel,"2025-09-17 00:00:00",1
+P01140,Germany,EMEA,PlayStation,NULL,30,Core,PS5,"2025-12-18 00:00:00",1
+P01141,"South Korea",APAC,Xbox,Influencer,31,Core,PS5,"2026-03-05 00:00:00",1
+P01142,"United States",NA,PC,"App Store",36,Competitive,"Xbox Series X","2025-10-07 00:00:00",1
+P01143,Brazil,LATAM,Mobile,"Paid Search",17,Core,"Samsung Galaxy","2025-12-03 08:49:00",1
+P01144,Brazil,LATAM,PC,Influencer,28,Core,"Windows 11","2026-01-05 02:17:00",1
+P01145,India,APAC,Mobile,Organic,25,Casual,iPhone,"2025-11-14 00:25:28",1
+P01146,"United States",NA,Mobile,Organic,33,Casual,iPad,"2025-09-03 00:00:00",1
+P01147,"United States",NA,Mobile,"Paid Search",40,Casual,PS5,"2025-10-24 00:00:00",1
+P01148,India,APAC,PC,Influencer,32,Core,"Samsung Galaxy","2025-10-02 08:40:20",1
+P01149,Brazil,LATAM,Mobile,Referral,17,Casual,PS5,"2025-09-03 00:00:00",1
+P01150,Japan,APAC,Xbox,Discord,40,Casual,PS5,"2025-10-23 20:39:00",1
+P01151,Australia,APAC,Xbox,Organic,31,Core,Pixel,"2026-01-27 00:00:00",1
+P01152,Australia,APAC,Mobile,"Paid Search",36,Core,iPhone,"2025-10-16 00:00:00",1
+P01153,Mexico,LATAM,Mobile,"Paid Search",43,Core,iPad,"2026-01-12 00:00:00",1
+P01154,"United States",NA,Mobile,Organic,41,Casual,"Windows 11","2026-02-27 00:36:00",1
+P01155,India,APAC,NULL,Community,22,Competitive,"Steam Deck","2026-01-22 13:51:00",1
+P01156,"United Kingdom",EMEA,PC,Referral,NULL,Competitive,iPad,"2025-08-11 10:15:00",1
+P01157,"South Korea",APAC,PC,"Paid Search",36,Core,"Samsung Galaxy","2025-12-27 09:15:00",1
+P01158,"United States",NA,PC,Discord,43,Casual,"Windows 11","2025-09-11 00:00:00",1
+P01158,"United States",NA,Mobile,Discord,43,Casual,"Windows 11","2026-02-02 00:00:00",1
+P01159,Mexico,LATAM,PC,Influencer,33,Casual,"Windows 11","2025-08-01 00:00:00",1
+P01160,France,EMEA,Mobile,Organic,45,Casual,"Windows 11","2025-11-29 00:00:00",1
+P01161,"United States",NA,PC,NULL,39,Core,iPhone,"2025-12-23 00:00:00",1
+P01162,Brazil,LATAM,Xbox,Influencer,37,Core,iPhone,"2025-12-15 09:42:00",1
+P01163,Mexico,LATAM,NULL,"Paid Search",34,Casual,"Xbox Series X","2026-02-22 00:00:00",1
+P01164,"South korea",APAC,PlayStation,"Paid Search",24,Core,"Samsung Galaxy","2025-12-24 22:51:37",1
+P01165,France,EMEA,PlayStation,Organic,29,Core,PS5,"2026-02-03 17:20:00",1
+P01166,France,EMEA,Xbox,"Paid Search",19,Casual,iPad,"2025-08-15 00:00:00",1
+P01167,Brazil,LATAM,PlayStation,"Paid Search",34,Core,PS5,"2025-12-25 06:21:00",1
+P01168,Canada,NA,PC,Discord,40,Competitive,"Steam Deck","2025-08-31 00:00:00",1
+P01169,"United Kingdom",EMEA,Xbox,"App Store",36,Casual,"Samsung Galaxy","2025-12-31 00:00:00",1
+P01170,"United States",NA,Mobile,"Paid Search",28,Casual,"Xbox Series X","2025-10-01 00:00:00",1
+P01171,Canada,NA,PC,"Paid Search",17,Competitive,"Xbox Series X","2025-10-17 09:12:00",1
+P01172,Spain,EMEA,Mobile,Organic,26,Casual,"Windows 10","2025-08-07 21:36:00",1
+P01173,Brazil,LATAM,Xbox,"Paid Search",20,Competitive,"Windows 11","2026-02-25 00:00:00",1
+P01174,Mexico,LATAM,Mobile,"Paid Search",22,Core,iPad,"2025-08-12 01:41:57",1
+P01175,"United States",NA,Xbox,Organic,29,Core,"Samsung Galaxy","2025-10-07 19:46:00",1
+P01176,Brazil,LATAM,PC,"Paid Search",38,Core,"Android Tablet","2025-09-08 00:00:00",1
+P01177,Germany,EMEA,Mobile,Referral,28,Competitive,"Samsung Galaxy","2025-08-29 00:00:00",1
+P01178,Spain,EMEA,PC,"Paid Search",42,Competitive,"Windows 10","2026-02-07 03:03:00",1
+P01179,Mexico,LATAM,PlayStation,"Paid Search",39,Casual,"Samsung Galaxy","2026-01-14 00:00:00",1
+P01180,Germany,EMEA,Mobile,Influencer,28,Competitive,"Samsung Galaxy",NULL,1
+P01181,Australia,APAC,PlayStation,Influencer,24,Competitive,iPhone,"2025-10-05 00:00:00",1
+P01182,Brazil,LATAM,Xbox,Influencer,42,Core,"Xbox Series X","2026-01-07 00:00:00",1
+P01183,India,APAC,Mobile,Organic,25,Competitive,Pixel,"2026-03-06 00:00:00",1
+P01184,Spain,EMEA,Xbox,Organic,20,Core,"Windows 11","2025-12-04 09:49:21",1
+P01185,Australia,APAC,PC,"App Store",27,Competitive,"Samsung Galaxy","2026-02-21 00:00:00",1
+P01186,Brazil,LATAM,Xbox,Discord,32,Core,Pixel,"2025-08-17 00:00:00",1
+P01187,Germany,EMEA,PC,Influencer,34,Casual,"Android Tablet","2025-11-05 03:39:00",1
+P01188,India,APAC,PC,Influencer,35,Core,"Windows 11","2025-10-22 00:00:00",1
+P01190,"United States",NA,Xbox,Organic,17,Casual,"Xbox Series X","2025-11-18 22:34:00",1
+P01191,Spain,EMEA,Mobile,Organic,45,Casual,Pixel,"2025-10-03 19:50:31",1
+P01192,Mexico,LATAM,Mobile,Influencer,31,Casual,"Windows 11","2025-09-15 00:00:00",1
+P01193,Mexico,LATAM,Mobile,Referral,23,Core,"Windows 10","2026-02-18 00:00:00",1
+P01194,India,APAC,PlayStation,Influencer,37,Core,PS5,NULL,1
+P01195,"United States",NA,PC,"Paid Search",24,Casual,"Windows 11","2026-01-02 00:00:00",1
+P01196,"United States",NA,PC,Referral,33,Casual,"Steam Deck","2026-01-27 00:00:00",1
+P01197,France,EMEA,Mobile,Influencer,28,Competitive,"Samsung Galaxy","2026-02-20 14:43:21",1
+P01198,"United States",NA,PlayStation,Organic,38,Casual,"Windows 10","2025-12-24 15:32:00",1
+P01199,"United Kingdom",EMEA,PC,Organic,30,Casual,"Windows 10","2026-02-28 00:00:00",1
+P01200,Canada,NA,Mobile,"Paid Search",33,Core,iPhone,"2026-01-26 17:30:00",1
