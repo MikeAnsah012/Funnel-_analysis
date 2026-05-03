@@ -1,0 +1,1276 @@
+player_id,signup_date,country,region,platform,acquisition_channel,age,skill_segment,device_name,email
+P00001,2026.02.06,Bharat,APAC,PS,organic,22,CASUAL,"Windows 11",user1@example.com
+P00002,"02/17/26 18:04",Nippon,APAC,Windows,"App Store",,Casual,"Windows 11",user2@example.com
+P00003,2025-08-09,U.K.,EMEA,pc,ORG,40,Competitive,"Android Tablet",user3@example.com
+P00004," 29.11.2025 03:41",IN,APAC,IOS/Android,Organic,38,Casual,iPhone,user4@example.com
+P00005,2026-02-11T00:14:01Z,australia,APAC,IOS/Android,"Paid Search",43,Core,"Xbox Series X",user5@example.com
+P00006,"11/04/25 11:22",UK,EMEA,PlayStation,paid_search,28,Core,"Android Tablet",user6@example.com
+P00007,"07.02.2026 20:54",GB,,Mobile,referral,34,Casual,"Android Tablet",user7@example.com
+P00008,2025.09.26,Mexico,LATAM,steam,paid_search,21,Casual,"Windows 11",user8@example.com
+P00009,"Jan 01, 2026",Deutschland,EMEA,Mobile,Organic,36,Core,"Samsung Galaxy",user9@example.com
+P00010,2026-02-24T14:25:16Z,U.S.A,NA,"xbox series",organic,34,Casual,"Samsung Galaxy",user10@example.com
+P00011,2026.03.06,,APAC,Windows,"Google Ads",41,Core,"Windows 10",user11@example.com
+P00012,2025/12/07,"United Kingdom",EMEA,"Xbox Series X",paid_search,29,Core,iPhone,user12@example.com
+P00013,2026.02.22,UK,EMEA,Windows,influencer,25,Core,PS5,user13@example.com
+P00014,2026-02-10,,NA,Mobile,,24,Core,"Windows 11",user14@example.com
+P00015,"Dec 08, 2025",India,APAC,pc,Organic,25,Casual,iPad,user15@example.com
+P00016,01/06/2026,Spain,EMEA,"Epic PC",Organic,41,Casual,,user16@example.com
+P00017,2025/12/02,MX,LATAM,PS5,"Paid Search",16,core,iPhone,user17@example.com
+P00018,12/22/2025,GB,EMEA,NULL,"Google Ads",36,Core,"Samsung Galaxy",user18@example.com
+P00019,08/01/2025,India,APAC,iOS,Creator,43,Casual,"Samsung Galaxy",user19@example.com
+P00020,2025-09-01,India,APAC,PC/Steam,Influencer,19,Competitive,"Android Tablet",user20@example.com
+P00021,"01.01.2026 14:56",MX,LATAM,xbox,organic,,Core,Pixel,user21@example.com
+P00022,19-11-2025,Korea,APAC,xbox,Influencer,25,Casual,"Samsung Galaxy",user22@example.com
+P00023,"2025-09-21 21:18:48",U.K.,EMEA,Windows,Discord,38,Core,PS5,user23@example.com
+P00024,"Feb 27, 2026",DE,EMEA,steam,Organic,36,Casual,"Samsung Galaxy",user24@example.com
+P00025,"Jan 01, 2026",Germany,EMEA,pc,organic,36,Casual,iPhone,user25@example.com
+P00026,"Sep 08, 2025 02:38PM",UK,EMEA,Windows,"Google Ads",25,Core,"Windows 10",user26@example.com
+P00027,"30.12.2025 17:15",US,NA,"Epic PC",Organic,43,Core,iPad,user27@example.com
+NULL," 05.03.2026 17:46","United States",NA,mobile,YT,44,Casual,"Windows 11",user28@example.com
+P00029,"2025-10-04 20:07:35",Deutschland,EMEA,"xbox series",Organic,24,Casual,"Windows 11",user29@example.com
+P00030,2025.10.03,BR,LATAM,PC/Steam,paid_search,17,Casual,iPhone,user30@example.com
+P00031,2025.10.20,IN,APAC,PC,YT,17,Casual,"Windows 11",user31@example.com
+P00032,2026-02-04T21:34:39Z,ES,EMEA,NULL,twitch,19,Casual,"Xbox Series X",user32@example.com
+P00033,"15.11.2025 07:23",IN,APAC,steam,"Google Ads",20,Casual,PS5,user33@example.com
+P00034,2025-12-28,U.S.A,NA,NULL,ORG,35,Competitive,PS5,user34@example.com
+P00035,08-09-2025,Korea,APAC,PC/Steam,"Google Ads",40,Casual,"Android Tablet",user35@example.com
+P00036,2025/11/13,India,APAC,iOS,paid_search,20,Casual,"Windows 10",user36@example.com
+P00037,"2025-10-14 09:35:20",DE,,ps5,organic,34,Casual,Pixel,user37@example.com
+P00038,"Jan 04, 2026 12:35AM",Deutschland,EMEA,ps5,organic,44,Core,"Samsung Galaxy",user38@example.com
+P00039,"12/01/25 21:49",Deutschland,EMEA,pc,YouTube,18,Core,"Xbox Series X",user39@example.com
+P00040,2025.12.05,canada,NA,xbox,youtube,27,Casual,"Xbox Series X",user40@example.com
+P00041,"2026-02-24 16:10:56",australia,APAC,PS5,Discord,33,Competitive,"Windows 11",user41@example.com
+P00042,"09/28/25 03:28",,EMEA,xbox,Creator,41,Casual,PS5,user42@example.com
+P00043,"Aug 16, 2025",Germany,EMEA,"xbox series","Paid Search",20,Casual,iPhone,user43@example.com
+P00044,,Japan,APAC,PC,influencer,20,Core,"Samsung Galaxy",user44@example.com
+P00045,"Aug 26, 2025 11:32AM",Bharat,APAC,PS,YouTube,37,CASUAL,"Samsung Galaxy",user45@example.com
+P00046,2025-08-20T08:50:37Z,Spain,EMEA,Steam,Organic,34,Casual,"Windows 10",user46@example.com
+P00047,2025/09/14,India,APAC,iOS,"Paid Search",45,Core,"Windows 11",user47@example.com
+P00048,2025.11.30,"United Kingdom",EMEA,PC/Steam,paid_search,25,Competitive,"Samsung Galaxy",user48@example.com
+P00049,2025-09-29T04:08:49Z,GB,EMEA,Android,twitch,,Competitive,"Windows 11",user49@example.com
+P00050," 27-12-2025",KR,APAC,Mobile,YouTube,35,Casual,"Android Tablet",user50@example.com
+P00051,2025-09-16T20:52:35Z,"South Korea",APAC,PC,"Store Feature",24,Core,iPhone,user51@example.com
+P00052,"09.12.2025 02:47",Bharat,APAC,Xbox,"Google Ads",34,Casual,PS5,user52@example.com
+P00053,"2025-11-01T02:26:11Z ",India,APAC,Ps5,"Paid Search",24,Casual,"Windows 10",user53@example.com
+P00054,"2025-12-11 19:51:02",,APAC,PlayStation,"Paid Search",16,Casual,PS5,user54@example.com
+P00055,2025.11.13,"République Française",EMEA,pc,paid_search,37,Casual,iPhone,user55@example.com
+P00056,2025/12/09,Brasil,LATAM,Android,Influencer,34,Casual,iPad,user56@example.com
+P00057,"12.11.2025 10:13",Deutschland,EMEA,PlayStation,YT,27,Casual,,user57@example.com
+P00058," Feb 15, 2026 11:14PM",canada,NA,PlayStation,Referral,45,Core,iPhone,user58@example.com
+P00059,"2026-03-01 02:28:32",Deutschland,NULL,PC,Organic,24,Core,"Windows 11",user59@example.com
+P00060,"Aug 28, 2025 07:45AM ",JP,APAC,"Xbox Series X",,34,Core,PS5,user60@example.com
+P00061,"Nov 22, 2025",U.S.A,NA,PS5,organic,38,Core,PS5,user61@example.com
+P00062,"08.10.2025 12:55",Nippon,APAC,PC/Steam,Streamer,37,Casual,"Windows 10",user62@example.com
+P00063,2025/09/26,Deutschland,EMEA,Mobile,organic,35,Casual,"Android Tablet",user63@example.com
+P00064," 2025.10.27",MX,LATAM,iOS,"Google Ads",16,Casual,PS5,user64@example.com
+P00065," 28.01.2026 01:42",USA,NA,PlayStation,AppStore,38,Casual,iPhone,user65@example.com
+P00066,26-02-2026,KR,APAC,PC,"Paid Search",40,Casual,"Windows 10",user66@example.com
+P00067,"2025-11-11 05:44:15",India,APAC,PC,"Paid Search",29,Casual,"Windows 10",user67@example.com
+P00068,"01/25/26 23:54",U.S.A,NA,"Epic PC",Discord,34,Casual,"Samsung Galaxy",user68@example.com
+P00069,"29.01.2026 17:51",IN,APAC,Steam,paid_search,38,Casual,"Steam Deck",user69@example.com
+P00070,"01/27/26 17:04",US,NA,PC/Steam,discord,39,Casual,"Windows 11",user70@example.com
+P00071,2025/09/20,Brazil,LATAM,PC,Organic,24,Competitive,"Xbox Series X",user71@example.com
+P00072,20-08-2025,France,EMEA,Xbox,referral,44,Casual,"Windows 10",user72@example.com
+P00073,,Korea,APAC,Steam,Community,18,Core,"Windows 11",user73@example.com
+P00074,"2026-02-16 04:20:24",US,NULL,steam,Organic,27,Core,"Xbox Series X",user74@example.com
+P00075,2026-01-13T18:29:22Z,"United Kingdom",EMEA,Android,ORG,42,Core,Pixel,user75@example.com
+P00076,11-01-2026,"United states",NA,xbox,organic,24,Casual,"Windows 10",user76@example.com
+P00077,"Oct 01, 2025",MX,LATAM,IOS/Android,referral,26,Casual,PS5,user77@example.com
+P00078,"10/06/25 12:59",KR,APAC,Mobile,Organic,22,core,"Xbox Series X",user78@example.com
+P00079,2026/02/04,US,NA,xbox,Streamer,36,Competitive,"Windows 11",user79@example.com
+P00080,"2025-10-23 16:56:52",U.S.A,NA,mobile,Community,40,Casual,"Xbox Series X",user80@example.com
+P00081,2026-01-08T17:45:55Z,canada,NA,XBOX,ORG,30,Casual,"Android Tablet",user81@example.com
+P00082,"03.08.2025 09:29","United states",NA,PS,discord,26,Core,"Windows 11",user82@example.com
+P00083,2025-08-02,U.S.A,NA,steam,organic,22,Competitive,Pixel,user83@example.com
+P00084,2026-02-28,U.K.,EMEA,"xbox series",twitch,40,Competitive,"Samsung Galaxy",user84@example.com
+P00085,2025/11/13,France,EMEA,"Epic PC",YouTube,23,Competitive,"Windows 10",
+P00086,"Oct 25, 2025",U.S.A,NA,steam,"Google Ads",34,core,"Windows 10",user86@example.com
+P00087,14-02-2026,Brasil,LATAM,Mobile,ORG,21,Competitive,"Samsung Galaxy",user87@example.com
+P00088,29-01-2026,Australia,APAC,PC/Steam,Creator,31,Core,"Steam Deck",user88@example.com
+P00089," 2026-02-02T20:52:22Z",Mexico,LATAM,"xbox series","Store Feature",25,Casual,"Windows 10",user89@example.com
+P00090,11/29/2025,FR,EMEA,steam,Organic,45,Core,iPhone,user90@example.com
+P00091,"2025-09-25 07:56:26",canada,NA,Xbox,Twitch,24,Casual,iPhone,user91@example.com
+P00092,2025.11.17,BR,LATAM,Mobile,Organic,45,Casual,PS5,user92@example.com
+P00093,"11/03/25 04:47","United Kingdom",EMEA,iOS,Organic,17,Casual,"Xbox Series X",user93@example.com
+P00094,2025-11-04,"United States",NA,PC,ORG,30,Core,"Windows 11",user94@example.com
+P00095,"11/18/25 02:58",Spain,EMEA,PC,,35,Core,"Windows 10",user95@example.com
+P00096,2025-10-22T00:52:36Z,GB,EMEA,PC,Streamer,39,Core,"Android Tablet",user96@example.com
+P00097,"2026-02-21 ",India,APAC,IOS/Android,discord,27,Competitive,"Samsung Galaxy",user97@example.com
+P00098,"15.12.2025 04:33",BR,LATAM,"Xbox Series X",paid_search,17,Casual,"Windows 11",user98@example.com
+P00099,2026.01.20,MX,LATAM,Mobile,Creator,NULL,Casual,iPhone,user99@example.com
+P00100,"2026.01.21 ",India,APAC,"xbox series","App Store",22,Casual,Pixel,user100@example.com
+P00101,"17.01.2026 03:03",India,APAC,"xbox series",Streamer,22,Core,"Samsung Galaxy",user101@example.com
+P00102,2026-01-17T07:41:06Z,Mexico,LATAM,PS,ORG,25,Casual,"Windows 10",user102@example.com
+P00103,2026.01.16,Australia,APAC,Android,"Google Ads",32,Casual,"Android Tablet",user103@example.com
+P00104,2025/12/25,Australia,APAC,Ps5,paid_search,37,Competitive,iPhone,user104@example.com
+P00105,18-10-2025,Brazil,LATAM,iOS,ORG,39,Competitive,iPhone,user105@example.com
+P00106,"09/13/25 12:22",BR,LATAM,"Epic PC",Community,21,Core,"Windows 11",
+P00107,19-12-2025,australia,APAC,Steam,organic,26,Core,"Steam Deck",user107@example.com
+P00108,"08.12.2025 19:33",DE,EMEA,Mobile,organic,26,Casual,"Steam Deck",
+P00109,2025-12-25,USA,NA,ps5,influencer,21,Core,PS5,user109@example.com
+P00110,2025/08/17,USA,NA,"Xbox Series X",youtube,45,Casual,"Android Tablet",user110@example.com
+P00111,14-01-2026,DE,EMEA,PC/Steam,Organic,35,Core,"Samsung Galaxy",user111@example.com
+P00112,,AU,APAC,"xbox series",Twitch,40,Core,"Windows 11",user112@example.com
+P00113,2026-01-01,ES,EMEA,mobile,paid_search,25,Casual,"Xbox Series X",user113@example.com
+P00114,"2025-09-28 00:32:02",BR,LATAM,Windows,youtube,38,Competitive,"Xbox Series X",user114@example.com
+P00115,"2025-09-24 ","United States",NA,Windows,YouTube,41,Core,"Android Tablet",user115@example.com
+P00116," Sep 25, 2025",FR,EMEA,iOS,youtube,21,Competitive,"Windows 10",user116@example.com
+P00117,2025.08.31,Brazil,LATAM,Steam,organic,40,Core,"Samsung Galaxy",user117@example.com
+P00118,02/16/2026,Japan,APAC,Steam,Creator,31,Core,"Samsung Galaxy",user118@example.com
+P00119,2025/11/10,"United Kingdom",EMEA,PC,"Paid Search",NULL,Casual,"Xbox Series X",user119@example.com
+P00120,2026-02-25T12:19:46Z,canada,NA,mobile,Creator,25,Competitive,PS5,user120@example.com
+P00121,21-11-2025,"United states",NA,iOS,Influencer,16,Core,iPhone,
+P00122,02/09/2026,USA,NA,PC,organic,37,Competitive,iPhone,user122@example.com
+P00123,2025-08-04T00:13:13Z,India,,IOS/Android,organic,21,Core,"Windows 11",user123@example.com
+P00124,,Korea,APAC,Android,influencer,42,Competitive,"Windows 10",user124@example.com
+P00125,2026/01/08,U.S.A,NA,PC/Steam,Creator,29,Core,"Windows 11",user125@example.com
+P00126,2025.09.26,MX,LATAM,"Epic PC",Organic,33,casual,"Xbox Series X",user126@example.com
+P00127,"02/21/26 16:30",Japan,APAC,ps5,YT,43,Casual,"Windows 10",user127@example.com
+P00128,2025-08-20,US,NA,steam,Organic,27,Competitive,Pixel,user128@example.com
+P00129,"Dec 22, 2025 03:46PM ","United states",NA,PS5,referral,39,Core,"Samsung Galaxy",user129@example.com
+P00130,"2025-12-10 18:17:03",Bharat,APAC,pc,influencer,26,Core,"Windows 11",user130@example.com
+P00131,"25.01.2026 05:55",Bharat,APAC,Xbox,"Friend Refer",32,Casual,"Xbox Series X",
+P00132,2025.11.27,Deutschland,EMEA,XBOX,influencer,28,Core,"Windows 10",user132@example.com
+P00133,"2025-09-12 15:16:08",FR,EMEA,"Epic PC",Organic,36,Casual,"Xbox Series X",
+P00134,2025-12-25T16:39:20Z,Bharat,APAC,Android,organic,31,casual,"Samsung Galaxy",user134@example.com
+P00135,22-02-2026,FR,EMEA,IOS/Android,Referral,25,Casual,"Windows 10",user135@example.com
+P00136,"Oct 01, 2025 08:04AM",US,NA,Android,youtube,35,Casual,PS5,user136@example.com
+P00137,"Oct 13, 2025","South Korea",APAC,Mobile,influencer,32,Competitive,,user137@example.com
+P00138,"09/05/25 11:54",IN,APAC,xbox,Streamer,29,Competitive,"Windows 11",user138@example.com
+P00139,2025.12.14,AU,APAC,PS5,"Paid Search",36,Core,"Windows 11",user139@example.com
+P00140,"Oct 15, 2025 08:26AM",India,APAC,PS5,"Store Feature",19,Core,iPhone,user140@example.com
+P00141,2025-09-23,UK,EMEA,Mobile,twitch,17,Casual,"Windows 10",user141@example.com
+NULL,"Jan 15, 2026 06:26PM ",UK,EMEA,"Epic PC",organic,45,Core,"Windows 11",user142@example.com
+P00143,"01/01/26 05:34",U.S.A,NA,pc,influencer,35,Core,"Android Tablet",user143@example.com
+NULL,"08/17/25 22:31",BR,LATAM,Android,Twitch,32,Core,"Windows 10",user144@example.com
+P00145,2026-02-16T06:18:18Z,USA,NA,mobile,,41,Core,"Xbox Series X",user145@example.com
+P00146,,India,APAC,mobile,,44,CORE,Pixel,user146@example.com
+P00147,2026/02/12,"South Korea",APAC,steam,Referral,27,Core,PS5,user147@example.com
+P00148,2025.09.13,IN,APAC,Steam,"Paid Search",32,Casual,iPhone,user148@example.com
+P00149,"Oct 04, 2025",,APAC,NULL,referral,19,Core,"Windows 11",user149@example.com
+P00150,10/28/2025,México,LATAM,XBOX,paid_search,24,Casual,"Windows 11",user150@example.com
+P00151,"19.01.2026 02:15",Brasil,LATAM,Mobile,Creator,unknown,Casual,PS5,user151@example.com
+P00152,12/06/2025,Brazil,LATAM,NULL,,20,Casual,"Windows 10",user152@example.com
+P00153,,Nippon,APAC,Mobile,organic,42,Core,"Xbox Series X",user153@example.com
+P00154,"20.08.2025 11:11",Brazil,,Mobile,"Paid Search",41,Core,iPhone,user154@example.com
+P00155,"Oct 01, 2025",Nippon,APAC,PC/Steam,"Paid Search",45,Core,,user155@example.com
+P00156,2025.09.16,"United States",NA,steam,AppStore,30,Core,,user156@example.com
+P00157,05-03-2026,Brasil,LATAM,Playstation,"Store Feature",42,Core,,user157@example.com
+P00158,"01.08.2025 14:09",BR,LATAM,IOS/Android,Creator,27,Competitive,"Windows 11",user158@example.com
+P00159,"Nov 04, 2025 10:58PM",MX,,NULL,discord,37,Casual,"Windows 11",user159@example.com
+P00160,10/22/2025,ES,EMEA,Windows,Organic,unknown,Casual,"Samsung Galaxy",user160@example.com
+P00161,"Jan 30, 2026","United States",NA,Android,"Google Ads",18,Competitive,"Windows 10",user161@example.com
+P00162,2026/01/27,Germany,EMEA,Steam,Community,22,Core,iPhone,user162@example.com
+P00163,"02/02/26 07:06",BR,LATAM,Playstation,Streamer,28,Casual,"Xbox Series X",user163@example.com
+P00164,"2025-11-30 08:56:57",IN,APAC,mobile,ORG,16,Core,Pixel,
+P00165,2026/01/22,Australia,APAC,Playstation,Community,17,Core,"Xbox Series X",user165@example.com
+P00166,"2026-03-09 10:57:49",US,NA,PlayStation,YT,22,Casual,"Steam Deck",user166@example.com
+P00167,2026/02/02,Brazil,LATAM,steam,organic,40,Casual,"Windows 10",user167@example.com
+P00168,2025-11-09T03:52:51Z,,EMEA,PC/Steam,organic,18,Core,"Samsung Galaxy",user168@example.com
+P00169," Dec 02, 2025 03:19AM",Deutschland,EMEA,mobile,Influencer,34,Core,"Xbox Series X",user169@example.com
+P00170,08/05/2025,Deutschland,EMEA,Android,Organic,31,Casual,Pixel,user170@example.com
+P00171,04-12-2025,IN,APAC,iOS,YT,24,Competitive,"Windows 10",user171@example.com
+P00172,"Oct 19, 2025",U.K.,EMEA,Mobile,,31,Casual,"Samsung Galaxy",user172@example.com
+NULL,12/01/2025,Brasil,LATAM,NULL,"Store Feature",37,Casual,"Windows 11",user173@example.com
+P00174,"Dec 04, 2025 11:47AM",USA,NA,"Xbox Series X",organic,39,Casual,"Samsung Galaxy",user174@example.com
+P00175,"Sep 22, 2025 07:32AM","United States",NA,iOS,paid_search,45,COMPETITIVE,iPhone,user175@example.com
+P00176,2025.12.25,DE,EMEA,xbox,"Paid Search",33,Core,"Android Tablet",user176@example.com
+P00177,"2025-10-21 18:32:45",DE,EMEA,steam,AppStore,30,Casual,iPhone,user177@example.com
+P00178,,"United states",NA,steam,referral,32,CASUAL,Pixel,user178@example.com
+P00179,"21.11.2025 15:36",US,NA,xbox,YT,41,Core,"Windows 11",user179@example.com
+P00180,"2025-08-15 06:49:47",India,APAC,steam,organic,39,Casual,Pixel,user180@example.com
+P00181,"2025-08-05 22:30:22",IN,APAC,IOS/Android,YT,45,Casual,"Windows 11",user181@example.com
+P00182,"07.11.2025 16:41",BR,LATAM,NULL,"Friend Refer",28,Competitive,"Xbox Series X",user182@example.com
+P00183,2026.03.08,Brasil,LATAM,Mobile,Influencer,30,Core,"Windows 10",user183@example.com
+P00184,2025-12-25,UK,EMEA,Playstation,paid_search,34,Casual,Pixel,user184@example.com
+P00185,2026.01.17,España,,xbox,ORG,21,Casual,Pixel,user185@example.com
+P00186,"12/03/25 23:21",Brasil,LATAM,steam,Twitch,18,Casual,Pixel,user186@example.com
+P00187,"2026/01/01 ",U.K.,EMEA,"Epic PC",organic,32,Casual,"Windows 10",user187@example.com
+NULL,"2025-09-19 19:33:46",Bharat,APAC,"Epic PC","Google Ads",38,Competitive,"Windows 10",user188@example.com
+P00189,2025.08.09,Bharat,APAC,XBOX,paid_search,26,Casual,"Android Tablet",user189@example.com
+P00190,"01.12.2025 06:24",U.S.A,NA,pc,ORG,36,Casual,Pixel,user190@example.com
+P00191,2025-10-02T04:09:59Z,Bharat,APAC,Mobile,Discord,39,Core,iPhone,
+P00192,2026.01.11,KR,APAC,mobile,YT,44,Core,"Android Tablet",user192@example.com
+P00193,"16.01.2026 06:21",IN,APAC,"xbox series","Paid Search",39,CASUAL,"Windows 11",user193@example.com
+P00194,2025-09-23,JP,APAC,PlayStation,organic,41,Casual,iPhone,user194@example.com
+P00195,"2026-01-17 04:49:06",France,EMEA,iOS,paid_search,31,Casual,"Android Tablet",user195@example.com
+P00196,"2025-10-19 10:15:46",JP,APAC,Ps5,Community,37,CORE,iPhone,user196@example.com
+P00197,"2026-01-27 01:53:32",India,APAC,PS,Organic,17,Casual,"Steam Deck",user197@example.com
+P00198,2025/12/25,IN,APAC,PC/Steam,Organic,36,Core,iPhone,user198@example.com
+P00199,"Dec 03, 2025 07:35AM",USA,NA,PlayStation,ORG,35,Core,"Windows 11",user199@example.com
+P00200,"Jan 16, 2026 12:13AM",IN,APAC,"Xbox Series X",YouTube,28,Core,iPhone,user200@example.com
+P00201,"2026-01-17 04:32:31",Brazil,LATAM,steam,Creator,44,competitive,"Windows 11",user201@example.com
+P00202," 2025-12-08T19:51:46Z","United States",NA,Mobile,Organic,39,Core,"Xbox Series X",user202@example.com
+NULL,"02/25/26 11:15","United Kingdom",EMEA,Steam,"Store Feature",45,Casual,"Windows 11",user203@example.com
+P00204,02/04/2026,U.S.A,NA,xbox,Influencer,27,Casual,"Xbox Series X",user204@example.com
+P00205,"01/15/26 18:26",KR,APAC,iOS,influencer,30,Casual,iPad,user205@example.com
+P00206," Feb 26, 2026",AU,APAC,iOS,"Paid Search",30,Competitive,"Android Tablet",user206@example.com
+P00207,11/29/2025,USA,NA,Windows,"Google Ads",20,Casual,"Windows 10",user207@example.com
+P00208,"Jan 01, 2026","United states",NA,pc,ORG,34,Competitive,iPhone,user208@example.com
+P00209,"21.09.2025 23:32",Bharat,APAC,xbox,influencer,42,Core,"Windows 11",user209@example.com
+P00210,2025-12-27,Germany,EMEA,PS,"Google Ads",26,Casual,iPhone,
+P00211,"Feb 22, 2026",FR,EMEA,PC,"Google Ads",43,Competitive,"Android Tablet",user211@example.com
+P00212,2026/01/08,BR,LATAM,iOS,YouTube,42,Core,"Xbox Series X",
+P00213,10/28/2025,"République Française",EMEA,Android,AppStore,38,Competitive,"Windows 11",user213@example.com
+P00214,"26.12.2025 04:48",Brasil,LATAM,"Xbox Series X","Store Feature",31,Core,iPhone,user214@example.com
+P00215,11/06/2025,US,NA,iOS,"Google Ads",28,Core,"Xbox Series X",user215@example.com
+P00216,2025/11/09,IN,APAC,Steam,"Store Feature",22,Casual,"Windows 10",user216@example.com
+P00217,01-12-2025,Deutschland,EMEA,"xbox series",organic,23,Competitive,"Samsung Galaxy",user217@example.com
+P00218," 2025.09.07",FR,EMEA,Playstation,organic,45,Competitive,"Android Tablet",user218@example.com
+P00219,"2025-08-28 12:34:48",FR,EMEA,Mobile,ORG,24,Core,iPhone,user219@example.com
+P00220,2026-01-13T00:41:02Z,U.S.A,NA,Steam,influencer,19,Core,PS5,user220@example.com
+P00221,2025-09-10,Brasil,LATAM,mobile,ORG,24,Casual,"Steam Deck",user221@example.com
+P00222,2026-01-21,US,NA,"Epic PC",Organic,25,Core,"Windows 11",user222@example.com
+P00223,2025-10-13T11:13:52Z,"United States",NA,mobile,Organic,33,Core,"Windows 11",user223@example.com
+P00224,2025.11.19,France,EMEA,PC,Organic,37,Core,iPhone,user224@example.com
+P00225,11-08-2025,Japan,APAC,Mobile,Creator,23,Core,"Windows 11",user225@example.com
+P00226,08/08/2025,España,EMEA,xbox,Organic,25,Casual,,user226@example.com
+P00227,02/06/2026,Brasil,LATAM,pc,Organic,31,Competitive,"Android Tablet",user227@example.com
+P00228,"2026-01-13 ",AU,APAC,Steam,discord,40,core,iPhone,user228@example.com
+P00229,"Aug 05, 2025",Brasil,LATAM,Xbox,organic,19,Casual,"Android Tablet",user229@example.com
+P00230,11-09-2025,France,EMEA,xbox,organic,22,Competitive,"Android Tablet",user230@example.com
+P00231,2025.09.09,Deutschland,EMEA,Android,Organic,19,Competitive,"Windows 11",user231@example.com
+P00232,2026-01-27,,EMEA,IOS/Android,Organic,17,Core,"Android Tablet",
+P00233,2026-01-27T18:42:20Z,,EMEA,PlayStation,discord,36,Casual,iPad,user233@example.com
+P00234,"08/23/25 18:22",Brazil,LATAM,PC/Steam,AppStore,23,Core,"Samsung Galaxy",user234@example.com
+P00235,"Aug 26, 2025",MX,LATAM,XBOX,"Paid Search",42,Casual,iPhone,user235@example.com
+P00236,"Feb 25, 2026 02:48AM",México,LATAM,"Epic PC",paid_search,31,Casual,PS5,user236@example.com
+P00237,2025/09/12,Bharat,APAC,iOS,AppStore,43,CORE,PS5,user237@example.com
+P00238,2026-02-14T19:50:11Z,IN,APAC,Ps5,ORG,34,Casual,"Samsung Galaxy",user238@example.com
+P00239,,"United Kingdom",EMEA,PC,paid_search,18,Casual,"Xbox Series X",user239@example.com
+P00240,"2025-09-01 ",Canada,NA,steam,Creator,27,Core,"Windows 11",user240@example.com
+P00241,2026-01-16,Bharat,APAC,xbox,"Google Ads",39,Core,iPhone,user241@example.com
+P00242,31-10-2025,canada,NA,iOS,"Google Ads",24,Competitive,iPhone,user242@example.com
+P00243,"10/08/25 02:03 ",Nippon,APAC,IOS/Android,Influencer,26,Casual,"Windows 10",user243@example.com
+P00244,"Sep 02, 2025 01:36PM",CA,NA,PlayStation,Streamer,22,Casual,iPhone,
+P00245,29-11-2025,U.K.,EMEA,PC/Steam,Organic,32,Casual,iPad,user245@example.com
+P00246,"06.10.2025 19:20",Korea,APAC,PlayStation,Twitch,20,Core,iPad,user246@example.com
+P00247,"2026-01-01 07:59:00",U.S.A,NA,"Xbox Series X",Organic,24,Core,"Xbox Series X",user247@example.com
+P00248,2026.02.26,Canada,NA,PS,Discord,40,casual,"Windows 10",user248@example.com
+P00249,2025.08.10,Bharat,APAC,Steam,"Paid Search",44,Casual,iPhone,user249@example.com
+P00250,2025-12-15T22:39:52Z,U.S.A,NA,PC/Steam,YT,24,Core,Pixel,user250@example.com
+P00251,08/31/2025,Canada,NA,mobile,"Paid Search",30,Core,"Xbox Series X",user251@example.com
+P00252,02/26/2026,U.S.A,NA,steam,organic,40,CASUAL,iPhone,user252@example.com
+P00253,"Aug 05, 2025","United Kingdom",EMEA,PlayStation,"Google Ads",23,Competitive,"Samsung Galaxy",user253@example.com
+P00254,2025-09-03,Brazil,LATAM,ps5,ORG,42,Core,,user254@example.com
+P00255,"Sep 04, 2025 02:49AM",USA,NA,"Epic PC",YouTube,18,Competitive,PS5,user255@example.com
+P00256,"03.12.2025 18:30",India,APAC,xbox,paid_search,19,Core,"Xbox Series X",user256@example.com
+P00257," Oct 10, 2025 12:10PM",Mexico,LATAM,pc,Organic,39,Casual,iPhone,user257@example.com
+P00258,"Dec 19, 2025 03:32AM",France,EMEA,PlayStation,Influencer,33,Core,"Samsung Galaxy",user258@example.com
+P00259,"17.09.2025 23:48",CA,NA,Xbox,"Paid Search",37,Core,"Xbox Series X",user259@example.com
+P00260,2025-10-28,FR,EMEA,Steam,Organic,36,core,"Windows 11",user260@example.com
+P00261,,KR,APAC,mobile,Referral,33,Core,PS5,user261@example.com
+P00262,2025-09-08,Korea,APAC,xbox,Creator,41,Casual,,user262@example.com
+P00263,"2025-11-07 10:21:33",IN,APAC,mobile,discord,38,Casual,"Windows 11",user263@example.com
+P00264,"Dec 13, 2025 01:32PM",Brasil,LATAM,Windows,"Paid Search",16,Competitive,iPhone,user264@example.com
+P00265,"2026-01-20 02:51:22",Germany,EMEA,Windows,Organic,39,Competitive,"Windows 11",user265@example.com
+P00266,2025-10-07,Bharat,APAC,PS5,"Store Feature",34,Casual,Pixel,
+P00267,2025-09-28,U.S.A,NA,"xbox series",Discord,45,Core,"Samsung Galaxy",user267@example.com
+P00268,2025-10-03T05:22:11Z,,NA,iOS,"Google Ads",42,Casual,PS5,user268@example.com
+P00269,"2025-08-06 00:48:55","United States",NA,pc,organic,45,Casual,"Windows 10",user269@example.com
+P00270,,IN,APAC,mobile,Streamer,45,Core,"Windows 11",user270@example.com
+P00271,"Jan 20, 2026",JP,APAC,Mobile,AppStore,20,CORE,iPhone,user271@example.com
+P00272,2025.12.06,"République Française",EMEA,Windows,AppStore,41,Casual,"Xbox Series X",user272@example.com
+P00273,"Feb 26, 2026",ES,EMEA,"Epic PC",,27,CASUAL,iPhone,user273@example.com
+P00274,2025/09/24,JP,APAC,NULL,"Google Ads",21,Casual,"Windows 11",user274@example.com
+P00275,2026/01/03,"United States",NA,"Xbox Series X",AppStore,26,Casual,"Xbox Series X",user275@example.com
+P00276," 2025-10-18T19:46:09Z",U.K.,EMEA,pc,Community,37,Casual,"Windows 10",user276@example.com
+P00277,"02/09/26 09:49",AU,APAC,pc,Discord,28,Core,"Android Tablet",user277@example.com
+P00278,2025-09-28T02:04:55Z,USA,NA,IOS/Android,Creator,33,Casual,"Xbox Series X",user278@example.com
+P00279," 2026-02-12","United states",NA,PC/Steam,Creator,40,Casual,"Xbox Series X",user279@example.com
+P00280,2025-10-01,Brazil,LATAM,PS5,paid_search,23,Core,"Windows 10",user280@example.com
+P00281,"Aug 19, 2025",U.S.A,NA,IOS/Android,"Paid Search",32,Core,"Windows 10",user281@example.com
+P00282,2026-01-12T17:57:17Z,GB,EMEA,PS5,,23,Casual,"Xbox Series X",user282@example.com
+P00283,2025.11.17,U.S.A,NA,Ps5,"Store Feature",45,Core,iPhone,user283@example.com
+P00284,"2026-02-16 08:49:20",GB,EMEA,Windows,YT,41,Casual,Pixel,user284@example.com
+P00285," 2025-09-18T22:09:18Z ",CA,NA,Android,,21,Core,Pixel,user285@example.com
+P00286,24-12-2025,"United Kingdom",EMEA,Android,Creator,16,Casual,"Windows 11",user286@example.com
+P00287,2025.08.10,USA,NA,PlayStation,"Google Ads",43,Competitive,"Xbox Series X",user287@example.com
+P00288,"02/05/26 11:20",Brazil,LATAM,mobile,"Google Ads",23,Core,"Samsung Galaxy",user288@example.com
+P00289,03-01-2026,IN,APAC,Android,Creator,42,Casual,"Windows 10",user289@example.com
+P00290,11/19/2025,australia,APAC,IOS/Android,Twitch,32,Casual,iPhone,user290@example.com
+P00291,"Sep 06, 2025",India,APAC,mobile,AppStore,unknown,Casual,"Windows 11",user291@example.com
+P00292,"11/19/25 23:59",Korea,APAC,Android,Creator,NULL,Casual,PS5,user292@example.com
+P00293,03/06/2026,Brazil,LATAM,Steam,organic,39,Core,"Samsung Galaxy",user293@example.com
+P00294,2025-10-20T19:11:48Z,KR,APAC,pc,Discord,26,Core,"Windows 10",user294@example.com
+P00295,"10/26/25 03:29",España,EMEA,PC,referral,31,Casual,"Windows 10",
+P00296,"Nov 07, 2025","United states",NA,pc,ORG,37,Casual,"Windows 11",user296@example.com
+P00297,2025-12-18,"United states",NA,steam,paid_search,35,Casual,"Windows 11",user297@example.com
+P00298,2025/11/14,DE,EMEA,Playstation,Twitch,35,Core,iPhone,user298@example.com
+P00299,01/23/2026,"United states",NA,PS5,Community,26,Competitive,"Windows 10",user299@example.com
+NULL,23-12-2025,Canada,,"Epic PC",YouTube,16,COMPETITIVE,,user300@example.com
+P00301,2025/11/10,UK,EMEA,mobile,AppStore,16,Casual,PS5,user301@example.com
+P00302,"12.12.2025 11:43","République Française",EMEA,Windows,"Google Ads",36,Core,PS5,user302@example.com
+P00303,2025-11-24,Bharat,APAC,Android,referral,36,Core,,user303@example.com
+P00304,"2025-09-07 22:53:25",U.K.,EMEA,pc,ORG,unknown,Competitive,PS5,user304@example.com
+P00305,"08/20/25 05:16",India,APAC,XBOX,Discord,NULL,Casual,PS5,user305@example.com
+P00306,27-09-2025,"United States",NA,Xbox,Streamer,36,Core,iPad,user306@example.com
+P00307,"01/21/26 10:41",AU,APAC,Windows,"Paid Search",16,core,"Samsung Galaxy",user307@example.com
+P00308,2025-08-29T12:48:37Z,U.S.A,NA,Mobile,Influencer,29,Core,iPhone,user308@example.com
+P00309,"Oct 08, 2025",,EMEA,"Xbox Series X",paid_search,16,Casual,"Windows 11",user309@example.com
+P00310,"02.01.2026 03:25",USA,NA,Xbox,ORG,22,Core,"Xbox Series X",user310@example.com
+P00311,11/25/2025,"South Korea",APAC,PC/Steam,organic,33,Casual,"Windows 10",user311@example.com
+P00312,"Aug 16, 2025",canada,NA,PS,Organic,45,Competitive,iPad,user312@example.com
+P00313,2025-10-20,DE,EMEA,Android,YouTube,34,Competitive,iPhone,user313@example.com
+P00314,11/01/2025,India,APAC,Windows,twitch,26,core,"Steam Deck",user314@example.com
+P00315,"Dec 13, 2025",U.K.,EMEA,PlayStation,referral,40,Competitive,iPhone,user315@example.com
+P00316,2025-10-14,IN,APAC,Mobile,"Store Feature",17,Casual,"Samsung Galaxy",user316@example.com
+P00317,2026-02-02T19:19:46Z,U.K.,EMEA,Xbox,"Friend Refer",26,Casual,PS5,user317@example.com
+P00318,08/08/2025,USA,NA,iOS,referral,31,Casual,"Samsung Galaxy",user318@example.com
+P00319,2025-10-01,australia,APAC,pc,AppStore,18,Casual,iPhone,user319@example.com
+P00320,,España,EMEA,"xbox series",organic,37,Core,"Samsung Galaxy",user320@example.com
+P00321,"02/19/26 18:59",Germany,EMEA,Mobile,discord,45,Competitive,"Windows 11",user321@example.com
+P00322,21-01-2026,US,NA,PS,influencer,23,Casual,,user322@example.com
+P00323,"2025-09-18 04:49:09",,APAC,Ps5,AppStore,27,Core,"Windows 10",user323@example.com
+P00324," Feb 01, 2026 04:40PM",Japan,APAC,IOS/Android,organic,39,Casual,"Windows 11",user324@example.com
+P00325,"Mar 09, 2026",CA,NA,"xbox series",Creator,31,Casual,iPhone,user325@example.com
+P00326,16-09-2025,Australia,APAC,pc,"Paid Search",20,Casual,"Xbox Series X",user326@example.com
+P00327,"Dec 22, 2025 08:10AM",KR,APAC,PC/Steam,ORG,40,Casual,PS5,user327@example.com
+P00328,2025-10-24T23:11:48Z,Bharat,APAC,Steam,"App Store",44,Core,Pixel,user328@example.com
+P00329," 2025-08-24T14:10:41Z",FR,EMEA,steam,Creator,34,Core,"Windows 11",user329@example.com
+P00330,04-09-2025,canada,NA,Ps5,Creator,20,Core,"Windows 10",user330@example.com
+P00331,"Sep 12, 2025",US,NA,Android,YT,23,Casual,"Xbox Series X",user331@example.com
+P00332,"Nov 19, 2025 01:32AM",U.S.A,NA,PlayStation,paid_search,35,Competitive,"Windows 11",user332@example.com
+P00333,"11/13/25 04:53",australia,APAC,pc,AppStore,24,Core,iPhone,user333@example.com
+P00334,"10/26/25 12:34",CA,NA,"xbox series",organic,28,Core,"Windows 11",user334@example.com
+P00335,2026/03/01,BR,LATAM,PC,"Paid Search",34,Core,"Samsung Galaxy",user335@example.com
+P00336,2025-10-31,"United States",NA,XBOX,paid_search,42,Competitive,"Windows 11",user336@example.com
+P00337,,UK,EMEA,mobile,Creator,30,Competitive,"Windows 11",user337@example.com
+P00338,2025-08-13,México,LATAM,Android,organic,26,Casual,"Windows 10",user338@example.com
+P00339,"09/08/25 16:59",México,LATAM,Playstation,Creator,24,Core,Pixel,user339@example.com
+P00340,,USA,NA,IOS/Android,Twitch,20,Casual,"Windows 11",user340@example.com
+P00341,2026/01/14,Bharat,APAC,iOS,paid_search,16,Core,"Xbox Series X",user341@example.com
+P00342,2025.08.02,"République Française",EMEA,pc,Discord,26,Competitive,"Windows 11",user342@example.com
+P00343,2026-01-02,Spain,EMEA,pc,,34,Core,iPad,user343@example.com
+P00344,12/14/2025,MX,LATAM,Android,referral,44,Core,iPad,user344@example.com
+P00345,"Oct 31, 2025 06:03PM",Canada,NA,xbox,youtube,22,Casual,PS5,user345@example.com
+P00346,2025.12.24,Brasil,LATAM,PC,influencer,25,casual,iPhone,user346@example.com
+P00347,2026-01-10,US,NA,PlayStation,"Google Ads",44,Competitive,,user347@example.com
+P00348,"26.01.2026 02:55",Bharat,APAC,Ps5,"Google Ads",25,Casual,"Windows 11",user348@example.com
+P00349,2025.09.19,FR,EMEA,Windows,youtube,23,Competitive,"Android Tablet",user349@example.com
+P00350,2025-09-01,India,APAC,iOS,organic,NULL,Competitive,"Windows 10",user350@example.com
+P00351,"Dec 31, 2025 09:03AM",Deutschland,EMEA,steam,ORG,19,Core,"Xbox Series X",user351@example.com
+P00352,"12/16/25 18:03",Mexico,LATAM,Playstation,Community,18,Competitive,iPad,user352@example.com
+P00353,2026-02-13,Deutschland,EMEA,PC,YouTube,40,Competitive,"Samsung Galaxy",user353@example.com
+P00354,"Oct 04, 2025","United States",NA,Mobile,paid_search,24,Casual,"Xbox Series X",user354@example.com
+P00355,"Oct 07, 2025 11:15AM",ES,EMEA,Steam,Referral,19,Casual,"Android Tablet",user355@example.com
+P00356,"16.09.2025 08:10","United states",NA,ps5,ORG,40,Core,,user356@example.com
+P00357,"Jan 20, 2026 ",France,EMEA,PlayStation,"Google Ads",36,Core,PS5,user357@example.com
+P00358,09-12-2025,Bharat,APAC,PS5,YouTube,18,Core,Pixel,user358@example.com
+P00359,"Oct 27, 2025 05:20AM",MX,LATAM,Windows,referral,34,Competitive,"Windows 11",user359@example.com
+P00360,"16.01.2026 00:40",GB,EMEA,"Epic PC",ORG,39,Casual,iPhone,user360@example.com
+P00361,"Feb 21, 2026",USA,NA,Mobile,AppStore,42,Casual,"Windows 11",user361@example.com
+P00362,"Aug 21, 2025",Brazil,LATAM,steam,paid_search,42,Casual,PS5,user362@example.com
+P00363,10/27/2025,USA,NA,NULL,,27,Competitive,"Samsung Galaxy",user363@example.com
+P00364,2026-01-26T18:40:09Z,"République Française",EMEA,"xbox series",paid_search,23,Casual,iPhone,user364@example.com
+P00365,2025/12/25,Japan,APAC,"Epic PC",referral,32,Casual,"Windows 11",user365@example.com
+P00366,02/05/2026,US,NA,"Epic PC",Organic,32,Competitive,"Windows 10",user366@example.com
+P00367,2025-08-21T23:30:39Z,CA,NA,Mobile,Discord,27,Core,"Windows 11",user367@example.com
+P00368,17-09-2025,CA,NA,Mobile,Community,17,Competitive,"Windows 11",user368@example.com
+P00369,"19.08.2025 22:28","United States",NA,Playstation,Organic,18,Casual,"Android Tablet",user369@example.com
+P00370,2025.12.10,IN,APAC,Ps5,YT,39,Core,"Windows 11",user370@example.com
+P00371," 23.09.2025 10:42 ",U.S.A,NA,Xbox,Discord,44,Core,"Windows 10",
+P00372,2025.10.21,,APAC,Android,"Paid Search",24,Competitive,iPhone,user372@example.com
+P00373,"15.09.2025 18:30",Spain,EMEA,pc,referral,42,Core,PS5,user373@example.com
+P00374,2026.01.11,India,APAC,Windows,Streamer,20,Casual,iPad,user374@example.com
+P00375,"Sep 12, 2025 ",Brazil,LATAM,PC/Steam,Community,37,Casual,"Windows 11",user375@example.com
+P00376,"09/26/25 19:44","République Française",EMEA,"Xbox Series X",Creator,21,Casual,iPhone,user376@example.com
+P00377,"02/02/26 01:42",DE,EMEA,PlayStation,Streamer,19,Core,"Steam Deck",user377@example.com
+P00378,24-11-2025,IN,APAC,"xbox series",YouTube,43,Casual,,user378@example.com
+NULL,"08/13/25 14:33","United Kingdom",EMEA,NULL,YouTube,35,Core,"Windows 10",user379@example.com
+P00380,02/08/2026,Japan,APAC,Xbox,Organic,30,Core,iPhone,user380@example.com
+P00381,09-09-2025,CA,NA,xbox,AppStore,29,Casual,PS5,user381@example.com
+P00382,"Dec 15, 2025",Korea,APAC,Steam,"Google Ads",33,Core,"Windows 11",user382@example.com
+P00383,"Sep 03, 2025",GB,EMEA,xbox,Organic,28,Casual,"Samsung Galaxy",user383@example.com
+P00384," 2025-09-07",Canada,NA,"Epic PC",Creator,,Casual,"Windows 10",user384@example.com
+P00385,"Nov 19, 2025 02:29AM",U.S.A,NA,steam,organic,33,Casual,"Xbox Series X",user385@example.com
+P00386,"Oct 17, 2025 09:24PM ",Japan,APAC,steam,Influencer,26,Casual,iPhone,user386@example.com
+P00387,2026/01/23,"United States",NA,Xbox,Streamer,30,Casual,"Windows 10",user387@example.com
+P00388,"Aug 24, 2025",MX,LATAM,Android,influencer,28,Casual,"Xbox Series X",user388@example.com
+P00389,"06.08.2025 07:20",IN,APAC,mobile,YouTube,16,Casual,"Samsung Galaxy",user389@example.com
+P00390,"21.11.2025 23:19",Canada,NA,mobile,organic,30,Casual,PS5,user390@example.com
+P00391,"10/19/25 22:02",UK,EMEA,ps5,organic,28,Core,"Windows 10",user391@example.com
+P00392,"2025-08-27 17:19:59","United Kingdom",EMEA,IOS/Android,Organic,34,Casual,"Windows 10",user392@example.com
+P00393,"Oct 20, 2025",ES,EMEA,mobile,organic,28,Core,"Windows 10",user393@example.com
+P00394,"2026-01-27 09:54:30",Germany,EMEA,Android,organic,29,Core,"Windows 10",user394@example.com
+P00395,12/26/2025,México,LATAM,iOS,"Paid Search",unknown,Casual,iPhone,user395@example.com
+P00396,14-08-2025,ES,EMEA,IOS/Android,YouTube,32,Core,"Windows 11",user396@example.com
+P00397,"01/30/26 04:26",GB,EMEA,iOS,YouTube,16,Casual,"Windows 10",user397@example.com
+P00398,"03/09/26 15:19",Japan,APAC,Android,"Google Ads",38,Casual,iPhone,user398@example.com
+P00399,10/04/2025,JP,APAC,Playstation,"Paid Search",30,Core,"Windows 11",user399@example.com
+P00400,22-11-2025,,EMEA,NULL,YT,31,Casual,"Windows 11",user400@example.com
+P00401,2026-03-01,Brasil,LATAM,mobile,paid_search,16,Core,"Xbox Series X",user401@example.com
+P00402,2025-10-27,Canada,NA,mobile,paid_search,25,Casual,PS5,user402@example.com
+P00403,2025-08-13,Canada,NA,Android,"App Store",19,Casual,"Samsung Galaxy",user403@example.com
+P00404,2026-02-13T13:56:16Z,JP,,iOS,Twitch,43,Core,"Windows 11",user404@example.com
+P00405,"2025-11-22 14:05:08",India,APAC,Steam,influencer,23,CASUAL,"Windows 11",user405@example.com
+P00406,2026/01/31,Spain,EMEA,PS,organic,43,Competitive,"Xbox Series X",user406@example.com
+NULL,2026-02-01,australia,APAC,Playstation,YouTube,22,Competitive,"Xbox Series X",user407@example.com
+NULL,04-10-2025,India,APAC,PC,"Google Ads",22,Core,"Steam Deck",user408@example.com
+P00409,"Dec 21, 2025",CA,NA,Steam,YT,29,Core,"Windows 10",user409@example.com
+NULL,2025-09-17T03:31:54Z,ES,EMEA,Mobile,youtube,43,Core,iPad,user410@example.com
+P00411,"13.12.2025 20:01",U.S.A,NA,PC/Steam,"Friend Refer",28,Casual,iPhone,user411@example.com
+P00412,01/11/2026,FR,EMEA,Xbox,influencer,42,casual,"Windows 11",user412@example.com
+P00413,"Nov 16, 2025",Germany,EMEA,"Epic PC",Organic,27,Core,Pixel,user413@example.com
+P00414,"Nov 02, 2025 06:07PM",Bharat,APAC,PC/Steam,AppStore,,casual,PS5,user414@example.com
+P00415,2025/11/02,"United states",NA,Mobile,Streamer,34,competitive,"Android Tablet",user415@example.com
+P00416,"Jan 26, 2026 01:41AM",Germany,EMEA,pc,Referral,25,Competitive,"Windows 10",user416@example.com
+P00417,09/22/2025,,EMEA,PC/Steam,"App Store",45,Core,iPhone,user417@example.com
+P00418,"Sep 05, 2025","South Korea",APAC,PS5,organic,17,Core,"Steam Deck",user418@example.com
+P00419,"Nov 04, 2025",India,APAC,Android,ORG,39,Casual,"Steam Deck",user419@example.com
+P00420,"Feb 28, 2026 09:54AM",IN,APAC,xbox,Community,37,Casual,"Steam Deck",user420@example.com
+P00421,2025.11.17,"United States",NA,PlayStation,Influencer,22,Casual,"Xbox Series X",user421@example.com
+P00422,2025-11-28T22:00:46Z,Deutschland,EMEA,PC/Steam,Community,27,Casual,"Windows 10",user422@example.com
+P00423,2026-01-28,Bharat,APAC,ps5,twitch,31,Casual,PS5,user423@example.com
+P00424,"Aug 14, 2025",IN,APAC,XBOX,paid_search,29,Casual,"Android Tablet",user424@example.com
+P00425,"Feb 17, 2026",Japan,APAC,IOS/Android,Organic,31,CASUAL,iPhone,user425@example.com
+P00426,"Sep 21, 2025 05:06PM",australia,APAC,xbox,YouTube,44,Core,"Android Tablet",user426@example.com
+P00427,2025.11.28,IN,APAC,Xbox,ORG,41,Competitive,"Xbox Series X",user427@example.com
+P00428,"11/24/25 08:36",CA,NULL,mobile,Discord,24,Casual,"Android Tablet",user428@example.com
+P00429,04-11-2025,canada,NA,Mobile,youtube,43,Core,PS5,user429@example.com
+P00430,2026.01.21,Japan,APAC,PS,paid_search,39,Competitive,iPhone,user430@example.com
+P00431,09/04/2025,IN,APAC,IOS/Android,twitch,33,Casual,"Samsung Galaxy",user431@example.com
+P00432,2025.09.21,GB,EMEA,Mobile,"Google Ads",34,Competitive,"Android Tablet",user432@example.com
+P00433,2025-08-03,IN,APAC,ps5,Organic,18,Casual,PS5,user433@example.com
+P00434,02/18/2026,"République Française",EMEA,"Epic PC",discord,39,Competitive,iPhone,user434@example.com
+P00435,"29.12.2025 11:37",U.K.,EMEA,PlayStation,paid_search,21,Casual,"Samsung Galaxy",user435@example.com
+P00436,2025/08/05,,EMEA,Android,Referral,26,Core,"Windows 11",user436@example.com
+P00437,2025-10-16T15:25:48Z,australia,APAC,iOS,ORG,29,Casual,"Xbox Series X",user437@example.com
+P00438,"Dec 24, 2025","United states",NA,Playstation,discord,,CORE,"Xbox Series X",user438@example.com
+P00439,"Sep 03, 2025",CA,NA,"Epic PC","Google Ads",41,Core,"Android Tablet",user439@example.com
+P00440,2026/02/21,Spain,EMEA,Playstation,YouTube,38,Casual,"Android Tablet",user440@example.com
+P00441,"03/03/26 06:46 ",USA,NA,Playstation,Discord,36,Competitive,"Samsung Galaxy",user441@example.com
+P00442,2025-12-25T05:00:39Z,Mexico,LATAM,XBOX,influencer,27,core,"Windows 10",user442@example.com
+P00443,"Oct 15, 2025 06:22AM",canada,NA,IOS/Android,paid_search,33,CORE,"Android Tablet",user443@example.com
+P00444,"Nov 18, 2025","République Française",EMEA,IOS/Android,ORG,29,Casual,"Samsung Galaxy",user444@example.com
+P00445,"Aug 19, 2025 12:05AM",Mexico,LATAM,Steam,"App Store",40,Casual,iPhone,user445@example.com
+P00446,"08.08.2025 12:30",UK,EMEA,steam,"Friend Refer",35,Casual,Pixel,user446@example.com
+P00447,2025-08-17T08:31:37Z,Brasil,LATAM,ps5,Organic,43,Casual,"Windows 10",user447@example.com
+P00448,"09.10.2025 06:43",FR,EMEA,"xbox series","Friend Refer",,Core,"Android Tablet",user448@example.com
+P00449,"Oct 19, 2025 ",India,APAC,PC/Steam,youtube,42,Casual,PS5,user449@example.com
+P00450,2026-03-02T18:26:31Z,FR,NULL,PS,Twitch,27,Casual,"Windows 11",user450@example.com
+P00451,"Sep 21, 2025 11:49PM",India,APAC,PS5,"Paid Search",27,Casual,"Windows 11",user451@example.com
+P00452,"Oct 04, 2025",australia,APAC,"Epic PC",referral,unknown,Core,PS5,user452@example.com
+P00453,"11/14/25 02:46 ",JP,APAC,PS5,ORG,44,Core,iPhone,user453@example.com
+P00454,2025/09/12,Australia,APAC,"Epic PC",YT,41,Casual,"Samsung Galaxy",user454@example.com
+P00455,2026/02/03,Germany,EMEA,PC,Twitch,34,Casual,"Xbox Series X",user455@example.com
+P00456,,U.K.,EMEA,Mobile,Referral,34,Casual,"Windows 10",
+P00457,2025-08-15T22:49:51Z,"United States",NA,Steam,"Google Ads",38,Casual,"Windows 11",user457@example.com
+P00458,2026-02-01T23:53:40Z,US,NA,mobile,Organic,21,CORE,Pixel,user458@example.com
+P00459,2025.11.11,Brazil,LATAM,Ps5,ORG,20,Casual,iPhone,user459@example.com
+P00460,,France,EMEA,"xbox series",Organic,35,Casual,iPad,user460@example.com
+P00461,"2026-01-24 02:48:36",India,APAC,Steam,Referral,32,Competitive,"Samsung Galaxy",user461@example.com
+P00462,2026-03-08,Bharat,APAC,NULL,Referral,43,Casual,"Windows 10",user462@example.com
+P00463,2025.12.19,USA,NA,Xbox,"Paid Search",30,Core,iPhone,user463@example.com
+P00464,"2025-12-14 05:07:56",Deutschland,EMEA,PC/Steam,Creator,24,Casual,"Windows 11",user464@example.com
+P00465,2025.08.20,ES,EMEA,Ps5,"Paid Search",NULL,Casual,iPad,user465@example.com
+P00466,2025-11-19,India,APAC,mobile,ORG,45,Casual,"Samsung Galaxy",user466@example.com
+P00467,"23.02.2026 08:51",US,NA,Mobile,"Friend Refer",26,Core,iPhone,user467@example.com
+P00468,2026.02.04,IN,APAC,PS5,ORG,24,Core,iPhone,user468@example.com
+P00469,"Dec 27, 2025",Germany,EMEA,ps5,youtube,24,Casual,"Xbox Series X",user469@example.com
+P00470,"Jan 08, 2026",Germany,EMEA,Windows,referral,31,Casual,"Windows 11",user470@example.com
+P00471,16-08-2025,México,LATAM,PC/Steam,paid_search,35,Casual,,user471@example.com
+P00472,"2025-10-04 06:37:40",U.S.A,NA,Playstation,paid_search,35,Casual,"Samsung Galaxy",user472@example.com
+P00473,"03/02/26 09:45",Japan,APAC,Android,"Google Ads",42,Competitive,"Samsung Galaxy",user473@example.com
+P00474,2025.10.07,DE,EMEA,ps5,"App Store",31,Core,"Windows 11",user474@example.com
+P00475,"2026-02-21T21:41:06Z ",canada,NA,Playstation,twitch,34,Casual,"Android Tablet",user475@example.com
+P00476,2025-12-20T11:03:31Z,ES,EMEA,iOS,referral,21,Casual,"Samsung Galaxy",user476@example.com
+P00477,"03/06/26 11:37",Brazil,LATAM,Playstation,youtube,31,Core,"Windows 11",user477@example.com
+P00478,08/12/2025,"United states",NA,PC,"Google Ads",37,Core,iPhone,user478@example.com
+P00479,"Feb 11, 2026 10:35AM",U.S.A,NA,PlayStation,ORG,23,Core,"Samsung Galaxy",user479@example.com
+P00480,"23.02.2026 01:57",Australia,APAC,PC,Influencer,45,CASUAL,"Windows 11",user480@example.com
+P00481,"01/07/26 03:34",Bharat,APAC,Windows,paid_search,,Core,"Android Tablet",user481@example.com
+P00482,"Sep 08, 2025 08:05PM",Brasil,LATAM,PC/Steam,paid_search,37,Core,PS5,user482@example.com
+P00483,03-11-2025,JP,APAC,XBOX,Discord,20,Casual,"Windows 11",user483@example.com
+P00484,"2026-01-18 ",GB,EMEA,Ps5,Referral,29,Casual,PS5,user484@example.com
+P00485,14-02-2026,"United States",NA,mobile,Organic,22,Casual,iPhone,user485@example.com
+P00486,"22.10.2025 04:30",US,NULL,steam,ORG,34,Core,"Steam Deck",user486@example.com
+P00487,02/05/2026,México,LATAM,PS5,Organic,24,Competitive,"Xbox Series X",user487@example.com
+P00488,2025.11.25,KR,APAC,pc,Influencer,21,Competitive,"Windows 10",user488@example.com
+P00489,"26.01.2026 17:00",Canada,NA,mobile,Community,39,Core,iPad,user489@example.com
+P00490,"06.11.2025 14:58",Australia,APAC,PlayStation,Streamer,32,Casual,"Windows 11",user490@example.com
+P00491,02/19/2026,India,APAC,"Epic PC","Paid Search",17,Core,"Xbox Series X",user491@example.com
+P00492,"2026.02.28 ",U.S.A,NA,XBOX,paid_search,21,Casual,"Xbox Series X",user492@example.com
+P00493,10-02-2026,Brazil,LATAM,Steam,Influencer,43,core,"Windows 11",user493@example.com
+P00494,2026/01/23,FR,EMEA,PS,organic,29,Casual,iPhone,user494@example.com
+P00495,2026-02-20,Germany,EMEA,Steam,YT,22,core,PS5,user495@example.com
+P00496,2026-01-25T16:33:27Z,Japan,APAC,PC,YouTube,22,Core,"Windows 11",user496@example.com
+P00497,2025/08/03,"United states",NA,XBOX,youtube,33,casual,"Xbox Series X",user497@example.com
+P00498," 2025.12.09",U.S.A,NA,ps5,AppStore,37,Core,"Samsung Galaxy",user498@example.com
+P00499,2025.12.05,canada,NA,Playstation,Discord,23,Casual,"Windows 11",user499@example.com
+P00500,23-08-2025,"République Française",EMEA,Mobile,"Google Ads",23,Core,Pixel,user500@example.com
+P00501,10/17/2025,"United Kingdom",EMEA,mobile,influencer,36,Core,iPad,user501@example.com
+P00502,09/24/2025,U.S.A,NA,pc,"Paid Search",41,Casual,PS5,user502@example.com
+P00503,11/12/2025,Bharat,APAC,IOS/Android,"Google Ads",36,Core,"Android Tablet",user503@example.com
+P00504,2026.01.14,U.S.A,NA,steam,"Paid Search",21,Casual,iPad,user504@example.com
+P00505,,"United states",NA,Windows,Organic,33,Casual,"Windows 10",user505@example.com
+P00506,2025.11.25,Bharat,APAC,ps5,paid_search,31,Casual,"Xbox Series X",user506@example.com
+P00507,"2025-08-07 ",KR,APAC,"Epic PC",influencer,45,Casual,"Windows 11",user507@example.com
+P00508,29-09-2025,Canada,NA,steam,organic,30,Casual,"Windows 10",user508@example.com
+P00509,"28.11.2025 01:19",CA,NA,IOS/Android,"Paid Search",NULL,Casual,iPhone,user509@example.com
+P00510,"12/23/25 22:34",IN,APAC,XBOX,Organic,35,Casual,"Android Tablet",user510@example.com
+P00511,"17.01.2026 08:16",France,EMEA,XBOX,Influencer,19,Core,"Xbox Series X",user511@example.com
+P00512,03/03/2026,AU,APAC,Steam,"Store Feature",37,Competitive,iPhone,user512@example.com
+P00513,2025-12-13T13:52:32Z,"United States",NA,"xbox series",Organic,26,Casual,"Steam Deck",user513@example.com
+P00514,"2025-10-04 15:25:21",Mexico,LATAM,XBOX,ORG,17,Core,"Samsung Galaxy",user514@example.com
+P00515,2026-01-18,IN,APAC,steam,Organic,18,Core,"Windows 11",user515@example.com
+P00516,"11/24/25 12:25",Brasil,LATAM,Android,"Google Ads",29,Core,"Windows 11",user516@example.com
+P00517,"2025-10-01 13:08:19","United States",NA,Playstation,Organic,40,Casual,iPhone,user517@example.com
+P00518,2025/09/22,"United states",NA,Windows,organic,38,Casual,PS5,user518@example.com
+P00519,"10/16/25 07:49",Brasil,LATAM,PS,referral,29,Casual,"Samsung Galaxy",user519@example.com
+P00520,2025-11-22,,APAC,PC/Steam,twitch,,Casual,iPad,user520@example.com
+P00521,2026-02-26T20:12:28Z,JP,APAC,"xbox series",paid_search,unknown,Casual,PS5,user521@example.com
+P00522,"Sep 19, 2025",U.S.A,NA,PC,organic,29,Core,"Xbox Series X",user522@example.com
+P00523,2025-10-13T22:48:51Z,AU,APAC,mobile,Creator,,Core,"Windows 11",user523@example.com
+P00524,"Aug 09, 2025",IN,APAC,Windows,discord,45,Core,"Windows 11",user524@example.com
+P00525,"Dec 30, 2025 02:38PM","United Kingdom",EMEA,Windows,Discord,37,Casual,"Windows 10",user525@example.com
+P00526,"2025-09-21 21:47:34",IN,APAC,Playstation,organic,33,Casual,"Windows 10",user526@example.com
+P00527,"Aug 04, 2025 05:52PM",U.S.A,NA,Ps5,Streamer,,Core,PS5,user527@example.com
+P00528,"2026-03-04 01:42:39",MX,LATAM,"Epic PC",Influencer,20,Casual,PS5,user528@example.com
+P00529,"2026-02-01 16:24:16",U.K.,EMEA,"xbox series",Twitch,,Casual,PS5,user529@example.com
+P00530,23-11-2025,FR,EMEA,steam,ORG,31,Casual,"Windows 10",user530@example.com
+P00531,2025.12.07,DE,EMEA,xbox,Organic,31,Casual,"Xbox Series X",user531@example.com
+P00532,12/03/2025,CA,NA,PlayStation,Community,45,Casual,"Windows 10",user532@example.com
+P00533,"2025-10-10 ",Japan,APAC,ps5,Creator,27,Casual,Pixel,user533@example.com
+P00534,2025-08-20T19:09:50Z,Brazil,LATAM,"Xbox Series X","Friend Refer",16,Casual,PS5,user534@example.com
+P00535,08/16/2025,Brazil,LATAM,Ps5,YT,43,CORE,"Xbox Series X",user535@example.com
+P00536,2025.11.08,Nippon,APAC,"xbox series","Store Feature",39,Casual,"Windows 11",user536@example.com
+P00537,"12/22/25 20:53",Bharat,APAC,steam,Community,31,Casual,"Android Tablet",user537@example.com
+P00538,"Oct 13, 2025 ",Australia,NULL,Windows,Influencer,26,Competitive,"Windows 11",user538@example.com
+P00539,2025-12-27,DE,EMEA,"Xbox Series X",Influencer,39,Competitive,iPhone,user539@example.com
+P00540,"03/05/26 23:07",Deutschland,EMEA,Windows,ORG,24,Casual,"Windows 11",user540@example.com
+P00541,08/09/2025,CA,NA,Mobile,paid_search,23,Competitive,"Windows 11",user541@example.com
+P00542,08/01/2025,Bharat,APAC,xbox,,22,Core,"Samsung Galaxy",user542@example.com
+P00543,"Oct 05, 2025 05:03AM",DE,EMEA,pc,influencer,34,Core,"Samsung Galaxy",user543@example.com
+P00544,"01.12.2025 23:14",Canada,NA,PS5,discord,42,Casual,"Xbox Series X",user544@example.com
+P00545,"2025-12-22 09:08:52",MX,LATAM,mobile,discord,28,Casual,"Android Tablet",user545@example.com
+P00546,2025-09-25,U.K.,EMEA,IOS/Android,Organic,26,Core,"Windows 10",user546@example.com
+P00547,"20.01.2026 18:50",DE,EMEA,XBOX,influencer,unknown,Casual,"Windows 11",user547@example.com
+P00548,11/03/2025,FR,EMEA,Mobile,YouTube,23,Core,"Samsung Galaxy",user548@example.com
+P00549,08/20/2025,IN,APAC,Mobile,ORG,23,Core,iPhone,user549@example.com
+P00550,17-10-2025,,EMEA,Mobile,YT,30,Competitive,PS5,user550@example.com
+P00551,2025-12-16,,APAC,PC,"Google Ads",28,Core,iPhone,user551@example.com
+P00552,2025/11/28,"United Kingdom",EMEA,Android,Community,41,Core,"Windows 10",user552@example.com
+P00553,"2025-08-11 03:40:10",U.K.,EMEA,PS,paid_search,44,Casual,"Windows 10",user553@example.com
+P00554,,FR,EMEA,IOS/Android,Discord,18,CORE,"Windows 11",user554@example.com
+P00555,"Nov 06, 2025",DE,EMEA,Playstation,YouTube,18,Core,"Windows 11",
+P00556,2025-09-01,Bharat,APAC,PC,Organic,16,COMPETITIVE,"Windows 10",user556@example.com
+P00557,2025-11-19T10:50:09Z,"United states",NA,Mobile,Creator,40,Casual,"Windows 11",user557@example.com
+P00558,2025-08-21T14:51:40Z,México,LATAM,IOS/Android,ORG,38,Core,"Windows 10",user558@example.com
+P00559,2025-08-09,JP,APAC,pc,ORG,18,Competitive,PS5,user559@example.com
+P00560,"12/02/25 10:51",France,EMEA,"Epic PC",Discord,40,Casual,"Windows 11",user560@example.com
+P00561,27-10-2025,Brasil,LATAM,Steam,Organic,37,Core,"Samsung Galaxy",user561@example.com
+P00562,12/13/2025,U.S.A,NA,Steam,Community,19,Casual,"Windows 10",user562@example.com
+P00563,2026/01/01,ES,EMEA,Steam,Community,32,Competitive,"Windows 11",user563@example.com
+P00564,"02/09/26 15:11",India,APAC,Android,organic,17,CASUAL,"Windows 11",user564@example.com
+P00565,"2025.09.25 ",IN,APAC,PC/Steam,ORG,43,Casual,"Windows 11",user565@example.com
+P00566,"12/28/25 23:20",U.K.,EMEA,pc,"Friend Refer",18,Core,"Android Tablet",user566@example.com
+P00567,"Aug 02, 2025 12:51AM",FR,EMEA,steam,"Paid Search",30,Competitive,"Windows 10",user567@example.com
+P00568,2026-02-04T21:31:02Z,"United Kingdom",EMEA,"Xbox Series X",paid_search,22,Casual,"Windows 10",user568@example.com
+P00569,"01/03/26 07:59","United States",NA,mobile,YT,33,Competitive,"Windows 10",user569@example.com
+P00570,21-02-2026,Australia,APAC,mobile,ORG,NULL,Competitive,,user570@example.com
+P00571,"Nov 02, 2025","South Korea",APAC,PlayStation,youtube,39,Competitive,PS5,user571@example.com
+P00572,"Dec 23, 2025",Mexico,LATAM,NULL,Organic,37,Core,Pixel,
+P00573,2025/11/02,AU,APAC,mobile,twitch,41,Casual,iPhone,user573@example.com
+P00574,"05.10.2025 03:22",Bharat,APAC,PC/Steam,Organic,41,Core,Pixel,user574@example.com
+P00575,2025.12.01,Bharat,APAC,XBOX,discord,28,Core,"Windows 10",user575@example.com
+P00576," 02/06/2026",IN,APAC,xbox,influencer,24,Casual,Pixel,user576@example.com
+P00577,2026/03/05,ES,EMEA,Steam,youtube,40,Competitive,"Steam Deck",user577@example.com
+P00578,11-11-2025,"United states",NA,PC,Discord,17,Casual,"Windows 11",user578@example.com
+P00579,"10/24/25 09:42",IN,APAC,PC/Steam,paid_search,16,Core,"Android Tablet",user579@example.com
+P00580,"2026-01-31 23:53:45","United States",NA,pc,paid_search,19,Core,iPhone,user580@example.com
+P00581,"Oct 09, 2025",India,APAC,IOS/Android,organic,40,Casual,"Windows 11",user581@example.com
+P00582,"07.09.2025 05:28",Mexico,LATAM,IOS/Android,referral,45,Core,"Windows 10",user582@example.com
+P00583,"2025-10-20 00:09:44 ",Brazil,LATAM,Windows,"Paid Search",32,Core,"Windows 10",user583@example.com
+P00584,07-10-2025,,NA,"xbox series",paid_search,29,Competitive,"Xbox Series X",user584@example.com
+P00585,"13.10.2025 11:27",India,APAC,Playstation,organic,21,Casual,"Windows 10",user585@example.com
+P00586,"2026-03-08 01:23:00",Japan,APAC,Android,Discord,18,Competitive,"Windows 11",user586@example.com
+P00587,"Dec 13, 2025 03:31PM",Deutschland,EMEA,"Xbox Series X","Store Feature",38,Competitive,"Android Tablet",user587@example.com
+P00588,05-09-2025,Deutschland,EMEA,iOS,discord,28,Core,"Windows 11",user588@example.com
+P00589,01/19/2026,BR,LATAM,Windows,"Paid Search",29,Core,"Windows 10",user589@example.com
+P00590,"11.01.2026 09:26",Bharat,APAC,pc,influencer,23,Core,"Android Tablet",user590@example.com
+P00591,"Oct 14, 2025 07:00AM",DE,EMEA,pc,Organic,34,Casual,"Windows 11",user591@example.com
+P00592,"Aug 08, 2025",Nippon,APAC,Steam,Organic,26,Core,"Windows 10",user592@example.com
+P00593,"Feb 05, 2026",Nippon,APAC,Android,"Paid Search",17,Casual,iPad,user593@example.com
+P00594,2025/11/20,IN,APAC,xbox,paid_search,27,Core,Pixel,user594@example.com
+P00595,2025/08/09,U.S.A,NA,PC,YT,26,Core,"Xbox Series X",user595@example.com
+P00596,2025/08/31,CA,NA,iOS,Organic,33,Casual,"Android Tablet",user596@example.com
+P00597," 2025/09/09",MX,LATAM,Android,Streamer,18,Core,Pixel,user597@example.com
+P00598,12/25/2025,Bharat,APAC,XBOX,"Paid Search",21,Casual,PS5,user598@example.com
+P00599,"2025-10-19 02:36:16",Bharat,APAC,Steam,organic,45,Casual,"Xbox Series X",user599@example.com
+P00600,2025-08-13,India,APAC,Playstation,Organic,36,Casual,"Windows 10",user600@example.com
+P00601," 25.01.2026 13:59 ","United states",NA,Playstation,"Friend Refer",27,Casual,iPhone,user601@example.com
+P00602,2025.08.21,ES,EMEA,"Epic PC",Twitch,26,Core,"Windows 11",user602@example.com
+P00603,"25.01.2026 00:44",Brasil,LATAM,PS5,"Google Ads",41,Casual,"Windows 11",user603@example.com
+P00604,2025-08-09T19:02:09Z,México,LATAM,ps5,Community,26,Core,"Xbox Series X",user604@example.com
+P00605,"Aug 23, 2025",México,LATAM,PS,Referral,26,competitive,iPhone,user605@example.com
+P00606," 2026.01.05",Germany,EMEA,Steam,youtube,24,Core,iPhone,user606@example.com
+P00607,2026-02-09T10:20:29Z,JP,APAC,steam,organic,30,Casual,"Windows 11",user607@example.com
+P00608,"08/03/25 08:22",Germany,EMEA,IOS/Android,organic,18,Casual,,user608@example.com
+P00609,2025.09.23,"United states",NA,PC/Steam,Referral,41,Core,iPhone,user609@example.com
+P00610,,México,LATAM,"xbox series",,45,Core,iPhone,user610@example.com
+P00611,"Mar 08, 2026 02:58AM",U.K.,EMEA,IOS/Android,discord,,Core,PS5,user611@example.com
+P00612,"2025-08-03 10:18:05","United states",NA,steam,"Friend Refer",34,Core,"Samsung Galaxy",user612@example.com
+P00613,07-01-2026,MX,LATAM,pc,ORG,32,Competitive,"Windows 10",user613@example.com
+P00614,2026.03.06,"United States",NA,Ps5,ORG,29,Casual,"Xbox Series X",user614@example.com
+P00615,"Feb 22, 2026 05:34AM",Korea,APAC,Steam,AppStore,18,Core,"Xbox Series X",user615@example.com
+P00616,2025-08-09,AU,APAC,Mobile,YT,17,Core,PS5,user616@example.com
+P00617,"12/31/25 01:27",México,LATAM,Android,"Google Ads",33,Core,iPhone,user617@example.com
+P00618,2026/01/21,Germany,EMEA,Steam,YT,42,Casual,iPhone,user618@example.com
+P00619," 2025/11/26",MX,LATAM,Steam,Influencer,22,Core,Pixel,user619@example.com
+P00620,2025/09/24,BR,LATAM,pc,discord,42,Core,,user620@example.com
+P00621,11/06/2025,BR,LATAM,PS5,Discord,42,Casual,"Windows 11",user621@example.com
+P00622,12/04/2025,Brasil,LATAM,iOS,ORG,37,Casual,Pixel,user622@example.com
+P00623,03-11-2025,"South Korea",APAC,PC,paid_search,45,Core,PS5,user623@example.com
+P00624,,Bharat,APAC,Mobile,YT,29,Core,PS5,user624@example.com
+NULL,"Jan 05, 2026 05:05AM",USA,NA,Windows,discord,35,Core,"Windows 10",user625@example.com
+P00626,2025.10.07,Bharat,APAC,Playstation,"Store Feature",43,Competitive,PS5,user626@example.com
+P00627,2025/09/07,BR,LATAM,PlayStation,paid_search,18,Competitive,"Windows 10",user627@example.com
+P00628,"02/04/26 14:54","United States",NA,Xbox,organic,26,Casual,iPhone,user628@example.com
+P00629,"2026-03-09 10:19:04",KR,APAC,PS5,influencer,,Casual,"Windows 11",user629@example.com
+P00630,10/06/2025,MX,LATAM,PC,ORG,18,COMPETITIVE,PS5,user630@example.com
+P00631,11/29/2025,Bharat,APAC,PC/Steam,Creator,27,Casual,PS5,user631@example.com
+NULL,08/14/2025,,APAC,XBOX,Streamer,23,Core,PS5,user632@example.com
+P00633,2025.08.01,Brasil,LATAM,Android,"App Store",39,CASUAL,"Windows 11",user633@example.com
+P00634," 2025-12-03T18:34:20Z",canada,NA,"xbox series","Store Feature",19,Core,PS5,user634@example.com
+P00635,2025.09.17,France,EMEA,Steam,twitch,32,Core,"Samsung Galaxy",user635@example.com
+P00636,2025-12-23,"United States",NA,Android,Streamer,36,Core,iPhone,user636@example.com
+P00637,"2025-10-29 21:41:40","United States",NA,xbox,,unknown,casual,"Samsung Galaxy",user637@example.com
+P00638,"20.01.2026 06:16",MX,LATAM,Mobile,paid_search,16,Competitive,iPhone,user638@example.com
+P00639,"Sep 23, 2025 05:39AM",Deutschland,EMEA,Android,organic,32,Casual,Pixel,user639@example.com
+P00640,"2026-02-28 23:38:16",Canada,NA,mobile,organic,44,Competitive,"Steam Deck",user640@example.com
+P00641,15-09-2025,MX,LATAM,PlayStation,organic,35,Casual,"Xbox Series X",user641@example.com
+P00642,26-12-2025,"République Française",EMEA,mobile,organic,41,Core,Pixel,user642@example.com
+P00643,"10/13/25 22:43","République Française",EMEA,Windows,YouTube,28,Core,"Windows 11",user643@example.com
+P00644,"18.01.2026 10:19",Spain,EMEA,PS5,organic,17,Core,"Xbox Series X",
+P00645,2026-03-01,UK,EMEA,Playstation,Influencer,22,Core,"Windows 10",user645@example.com
+P00646,31-12-2025,IN,APAC,NULL,Influencer,30,Core,"Windows 11",user646@example.com
+P00647,08/25/2025,Japan,APAC,"xbox series",discord,37,Casual,"Android Tablet",user647@example.com
+P00648,2025/10/08,France,EMEA,Windows,"Google Ads",45,Core,"Windows 11",user648@example.com
+P00649,"14.08.2025 08:04",JP,APAC,mobile,Referral,16,Casual,"Windows 11",user649@example.com
+P00650," 2025/11/04","United States",NA,"Epic PC",discord,34,Casual,"Samsung Galaxy",user650@example.com
+P00651,"Oct 16, 2025 06:12PM",ES,EMEA,Playstation,influencer,34,Core,"Xbox Series X",user651@example.com
+P00652,"Dec 15, 2025 03:49PM",australia,APAC,Android,ORG,18,Core,,user652@example.com
+P00653,10-11-2025,Japan,APAC,NULL,Twitch,39,Casual,"Windows 11",user653@example.com
+P00654,02/03/2026,Korea,APAC,PC,discord,17,Casual,"Xbox Series X",user654@example.com
+P00655," 04-03-2026",AU,APAC,NULL,AppStore,,Casual,Pixel,user655@example.com
+P00656," 2025/09/08 ",CA,NA,PS,Twitch,38,Casual,"Windows 10",user656@example.com
+P00657,2025-11-08T14:37:40Z,FR,EMEA,ps5,Discord,16,Core,iPhone,user657@example.com
+P00658,"2025-12-06 16:52:54",IN,APAC,Android,youtube,20,Competitive,"Windows 10",user658@example.com
+P00659,,Brasil,LATAM,IOS/Android,Discord,45,Core,iPhone,
+P00660,2026/03/06,,NA,PS5,organic,39,Competitive,PS5,
+P00661,2025-10-28T19:34:49Z,U.K.,EMEA,pc,YouTube,28,Casual,"Windows 11",user661@example.com
+P00662,"Nov 05, 2025",KR,APAC,Windows,youtube,35,Casual,"Windows 11",user662@example.com
+P00663,2025-11-14T22:31:57Z,Deutschland,EMEA,pc,influencer,43,Casual,"Samsung Galaxy",user663@example.com
+P00664,"2026-01-23 15:53:28",U.S.A,NA,"Epic PC",organic,25,Core,"Windows 11",user664@example.com
+P00665,12/19/2025,Brasil,LATAM,iOS,Streamer,17,Competitive,Pixel,
+P00666,"Nov 05, 2025 04:58PM",U.K.,EMEA,IOS/Android,paid_search,45,Core,iPhone,user666@example.com
+P00667,"Dec 05, 2025 02:00PM",Nippon,APAC,pc,referral,26,Casual,"Windows 11",user667@example.com
+P00668,08/12/2025,U.S.A,NA,Ps5,paid_search,45,Core,"Windows 11",user668@example.com
+P00669,2025.11.01,DE,EMEA,Ps5,Referral,21,Casual,iPhone,user669@example.com
+P00670,"2025-12-17 17:52:18",,EMEA,Windows,ORG,26,Casual,"Xbox Series X",user670@example.com
+P00671,01/27/2026,USA,NA,"xbox series","Store Feature",35,Casual,"Windows 11",user671@example.com
+P00672,2025-09-14,India,APAC,NULL,AppStore,35,Competitive,"Windows 11",user672@example.com
+P00673,"Jan 18, 2026",Brazil,LATAM,steam,Discord,,casual,"Windows 11",user673@example.com
+P00674,"Feb 01, 2026","United States",NA,ps5,"Store Feature",40,Casual,"Steam Deck",user674@example.com
+P00675,06-03-2026,Canada,NA,IOS/Android,"Google Ads",28,Casual,"Windows 10",user675@example.com
+P00676,10/05/2025,"South Korea",APAC,PC,"Paid Search",43,Competitive,Pixel,user676@example.com
+P00677,"01.03.2026 11:24",Bharat,APAC,xbox,"Friend Refer",44,Casual,iPhone,user677@example.com
+NULL,2025.09.26,U.S.A,NA,Mobile,,43,Core,"Windows 10",user678@example.com
+P00679,02-02-2026,"South Korea",APAC,PC,ORG,33,Casual,iPhone,user679@example.com
+P00680,"Nov 11, 2025",USA,NA,"Epic PC",YouTube,31,Casual,iPhone,user680@example.com
+P00681," Sep 04, 2025 04:48AM",U.K.,EMEA,Mobile,"Google Ads",26,Core,iPhone,user681@example.com
+P00682,2025.08.21,canada,NA,"Epic PC",Community,34,Casual,"Windows 10",user682@example.com
+P00683,"10/17/25 03:58","United states",NA,Ps5,ORG,20,Casual,iPhone,user683@example.com
+P00684,2025-11-22T01:07:20Z,U.S.A,NA,mobile,"Google Ads",,Casual,"Xbox Series X",
+P00685,"04.10.2025 00:08",FR,EMEA,PC/Steam,"Paid Search",22,Casual,"Android Tablet",user685@example.com
+P00686,"2025/12/15 ","United states",NA,xbox,ORG,19,Core,"Windows 10",user686@example.com
+P00687,"Sep 09, 2025",U.S.A,,XBOX,paid_search,19,Casual,iPhone,user687@example.com
+P00688,"21.12.2025 02:28",DE,EMEA,iOS,Organic,43,Competitive,iPhone,user688@example.com
+P00689,"30.12.2025 06:21",US,NA,Xbox,youtube,17,Casual,Pixel,user689@example.com
+P00690,"11.01.2026 19:09",Japan,APAC,Android,"Friend Refer",43,Casual,PS5,user690@example.com
+P00691,27-08-2025,GB,EMEA,"xbox series",youtube,44,Core,"Windows 10",user691@example.com
+P00692,"2025-09-14 17:57:48",México,LATAM,IOS/Android,Influencer,41,Core,iPhone,user692@example.com
+P00693,"Nov 05, 2025",US,NA,"Epic PC",Community,38,Competitive,"Android Tablet",user693@example.com
+P00694,"Sep 28, 2025",France,EMEA,Android,paid_search,24,Casual,"Steam Deck",user694@example.com
+P00695,2025.12.19,India,APAC,Windows,Referral,29,CORE,"Android Tablet",user695@example.com
+P00696,"08.02.2026 22:35",USA,NA,IOS/Android,YT,40,Casual,"Windows 10",user696@example.com
+P00697,"10.10.2025 09:29",Japan,APAC,Ps5,paid_search,43,Core,"Windows 10",user697@example.com
+P00698,2026-01-17,Australia,APAC,Mobile,Influencer,17,Competitive,"Windows 10",user698@example.com
+P00699,15-08-2025,GB,EMEA,"xbox series",discord,44,Core,"Windows 10",user699@example.com
+P00700," 2025-12-18 19:30:52",CA,NA,Steam,AppStore,40,Competitive,iPad,user700@example.com
+P00701,2025.10.19,Canada,NA,Xbox,AppStore,21,Competitive,"Xbox Series X",user701@example.com
+P00702,2026-02-09T13:38:51Z,UK,EMEA,"Epic PC",youtube,26,CORE,"Windows 11",user702@example.com
+P00703,2025.12.31,canada,NA,"Xbox Series X",Organic,24,Core,iPad,
+P00704,"Aug 14, 2025","United Kingdom",EMEA,"Epic PC",ORG,40,Core,"Xbox Series X",user704@example.com
+P00705,"Dec 21, 2025 05:55AM",australia,APAC,mobile,ORG,20,Competitive,PS5,user705@example.com
+P00706,2026-01-27T05:54:35Z,Germany,EMEA,Xbox,Influencer,36,CASUAL,"Android Tablet",user706@example.com
+P00707,28-08-2025,IN,APAC,PC/Steam,organic,19,Casual,iPhone,user707@example.com
+P00708,"Oct 03, 2025 07:28PM",FR,EMEA,IOS/Android,ORG,30,Casual,"Samsung Galaxy",user708@example.com
+P00709,"04.03.2026 19:48","United Kingdom",EMEA,steam,"Store Feature",30,Casual,iPhone,user709@example.com
+P00710,12/13/2025,GB,EMEA,Android,youtube,41,Core,Pixel,user710@example.com
+P00711,"2025-12-10 04:07:27",KR,APAC,pc,"Google Ads",18,Competitive,"Windows 10",user711@example.com
+P00712,2026/02/06,México,LATAM,PC,ORG,45,CASUAL,"Android Tablet",user712@example.com
+P00713,17-11-2025,AU,APAC,XBOX,ORG,17,Core,"Steam Deck",user713@example.com
+P00714,03/01/2026,US,NA,PS,"Google Ads",27,Casual,"Samsung Galaxy",user714@example.com
+P00715,2025/09/19,Germany,EMEA,Mobile,Referral,17,Casual,"Windows 11",user715@example.com
+P00716,"Aug 17, 2025 12:42PM",IN,APAC,XBOX,YouTube,26,Casual,"Windows 11",user716@example.com
+P00717,"28.12.2025 21:38",India,APAC,pc,Creator,44,Casual,Pixel,user717@example.com
+P00718,12-08-2025,Canada,,Windows,paid_search,43,Core,"Xbox Series X",user718@example.com
+P00719,10/20/2025,México,LATAM,"Xbox Series X",Streamer,42,Casual,iPhone,user719@example.com
+P00720,"28.11.2025 15:07",Korea,APAC,PlayStation,Organic,39,Casual,"Windows 10",user720@example.com
+P00721,2025-08-08,Germany,EMEA,"Xbox Series X",organic,32,Core,iPhone,user721@example.com
+P00722,2025/11/09,"République Française",EMEA,iOS,Organic,43,Casual,"Windows 11",user722@example.com
+P00723,,"South Korea",APAC,"xbox series",Organic,37,Core,"Windows 11",user723@example.com
+P00724,2025-08-25,"United Kingdom",EMEA,Windows,,39,Competitive,iPhone,user724@example.com
+P00725,"11/23/25 09:54","United States",NA,"Xbox Series X",ORG,37,Core,"Xbox Series X",
+P00726,03-10-2025,U.S.A,NA,Mobile,"Google Ads",24,Casual,"Steam Deck",user726@example.com
+P00727,"2025-11-21 14:23:51",Spain,EMEA,PC/Steam,twitch,17,Core,Pixel,user727@example.com
+P00728,10/15/2025,Bharat,APAC,PC,Community,18,Competitive,iPhone,user728@example.com
+P00729,,"République Française",EMEA,steam,Twitch,17,Competitive,"Windows 11",user729@example.com
+P00730,2026/02/21,"United Kingdom",EMEA,mobile,Creator,41,Core,PS5,user730@example.com
+P00731,2025-11-15,Brazil,LATAM,Playstation,"Google Ads",16,Casual,iPhone,user731@example.com
+P00732,"2025-09-11 11:57:42",IN,APAC,NULL,Organic,26,Core,"Xbox Series X",user732@example.com
+P00733,2025-10-19,IN,APAC,Windows,paid_search,24,Core,PS5,user733@example.com
+P00734,"Jan 31, 2026",Canada,NA,pc,youtube,43,Casual,"Xbox Series X",user734@example.com
+P00735,2025-12-19,"République Française",EMEA,PS5,youtube,22,Casual,"Android Tablet",user735@example.com
+P00736,2025.10.11,AU,APAC,IOS/Android,AppStore,34,Competitive,"Windows 11",
+P00737,29-01-2026,DE,EMEA,Ps5,influencer,28,Core,"Samsung Galaxy",user737@example.com
+P00738,"Sep 12, 2025",España,EMEA,Steam,Creator,36,CASUAL,"Steam Deck",user738@example.com
+P00739,"09/21/25 02:56",France,EMEA,mobile,YT,18,Casual,Pixel,user739@example.com
+P00740,"2025-11-15T10:28:39Z ",canada,NA,Playstation,,16,CASUAL,"Windows 10",user740@example.com
+P00741,07-08-2025,Deutschland,EMEA,Playstation,"Friend Refer",24,COMPETITIVE,"Windows 10",user741@example.com
+P00742,"Jan 11, 2026 08:56AM","République Française",EMEA,"Xbox Series X",Community,23,Casual,Pixel,user742@example.com
+P00743,"18.01.2026 07:01","United States",NA,"xbox series",Organic,26,Core,"Steam Deck",user743@example.com
+P00744,26-12-2025,India,APAC,steam,ORG,unknown,Casual,"Xbox Series X",user744@example.com
+P00745,"10/19/25 12:57",U.S.A,NA,PS,paid_search,20,Casual,"Windows 11",user745@example.com
+P00746," Feb 06, 2026 04:41PM",Brasil,LATAM,Windows,"Paid Search",27,Casual,"Windows 11",user746@example.com
+P00747,"Oct 24, 2025 04:40PM","République Française",EMEA,Xbox,twitch,37,Competitive,,user747@example.com
+P00748,"Sep 03, 2025 06:33AM","United States",NA,xbox,"Google Ads",19,Casual,"Steam Deck",user748@example.com
+P00749,2025-12-24T13:37:50Z,canada,NA,Mobile,organic,31,Casual,PS5,user749@example.com
+P00750,"30.09.2025 11:33",ES,EMEA,Android,Organic,29,Core,iPhone,user750@example.com
+P00751,"2025-11-19 15:59:16 ",Japan,APAC,ps5,Organic,28,Competitive,"Samsung Galaxy",user751@example.com
+P00752,2026-03-04T02:31:44Z,Japan,APAC,"xbox series","App Store",33,Casual,"Windows 11",user752@example.com
+P00753,2025/12/17,España,EMEA,PC,Influencer,28,casual,"Samsung Galaxy",user753@example.com
+P00754,"11/13/2025 ","United States",NA,Android,"Paid Search",45,Casual,"Steam Deck",user754@example.com
+P00755,"Oct 22, 2025",DE,EMEA,IOS/Android,"Google Ads",29,Core,"Samsung Galaxy",user755@example.com
+P00756,2025.12.11,australia,APAC,mobile,organic,,Competitive,"Windows 11",user756@example.com
+P00757,2025/10/19,India,APAC,iOS,"App Store",31,Casual,"Steam Deck",user757@example.com
+P00758,13-09-2025,"United States",NA,Steam,Influencer,43,Casual,"Windows 11",user758@example.com
+P00759,"2025-09-11 16:40:09",,APAC,IOS/Android,AppStore,39,Casual,Pixel,user759@example.com
+P00760,2025-09-02T15:32:59Z,India,APAC,"xbox series",organic,28,Core,"Windows 11",user760@example.com
+P00761,2026-01-16T15:54:15Z,canada,NA,Xbox,"Friend Refer",28,Competitive,"Xbox Series X",user761@example.com
+P00762," 2025-08-16",Spain,EMEA,mobile,Referral,45,Core,"Windows 10",user762@example.com
+P00763," Sep 13, 2025 08:08AM ",India,,"Epic PC",organic,25,Core,"Android Tablet",user763@example.com
+P00764,"2025-09-11 14:51:06","South Korea",APAC,pc,Organic,20,Casual,"Windows 11",user764@example.com
+P00765,2025.10.19,France,EMEA,IOS/Android,organic,23,Casual,"Windows 11",user765@example.com
+P00766,"21.12.2025 07:05",KR,APAC,Steam,"Google Ads",43,Core,"Windows 10",user766@example.com
+P00767,"Sep 17, 2025",Deutschland,EMEA,Windows,discord,43,Core,"Windows 11",user767@example.com
+P00768,2025/11/29,MX,LATAM,Playstation,youtube,33,CORE,PS5,user768@example.com
+P00769,2025.12.20,UK,EMEA,Android,ORG,29,Core,"Android Tablet",user769@example.com
+P00770,"Jan 11, 2026 02:56PM",Spain,EMEA,PC/Steam,Organic,17,Core,PS5,user770@example.com
+P00771,"Sep 06, 2025",Canada,NA,pc,Organic,31,Casual,"Windows 11",user771@example.com
+P00772,12/15/2025,GB,EMEA,XBOX,ORG,31,casual,"Windows 11",user772@example.com
+P00773,,India,APAC,Mobile,,24,Casual,"Windows 10",user773@example.com
+P00774,"Dec 11, 2025 03:25AM","United States",,Mobile,twitch,22,Competitive,"Windows 10",user774@example.com
+P00775,10/20/2025,GB,EMEA,iOS,paid_search,20,Core,"Samsung Galaxy",user775@example.com
+P00776,"Dec 31, 2025 11:59PM",Spain,EMEA,Steam,Referral,16,Competitive,"Windows 10",user776@example.com
+P00777,2026-01-10T04:34:39Z,Japan,APAC,PC,Streamer,34,CASUAL,"Xbox Series X",user777@example.com
+P00778,2026-01-22T23:40:16Z,"United States",NA,PS5,Community,43,Core,iPhone,
+P00779,2025/09/27,USA,NA,ps5,YouTube,43,Casual,iPhone,user779@example.com
+P00780,"2026-01-12 04:13:02 ",US,NA,IOS/Android,Discord,26,Core,"Windows 10",user780@example.com
+P00781,"Feb 11, 2026",BR,LATAM,PC/Steam,Influencer,24,Competitive,"Windows 11",user781@example.com
+P00782,2025.10.10,Brasil,LATAM,Mobile,referral,33,Core,,user782@example.com
+P00783,12-11-2025,Bharat,APAC,IOS/Android,"Google Ads",31,Casual,"Samsung Galaxy",user783@example.com
+P00784,2025.08.29,"United Kingdom",EMEA,Android,referral,30,Core,"Samsung Galaxy",user784@example.com
+P00785,"Dec 04, 2025 09:03PM",U.S.A,NA,steam,Influencer,27,CASUAL,"Samsung Galaxy",user785@example.com
+P00786,2025-10-20,MX,LATAM,PC/Steam,"Paid Search",26,Casual,,user786@example.com
+P00787,"2025-08-28 13:30:07",GB,EMEA,"xbox series",ORG,34,Core,iPhone,user787@example.com
+P00788,"2026-02-14 06:53:10",BR,LATAM,pc,Influencer,44,casual,"Steam Deck",user788@example.com
+P00789,"10/19/25 07:38",Korea,APAC,"Xbox Series X",AppStore,36,Casual,iPhone,user789@example.com
+P00790,2025/10/27,canada,NA,Xbox,YT,20,Competitive,"Windows 11",user790@example.com
+P00791,2025-09-29,Germany,EMEA,NULL,"Google Ads",37,Competitive,"Windows 11",user791@example.com
+P00792,"06.02.2026 13:02",canada,NA,"Xbox Series X","Google Ads",23,Competitive,iPhone,user792@example.com
+P00793,2025-11-01T03:58:31Z,FR,EMEA,"Epic PC",ORG,NULL,Casual,"Xbox Series X",user793@example.com
+P00794,"09/27/25 02:11",Nippon,APAC,steam,discord,NULL,Core,Pixel,user794@example.com
+P00795,"2025-09-26 13:33:08",Brazil,LATAM,PS5,Creator,31,Casual,"Android Tablet",user795@example.com
+P00796," 02/09/26 23:05",France,EMEA,Steam,youtube,45,Casual,iPhone,user796@example.com
+P00797,"10/01/2025 ",India,APAC,xbox,YouTube,26,Core,"Windows 11",user797@example.com
+P00798,"Nov 14, 2025 04:25AM ",Korea,,Android,Creator,23,Casual,Pixel,user798@example.com
+P00799,"Sep 10, 2025 09:13PM",USA,NA,pc,Influencer,26,Core,"Windows 10",user799@example.com
+P00800,2026.01.03,IN,APAC,"Epic PC",organic,39,Core,"Android Tablet",user800@example.com
+P00801,08/08/2025,USA,NA,iOS,ORG,31,Casual,"Windows 10",user801@example.com
+P00802,11/11/2025,Brazil,LATAM,PlayStation,"Paid Search",27,Competitive,"Samsung Galaxy",user802@example.com
+P00803,"2025-11-06 06:38:45",Canada,NA,NULL,YouTube,31,COMPETITIVE,,user803@example.com
+P00804,08/17/2025,México,LATAM,PlayStation,"Friend Refer",38,Core,iPad,user804@example.com
+P00805,2026.01.28,GB,EMEA,mobile,YouTube,21,Casual,PS5,user805@example.com
+P00806,"02/28/26 18:19","République Française",EMEA,ps5,Streamer,42,Casual,"Xbox Series X",user806@example.com
+P00807,"08/15/25 06:39",Brasil,LATAM,PC/Steam,Organic,20,Core,"Android Tablet",user807@example.com
+P00808,"Dec 04, 2025 11:45PM",Mexico,LATAM,PC/Steam,Creator,20,Casual,"Windows 10",user808@example.com
+P00809,2026-01-22,"United States",NA,PS,"Paid Search",24,CASUAL,"Windows 10",user809@example.com
+P00810,"Feb 11, 2026",España,EMEA,PC/Steam,"Google Ads",17,Competitive,PS5,user810@example.com
+P00811,"02/04/26 07:16",CA,NA,PS,Organic,44,Casual,"Windows 11",user811@example.com
+P00812,2025-09-20T03:03:32Z,U.K.,EMEA,steam,AppStore,40,Core,PS5,user812@example.com
+P00813,"Dec 11, 2025 10:43PM",DE,EMEA,xbox,youtube,26,Casual,"Samsung Galaxy",user813@example.com
+P00814,2025/10/05,"South Korea",APAC,IOS/Android,Community,33,Casual,iPad,user814@example.com
+P00815,2026.01.25,IN,APAC,PC/Steam,Influencer,16,Casual,PS5,user815@example.com
+P00816,"Feb 17, 2026",México,LATAM,PlayStation,ORG,32,Casual,iPhone,user816@example.com
+P00817,"2025-10-13 06:53:39",Bharat,APAC,pc,Creator,20,Casual,Pixel,user817@example.com
+P00818,2026-02-20,U.S.A,NA,IOS/Android,ORG,26,Casual,"Android Tablet",user818@example.com
+P00819,"01/28/26 08:07","United States",NA,Ps5,"App Store",29,Competitive,"Samsung Galaxy",user819@example.com
+P00820,2026/01/30,BR,LATAM,pc,paid_search,34,Casual,"Android Tablet",user820@example.com
+P00821,"13.11.2025 02:46",JP,APAC,IOS/Android,Creator,23,Core,iPhone,user821@example.com
+P00822,09/16/2025,Brasil,LATAM,xbox,Creator,23,Core,"Xbox Series X",
+P00823,01/27/2026,GB,EMEA,steam,paid_search,45,Casual,PS5,user823@example.com
+P00824,2025/09/01,Brazil,LATAM,PC,YT,30,Casual,PS5,user824@example.com
+P00825,"Nov 10, 2025 12:51AM","South Korea",APAC,Playstation,"App Store",39,Casual,"Steam Deck",user825@example.com
+P00826,"19.11.2025 10:35",DE,EMEA,steam,Organic,25,Casual,PS5,user826@example.com
+P00827," 01/06/26 07:07",Nippon,APAC,iOS,Creator,34,Core,"Windows 10",user827@example.com
+P00828,05-02-2026,Bharat,APAC,PlayStation,paid_search,18,casual,"Windows 11",user828@example.com
+P00829,"09/12/25 17:54",U.S.A,NA,Steam,"Paid Search",NULL,Competitive,"Samsung Galaxy",user829@example.com
+P00830,2025-09-06,U.S.A,NA,XBOX,"Paid Search",28,Competitive,"Xbox Series X",user830@example.com
+P00831,"2026-01-04 09:33:25 ","South Korea",APAC,mobile,discord,26,Core,iPhone,user831@example.com
+P00832,"11.08.2025 19:43",Nippon,APAC,"xbox series",youtube,20,Core,"Windows 11",user832@example.com
+P00833,2025.09.23,UK,EMEA,Steam,"Friend Refer",32,Core,Pixel,user833@example.com
+P00834,"2026-03-08 16:33:27",IN,APAC,"Epic PC",ORG,23,Core,"Windows 11",user834@example.com
+P00835,25-01-2026,FR,EMEA,XBOX,"Paid Search",37,Core,iPhone,user835@example.com
+P00836,2026-01-27T10:22:56Z,JP,APAC,PlayStation,YouTube,33,Casual,"Windows 11",user836@example.com
+P00837,"Oct 08, 2025 11:53AM",México,LATAM,PC,Discord,20,Core,PS5,user837@example.com
+P00838,"2025/09/12 ",DE,EMEA,"xbox series","App Store",30,Casual,"Samsung Galaxy",user838@example.com
+P00839,11/27/2025,Brasil,LATAM,Android,Organic,NULL,Core,iPhone,
+P00840,22-08-2025,India,APAC,steam,Referral,28,Casual,iPhone,user840@example.com
+P00841," 2026-01-22T00:34:44Z",U.K.,EMEA,steam,ORG,43,Casual,iPhone,user841@example.com
+P00842,2025.12.10,"United states",NA,xbox,Streamer,28,Casual,"Xbox Series X",user842@example.com
+P00843,"10/02/25 12:27",GB,EMEA,pc,influencer,42,Core,"Android Tablet",user843@example.com
+P00844,2025-12-14T10:47:53Z,France,EMEA,iOS,"Paid Search",44,Casual,"Windows 11",user844@example.com
+P00845,2026.01.06,"United States",NA,"Epic PC","Friend Refer",42,Casual,"Xbox Series X",user845@example.com
+P00846,2025/09/27,España,EMEA,mobile,Influencer,43,Competitive,"Android Tablet",user846@example.com
+P00847,"2025-08-30 14:37:31",DE,EMEA,steam,Referral,17,Casual,"Windows 11",user847@example.com
+P00848,"Mar 01, 2026",U.S.A,NA,PS,"Google Ads",23,Core,"Windows 10",user848@example.com
+P00849,"01/08/26 21:50",KR,APAC,Xbox,Streamer,39,Casual,PS5,user849@example.com
+P00850,01-01-2026,Japan,APAC,Playstation,YT,17,Casual,"Android Tablet",user850@example.com
+P00851,"2025-11-06 23:58:22",australia,APAC,IOS/Android,Creator,33,Casual,iPad,user851@example.com
+P00852,"2025.08.13 ",México,LATAM,Windows,discord,39,Competitive,"Windows 10",user852@example.com
+P00853,"09/19/25 00:30","United States",NA,PS5,"Paid Search",24,Core,iPhone,user853@example.com
+P00854,"2026-01-24T22:36:09Z ",MX,LATAM,Mobile,YouTube,22,Casual,"Samsung Galaxy",user854@example.com
+P00855,2025-12-12T15:32:06Z,Australia,APAC,PS5,referral,20,Casual,iPhone,user855@example.com
+P00856,"Dec 22, 2025",FR,EMEA,Android,Organic,33,Casual,"Xbox Series X",user856@example.com
+P00857,,Mexico,LATAM,ps5,influencer,27,Casual,"Windows 10",user857@example.com
+P00858,"Jan 17, 2026 11:52AM",AU,APAC,steam,Discord,29,core,iPad,user858@example.com
+P00859,"Nov 13, 2025 05:26AM ",India,APAC,pc,organic,19,Casual,"Windows 11",user859@example.com
+P00860,16-12-2025,Mexico,LATAM,iOS,referral,38,Casual,iPhone,user860@example.com
+P00861,2026-02-17,CA,NA,Android,influencer,32,Core,PS5,user861@example.com
+P00862,2025-09-22T15:05:40Z,Mexico,LATAM,"Epic PC",paid_search,23,Casual,"Windows 10",user862@example.com
+P00863,"2025-08-19 19:53:31","United Kingdom",EMEA,pc,ORG,29,Competitive,iPhone,user863@example.com
+P00864,"Nov 28, 2025","United States",NA,Android,Community,36,Core,"Windows 10",user864@example.com
+P00865,2025-11-24,Korea,APAC,Mobile,ORG,20,Core,"Xbox Series X",user865@example.com
+P00866,"2026-02-19 12:57:47",,EMEA,XBOX,Creator,39,Casual,PS5,user866@example.com
+P00867,2025.12.05,U.K.,EMEA,Mobile,Influencer,34,Competitive,"Windows 10",user867@example.com
+P00868,2025-11-18T07:26:28Z,USA,NA,Windows,"Paid Search",45,Core,"Android Tablet",user868@example.com
+P00869,"Nov 25, 2025 ",U.S.A,NA,PC,,38,Casual,"Windows 10",user869@example.com
+P00870,08/18/2025,India,APAC,PS5,"Store Feature",42,Core,PS5,user870@example.com
+P00871," 2025-10-17 15:49:51",USA,NA,Ps5,"App Store",24,CASUAL,"Xbox Series X",user871@example.com
+P00872,"09/08/25 08:18",U.S.A,NA,pc,"Paid Search",37,Core,PS5,user872@example.com
+P00873,03/06/2026,Japan,APAC,XBOX,"Friend Refer",36,Casual,iPhone,user873@example.com
+P00874,"01/23/26 17:22",India,APAC,ps5,Community,22,Core,"Windows 10",user874@example.com
+P00875,2025.12.22,"United states",NA,Android,referral,28,Casual,PS5,user875@example.com
+P00876,2025-10-11,DE,EMEA,iOS,"Google Ads",45,Competitive,PS5,user876@example.com
+P00877," 2026-01-17 05:44:31",Japan,APAC,PlayStation,discord,22,Casual,PS5,user877@example.com
+P00878,"Aug 09, 2025 08:07AM",GB,EMEA,IOS/Android,,20,Casual,Pixel,user878@example.com
+P00879,10/14/2025,"United States",NA,iOS,Community,24,Competitive,,user879@example.com
+P00880,2025.12.30,"United States",NA,steam,organic,22,Casual,Pixel,user880@example.com
+P00881,11/06/2025,"United states",NA,IOS/Android,Referral,37,Casual,PS5,user881@example.com
+P00882,"Nov 18, 2025 11:49AM",India,APAC,"Epic PC",Community,27,Core,iPhone,user882@example.com
+P00883,2025/08/05,India,APAC,steam,"Google Ads",20,CORE,"Windows 11",user883@example.com
+P00884,"Sep 02, 2025",U.S.A,NA,Windows,Influencer,34,Casual,iPad,user884@example.com
+P00885,2026-01-23,Bharat,APAC,PC/Steam,Streamer,22,Competitive,"Samsung Galaxy",user885@example.com
+P00886,"2026-01-02 15:01:04",JP,APAC,Mobile,twitch,18,Casual,Pixel,
+P00887,2025-09-17,Deutschland,EMEA,Windows,influencer,21,Casual,"Windows 11",user887@example.com
+P00888,15-08-2025,India,APAC,NULL,"Google Ads",22,Competitive,"Windows 10",user888@example.com
+P00889,2025/10/03,australia,APAC,PC,YouTube,31,Core,PS5,user889@example.com
+P00890,2025.08.29,"United States",,PC/Steam,Organic,20,Core,"Android Tablet",user890@example.com
+P00891,"Nov 05, 2025",USA,NA,Ps5,Organic,21,Core,PS5,user891@example.com
+P00892,"Nov 18, 2025 12:05PM",Deutschland,EMEA,IOS/Android,referral,20,Core,PS5,user892@example.com
+P00893,2026-03-04,"United Kingdom",EMEA,Mobile,"Google Ads",21,CORE,"Xbox Series X",user893@example.com
+P00894,"02/14/26 05:15",Bharat,APAC,Steam,Discord,18,Core,"Windows 11",user894@example.com
+P00895,"Sep 27, 2025",FR,EMEA,mobile,AppStore,19,Core,"Windows 10",user895@example.com
+P00896,"09/25/25 22:45","South Korea",APAC,PlayStation,twitch,38,CASUAL,iPhone,user896@example.com
+P00897,"01/29/26 01:56",US,NA,iOS,YT,41,Casual,"Android Tablet",user897@example.com
+P00898,,"United States",NA,PC/Steam,"Paid Search",27,Casual,"Windows 10",user898@example.com
+P00899,"10/09/25 05:48",MX,LATAM,Mobile,"Google Ads",28,Casual,"Xbox Series X",user899@example.com
+P00900,10/22/2025,UK,EMEA,PlayStation,influencer,38,Core,"Android Tablet",user900@example.com
+P00901,2025/10/31,DE,EMEA,PS5,Discord,27,Competitive,"Samsung Galaxy",user901@example.com
+P00902,"16.10.2025 09:04",India,APAC,ps5,Referral,24,Core,iPad,user902@example.com
+P00903,"11/12/25 06:41 ",Korea,APAC,Windows,Discord,20,Casual,"Steam Deck",user903@example.com
+P00904,"16.10.2025 02:47",France,EMEA,Android,AppStore,44,Core,"Steam Deck",user904@example.com
+P00905,2026-02-18T12:45:31Z,U.S.A,NA,"Epic PC",organic,30,Competitive,"Windows 11",user905@example.com
+P00906,"Sep 17, 2025 04:10AM",UK,EMEA,PC/Steam,Influencer,NULL,Core,iPhone,user906@example.com
+P00907,2026.01.21,BR,LATAM,IOS/Android,Twitch,36,Competitive,"Windows 11",user907@example.com
+P00908,09/18/2025,U.K.,EMEA,Playstation,,35,Casual,"Windows 11",user908@example.com
+P00909,"11/18/25 03:31",Australia,APAC,IOS/Android,YouTube,21,Casual,PS5,user909@example.com
+P00910,"03/07/26 05:32",México,LATAM,PlayStation,Organic,36,Casual,"Windows 11",user910@example.com
+P00911,"2026-02-12 14:10:24","United Kingdom",EMEA,XBOX,ORG,22,Competitive,"Windows 11",
+P00912,"08/19/25 03:40 ",España,EMEA,iOS,referral,39,Casual,"Windows 10",
+P00913,01/25/2026,GB,EMEA,Ps5,Creator,38,Casual,"Windows 11",user913@example.com
+P00914,2026-01-31,USA,NA,IOS/Android,paid_search,30,Casual,iPad,user914@example.com
+P00915,08/22/2025,Deutschland,EMEA,PC,"Paid Search",45,casual,"Windows 11",user915@example.com
+P00916,2025-10-22T05:56:22Z,France,EMEA,Android,"Google Ads",32,Core,"Xbox Series X",user916@example.com
+P00917,2025/08/19,Mexico,LATAM,PS,influencer,27,Casual,Pixel,user917@example.com
+P00918,"Feb 23, 2026 08:53PM",IN,APAC,IOS/Android,"Google Ads",40,Core,"Android Tablet",user918@example.com
+P00919,2025-08-04T06:37:05Z,Canada,NA,"xbox series",paid_search,35,Core,"Windows 10",user919@example.com
+P00920,"01/10/26 18:42",Australia,APAC,"Epic PC",Community,31,Core,iPad,user920@example.com
+P00921,"Dec 01, 2025 03:54AM",Deutschland,EMEA,"Epic PC",influencer,34,Casual,"Windows 11",user921@example.com
+P00922,2025/08/15,U.S.A,NA,PS,organic,35,Competitive,"Xbox Series X",user922@example.com
+P00923,"2025-09-04 12:37:12",U.K.,EMEA,mobile,referral,18,Casual,"Android Tablet",
+P00924,"Nov 21, 2025 ",U.S.A,NA,IOS/Android,"Store Feature",17,Core,,user924@example.com
+P00925,"04.12.2025 06:32","United states",NA,XBOX,influencer,44,CORE,iPhone,user925@example.com
+P00926,01-09-2025,DE,EMEA,NULL,"Friend Refer",28,Casual,"Windows 11",user926@example.com
+P00927,2026/01/01,U.K.,EMEA,Ps5,Creator,17,Core,"Windows 10",user927@example.com
+P00928," 05.11.2025 09:47",México,LATAM,Steam,Twitch,32,Casual,"Samsung Galaxy",user928@example.com
+P00929,"Aug 19, 2025 11:56AM",,EMEA,iOS,referral,17,casual,"Xbox Series X",user929@example.com
+P00930,"2025-10-08 08:15:52",Brazil,LATAM,Steam,"Paid Search",42,Competitive,PS5,user930@example.com
+P00931,2025.11.02,"United Kingdom",EMEA,"Xbox Series X",Organic,32,Core,PS5,user931@example.com
+P00932,09-10-2025,"United states",NA,"Epic PC",organic,23,Competitive,PS5,user932@example.com
+P00933,2025/10/09,MX,LATAM,Windows,Organic,18,Core,iPhone,user933@example.com
+P00934,2025-08-10T22:38:41Z,Brazil,LATAM,Android,"App Store",26,Core,"Steam Deck",user934@example.com
+P00935,"2025-08-17 02:28:36",India,APAC,Windows,"Google Ads",45,casual,PS5,user935@example.com
+P00936,2026-01-04,Nippon,APAC,mobile,YT,19,Core,"Samsung Galaxy",user936@example.com
+P00937,2026/02/25,Deutschland,EMEA,Ps5,"Store Feature",26,Casual,PS5,user937@example.com
+P00938,09-11-2025,"United Kingdom",EMEA,iOS,paid_search,23,Competitive,"Windows 10",user938@example.com
+P00939,2026-01-22T23:01:19Z,Bharat,,"Epic PC",paid_search,44,Core,PS5,user939@example.com
+P00940,"08/19/25 16:04",Brasil,LATAM,Android,organic,27,Core,"Windows 11",user940@example.com
+P00941,"2025-09-05 02:02:52",USA,NA,Xbox,"Paid Search",25,Core,"Steam Deck",user941@example.com
+P00942,"Aug 06, 2025 06:39AM",AU,APAC,IOS/Android,Twitch,,Core,"Windows 10",user942@example.com
+P00943,"Dec 17, 2025",India,APAC,iOS,AppStore,20,Core,"Android Tablet",user943@example.com
+P00944,,Brasil,LATAM,"xbox series",organic,45,Casual,"Samsung Galaxy",user944@example.com
+P00945," 2025-12-03 11:37:49",Germany,EMEA,XBOX,"Paid Search",29,Casual,"Android Tablet",user945@example.com
+P00946,"02/25/26 15:13 ",U.K.,EMEA,Windows,Discord,45,Casual,"Windows 11",user946@example.com
+P00947,"07.02.2026 01:57 ","République Française",EMEA,PC,twitch,35,Casual,"Windows 11",user947@example.com
+P00948,"Dec 27, 2025","United states",NA,IOS/Android,organic,17,Casual,PS5,user948@example.com
+P00949,"11/06/25 19:46",IN,APAC,steam,Twitch,27,Core,iPhone,user949@example.com
+P00950,10/17/2025,Korea,APAC,NULL,YouTube,26,CASUAL,PS5,user950@example.com
+P00951,"Jan 17, 2026 08:38AM",Brazil,LATAM,"Epic PC",organic,32,Casual,"Windows 11",user951@example.com
+P00952,2026-02-13T08:07:42Z,Canada,NA,Windows,"Google Ads",29,Casual,"Windows 10",user952@example.com
+P00953,,USA,NA,Mobile,ORG,33,Casual,"Steam Deck",user953@example.com
+P00954,03-11-2025,US,NA,NULL,Creator,31,Core,"Samsung Galaxy",user954@example.com
+NULL,"2025-10-07 11:23:57 ","United States",NA,steam,"Paid Search",41,Casual,"Xbox Series X",user955@example.com
+P00956,"Dec 21, 2025 ","United States",NA,"xbox series",AppStore,24,Casual,"Windows 11",user956@example.com
+P00957,2025/12/26,"United Kingdom",EMEA,steam,organic,31,Core,iPhone,user957@example.com
+P00958,,U.S.A,NA,PC/Steam,referral,37,Casual,"Samsung Galaxy",user958@example.com
+P00959,2026-03-03,U.S.A,NA,PC,Organic,17,Casual,iPhone,user959@example.com
+P00960,"14.11.2025 23:37",Korea,APAC,"Epic PC",AppStore,36,Casual,"Windows 10",user960@example.com
+P00961,,Australia,APAC,NULL,Influencer,38,Casual,PS5,user961@example.com
+P00962,"05.10.2025 15:56",UK,NULL,Android,ORG,39,Core,"Samsung Galaxy",user962@example.com
+P00963,12/27/2025,,APAC,Android,"Paid Search",28,Core,"Windows 11",user963@example.com
+P00964,"2026-03-05 23:53:02",España,EMEA,"Xbox Series X",,33,Competitive,"Windows 10",user964@example.com
+P00965,"Dec 08, 2025",India,APAC,PlayStation,organic,26,Core,"Windows 11",user965@example.com
+P00966,2026-01-02T15:02:58Z,Korea,APAC,NULL,organic,19,Core,"Windows 11",user966@example.com
+P00967,"11/22/25 01:54",ES,EMEA,pc,discord,unknown,Casual,PS5,user967@example.com
+P00968,2025/10/18,U.S.A,NA,PC/Steam,"Paid Search",39,Core,"Windows 11",user968@example.com
+P00969,2025-09-24,australia,APAC,PC,Organic,45,Core,iPhone,user969@example.com
+P00970,2026.02.18,"United Kingdom",EMEA,xbox,YouTube,45,Casual,PS5,user970@example.com
+P00971,2026.03.06,FR,EMEA,Mobile,Creator,32,Casual,"Android Tablet",user971@example.com
+P00972,2026-02-07T13:58:45Z,"United States",NA,PS5,organic,20,Competitive,"Windows 11",user972@example.com
+P00973,"15.10.2025 20:20",U.K.,EMEA,Xbox,"Paid Search",37,Core,"Steam Deck",user973@example.com
+P00974,2025.10.23,US,NA,iOS,Creator,22,Casual,"Windows 11",user974@example.com
+P00975,"2025-09-09 18:40:24",Brasil,,iOS,"Paid Search",42,Core,"Android Tablet",user975@example.com
+P00976,"10.10.2025 05:58",Mexico,LATAM,steam,"Google Ads",44,Casual,iPhone,user976@example.com
+P00977,2025.09.03,Brasil,LATAM,steam,Influencer,43,core,PS5,user977@example.com
+P00978,,ES,EMEA,steam,"Paid Search",39,Casual,"Windows 11",user978@example.com
+P00979,2025/11/04,"United States",NA,pc,Community,37,Casual,"Windows 11",user979@example.com
+P00980,"2025-12-01 10:50:43",AU,APAC,IOS/Android,"Friend Refer",25,CORE,Pixel,user980@example.com
+P00981,"Sep 08, 2025",IN,APAC,Mobile,Organic,39,Casual,"Xbox Series X",user981@example.com
+P00982,2026-03-07T21:08:04Z,MX,LATAM,"Xbox Series X","Friend Refer",34,Core,"Windows 10",user982@example.com
+P00983,2025-10-10,India,APAC,NULL,organic,20,Casual,iPhone,user983@example.com
+P00984,2025.12.15,US,NA,Android,organic,43,Core,"Windows 11",user984@example.com
+P00985,"Mar 07, 2026",JP,APAC,XBOX,organic,19,Casual,iPhone,user985@example.com
+P00986,"2026-01-05 02:52:29",ES,EMEA,xbox,YT,27,Core,"Steam Deck",user986@example.com
+P00987,2025-09-08,Deutschland,EMEA,pc,paid_search,34,Core,"Windows 10",user987@example.com
+P00988,"2025-11-04 02:10:51 ",India,APAC,Mobile,Organic,,Casual,PS5,user988@example.com
+P00989,"2025-10-07 17:04:19",US,NA,XBOX,"Friend Refer",27,Core,Pixel,user989@example.com
+P00990,2025-10-14T07:25:18Z,Germany,EMEA,iOS,"Google Ads",22,Core,PS5,user990@example.com
+P00991,"2025-09-24 15:22:45",,LATAM,Android,ORG,35,Core,"Windows 11",user991@example.com
+P00992,"Dec 24, 2025 04:43AM",,APAC,"xbox series",discord,36,Competitive,"Xbox Series X",user992@example.com
+P00993,31-10-2025,IN,APAC,PC,influencer,27,Casual,"Windows 10",user993@example.com
+P00994,"2025.10.31 ",Australia,APAC,Ps5,influencer,25,Casual,"Windows 10",user994@example.com
+P00995,"01/24/26 04:44",España,EMEA,mobile,Twitch,40,Core,PS5,user995@example.com
+P00996,"10-12-2025 ","United Kingdom",EMEA,Steam,organic,44,Competitive,"Windows 11",user996@example.com
+P00997,2025.11.03,Deutschland,EMEA,Windows,"Paid Search",43,Casual,"Samsung Galaxy",user997@example.com
+P00998,12/16/2025,"United States",NA,Android,youtube,35,Casual,"Samsung Galaxy",user998@example.com
+P00999,"Jan 30, 2026 09:40AM",Germany,EMEA,Android,Streamer,34,Core,iPhone,user999@example.com
+P01000,2025/09/27,DE,EMEA,steam,Discord,26,Casual,PS5,user1000@example.com
+P01001,"Nov 12, 2025",canada,NA,Steam,"Google Ads",26,Casual,"Windows 10",user1001@example.com
+P01002,"12/07/25 00:14",México,LATAM,XBOX,ORG,unknown,Core,Pixel,user1002@example.com
+P01003,"11.12.2025 21:32",IN,APAC,Mobile,Twitch,32,Casual,iPhone,user1003@example.com
+P01004,"2025-09-09T19:07:36Z ",Mexico,LATAM,steam,youtube,36,Core,"Windows 11",user1004@example.com
+P01005,10-09-2025,Deutschland,EMEA,"xbox series","Paid Search",43,Core,PS5,user1005@example.com
+P01006,"2025-11-10 04:26:55",canada,NA,Windows,"Friend Refer",40,Casual,PS5,user1006@example.com
+P01007,"Nov 04, 2025 09:08PM",australia,APAC,pc,paid_search,37,CORE,"Windows 10",user1007@example.com
+P01008,"2025-10-15 17:29:04",UK,EMEA,Windows,influencer,37,Competitive,iPad,user1008@example.com
+P01009,"Mar 02, 2026",U.K.,EMEA,iOS,"Friend Refer",26,Casual,"Xbox Series X",user1009@example.com
+P01010,2026-03-06T09:45:41Z,US,NA,"Epic PC",Creator,33,Core,"Steam Deck",user1010@example.com
+P01011,"Aug 10, 2025 12:57PM",BR,LATAM,Playstation,AppStore,40,Casual,"Steam Deck",user1011@example.com
+P01012,2026-02-08,Bharat,APAC,PS,paid_search,42,Casual,"Samsung Galaxy",user1012@example.com
+NULL,"2025-11-20 08:01:17",US,NA,"Epic PC",Discord,45,Core,"Xbox Series X",user1013@example.com
+P01014,2026.01.09,DE,EMEA,Xbox,AppStore,43,COMPETITIVE,PS5,user1014@example.com
+P01015,"Oct 13, 2025",India,APAC,"Epic PC",ORG,23,core,iPad,user1015@example.com
+P01016," 21.12.2025 00:12",IN,APAC,IOS/Android,youtube,39,Core,"Samsung Galaxy",user1016@example.com
+P01017,14-02-2026,"United States",NA,Playstation,Streamer,,Casual,"Windows 10",user1017@example.com
+P01018,2025/09/18,U.S.A,NA,"xbox series",influencer,39,Core,"Windows 11",user1018@example.com
+P01019,2026/01/04,canada,NA,Playstation,,18,Casual,"Samsung Galaxy",user1019@example.com
+P01020,"Sep 06, 2025",Korea,APAC,pc,organic,17,Casual,"Windows 10",user1020@example.com
+P01021,"Oct 31, 2025 10:25AM",DE,EMEA,Xbox,AppStore,32,Core,"Steam Deck",user1021@example.com
+P01022,2026-02-03T13:33:25Z,AU,APAC,Android,"Google Ads",33,Core,"Windows 11",user1022@example.com
+P01023,"Jan 02, 2026 03:26AM",Deutschland,EMEA,"Epic PC",YouTube,24,Casual,"Windows 11",user1023@example.com
+P01024,"2026-01-04 23:10:08","United States",NA,"Xbox Series X",,40,Core,"Steam Deck",user1024@example.com
+P01025,2026/01/28,UK,EMEA,Steam,referral,34,Competitive,"Xbox Series X",user1025@example.com
+P01026,2025/12/16,Deutschland,EMEA,mobile,Organic,32,Casual,"Windows 11",user1026@example.com
+P01027,2025-12-11,India,APAC,steam,paid_search,25,Core,"Xbox Series X",
+P01028,"Aug 05, 2025",GB,EMEA,pc,Twitch,25,Core,"Android Tablet",user1028@example.com
+P01029,"30.01.2026 02:30",Korea,APAC,mobile,referral,19,Casual,iPhone,user1029@example.com
+P01030,2025.09.09,U.K.,EMEA,PC,"Paid Search",36,Core,"Windows 11",user1030@example.com
+P01031,"2025-10-21 15:36:00",U.K.,EMEA,xbox,paid_search,unknown,Core,PS5,
+P01032,06-02-2026,Australia,APAC,IOS/Android,ORG,30,Competitive,"Android Tablet",user1032@example.com
+P01033,02/01/2026,BR,LATAM,xbox,Creator,36,Casual,"Xbox Series X",user1033@example.com
+P01034,2025/10/29,DE,EMEA,IOS/Android,twitch,36,Core,"Windows 10",user1034@example.com
+P01035,2025.11.26,JP,APAC,iOS,Streamer,28,Core,"Windows 11",user1035@example.com
+P01036,"Dec 03, 2025 10:07PM",JP,APAC,"xbox series",YT,28,Casual,"Xbox Series X",user1036@example.com
+P01037,"Sep 02, 2025",BR,LATAM,pc,"Google Ads",24,COMPETITIVE,"Steam Deck",user1037@example.com
+P01038,2025/09/23,Brasil,LATAM,Android,Streamer,17,Casual,iPhone,user1038@example.com
+P01039,24-08-2025,Australia,APAC,PC/Steam,organic,17,Casual,"Samsung Galaxy",user1039@example.com
+P01040,2025-12-05,U.S.A,NA,"Epic PC",Influencer,38,CORE,PS5,user1040@example.com
+P01041,"09/06/25 10:17",MX,LATAM,steam,discord,39,Casual,"Windows 10",user1041@example.com
+P01042,2025-12-25,Germany,EMEA,XBOX,paid_search,21,casual,PS5,user1042@example.com
+P01043,11/19/2025,Brasil,LATAM,Playstation,Organic,31,Casual,"Samsung Galaxy",user1043@example.com
+P01044,"09/20/25 14:47",France,EMEA,PC,"Paid Search",42,Core,iPhone,user1044@example.com
+P01045,"Jan 22, 2026",México,LATAM,Mobile,youtube,22,Core,"Xbox Series X",user1045@example.com
+P01046,"01/01/26 11:00",FR,EMEA,mobile,Organic,35,Casual,"Steam Deck",
+P01047,"10/17/25 14:50",Brazil,LATAM,"Epic PC",organic,40,Core,"Android Tablet",
+P01048,2025.11.11,France,EMEA,iOS,twitch,33,Competitive,"Xbox Series X",
+P01049,"2025-09-25 02:49:12",U.K.,EMEA,Mobile,organic,44,Core,"Windows 11",user1049@example.com
+P01050,11/18/2025,UK,EMEA,Mobile,Influencer,43,Core,Pixel,user1050@example.com
+P01051," 2026-02-20 12:22:28",DE,EMEA,Windows,youtube,43,core,iPhone,user1051@example.com
+P01052,23-09-2025,DE,EMEA,PC,YouTube,37,Casual,"Windows 10",user1052@example.com
+P01053,08/24/2025,Bharat,APAC,Playstation,discord,21,Core,"Windows 10",user1053@example.com
+P01054,2026.01.24,DE,EMEA,ps5,Twitch,39,Casual,"Windows 10",user1054@example.com
+P01055,2025/12/10,Korea,APAC,mobile,"Paid Search",43,Competitive,"Xbox Series X",user1055@example.com
+P01056,"Jan 18, 2026 08:45PM","United states",NA,iOS,referral,34,Casual,PS5,user1056@example.com
+P01057,2025/09/22,JP,APAC,Mobile,YT,32,Casual,PS5,user1057@example.com
+P01058,"12.12.2025 10:29",U.K.,EMEA,Android,"Paid Search",21,Competitive,PS5,user1058@example.com
+P01059,2025.12.18,,APAC,steam,ORG,28,Casual,"Windows 10",user1059@example.com
+P01060,"09/18/25 16:40",BR,LATAM,Steam,AppStore,36,Competitive,"Xbox Series X",user1060@example.com
+P01061," 2025-09-22 15:57:09",Canada,,Playstation,"Google Ads",38,Casual,"Windows 10",user1061@example.com
+P01062,2025-11-22,USA,NA,Android,Discord,39,Casual,"Samsung Galaxy",user1062@example.com
+P01063,"Sep 23, 2025",Brazil,LATAM,Android,Organic,19,Core,PS5,user1063@example.com
+P01064,"10.02.2026 12:07",BR,LATAM,iOS,Referral,28,Core,"Xbox Series X",user1064@example.com
+P01065,2026-01-05T23:05:47Z,"United states",NA,Android,Organic,17,Core,iPhone,user1065@example.com
+P01066," 02-12-2025",Mexico,LATAM,Steam,YouTube,20,Casual,iPhone,user1066@example.com
+P01067,10/30/2025,,LATAM,Ps5,Community,32,Casual,iPhone,user1067@example.com
+P01068,2026.02.03,australia,APAC,IOS/Android,"Store Feature",38,Competitive,"Xbox Series X",user1068@example.com
+P01069,"12/26/2025 ",AU,APAC,Android,"Paid Search",39,Core,"Steam Deck",user1069@example.com
+P01070," 11/04/25 16:21",Mexico,LATAM,Windows,"Paid Search",28,CORE,"Xbox Series X",user1070@example.com
+P01071,,México,LATAM,mobile,Organic,21,Competitive,"Samsung Galaxy",user1071@example.com
+P01072,22-12-2025,US,NA,Playstation,ORG,41,Casual,"Windows 11",user1072@example.com
+NULL,2026-02-20T08:23:54Z,México,LATAM,Steam,paid_search,NULL,Core,"Windows 11",user1073@example.com
+P01074,2026-01-06,GB,EMEA,ps5,influencer,23,Casual,"Samsung Galaxy",user1074@example.com
+P01075,2025.12.09,India,APAC,Android,"Paid Search",16,Casual,"Samsung Galaxy",user1075@example.com
+P01076,"Aug 20, 2025","United Kingdom",EMEA,XBOX,Influencer,26,Competitive,Pixel,user1076@example.com
+P01077,2025.10.23,Japan,APAC,Xbox,"Paid Search",25,Core,"Samsung Galaxy",user1077@example.com
+P01078,"08/10/25 19:45","South Korea",APAC,XBOX,Twitch,27,Casual,iPhone,user1078@example.com
+P01079,2025.12.04,U.S.A,NA,Windows,"Store Feature",25,Core,"Windows 11",user1079@example.com
+P01080,2026-03-02T19:21:32Z,"United States",NA,pc,"Google Ads",39,Casual,PS5,user1080@example.com
+P01081,"Aug 22, 2025 07:38PM",Nippon,APAC,xbox,ORG,42,Core,Pixel,user1081@example.com
+P01082," 2026-01-11",India,APAC,Xbox,twitch,24,Core,"Android Tablet",user1082@example.com
+P01083,"2025-12-04 16:46:15",MX,LATAM,Xbox,Discord,18,Casual,"Windows 10",user1083@example.com
+P01084,2025-10-10,GB,EMEA,pc,organic,45,Casual,"Windows 11",user1084@example.com
+P01085,2025.12.17,DE,EMEA,Android,"Paid Search",28,Casual,PS5,user1085@example.com
+P01086,"2025-12-17 10:46:25",U.K.,EMEA,Mobile,Streamer,39,casual,PS5,user1086@example.com
+P01087,2025/09/14,US,NA,Mobile,Creator,26,Casual,iPhone,user1087@example.com
+P01088,2026-03-02T15:15:40Z,BR,LATAM,Xbox,referral,33,Casual,"Windows 10",user1088@example.com
+P01089,"Sep 23, 2025",U.S.A,NA,Android,YT,30,Casual,iPhone,user1089@example.com
+P01090,"20.10.2025 13:12",KR,APAC,steam,Twitch,NULL,Competitive,iPhone,user1090@example.com
+P01091,2025-09-28T06:43:06Z,AU,APAC,Steam,"Friend Refer",18,Casual,"Windows 10",user1091@example.com
+P01092," 2025/09/26","United states",NA,"xbox series","Google Ads",37,Core,PS5,user1092@example.com
+P01093,2025-11-28,España,EMEA,mobile,"Paid Search",25,Casual,"Windows 10",user1093@example.com
+P01094,2025/11/01,"United Kingdom",EMEA,"Xbox Series X",Twitch,32,Competitive,iPad,user1094@example.com
+P01095,"2025-11-27 19:43:03 ","République Française",NULL,Android,Organic,42,Casual,"Android Tablet",user1095@example.com
+P01096,"11/20/25 18:03","United States",NA,PS,"Store Feature",34,Casual,iPad,
+P01097,"02/12/26 22:14",U.S.A,NA,PC/Steam,influencer,41,Core,iPad,user1097@example.com
+P01098,01/14/2026,"South Korea",APAC,iOS,Referral,43,Casual,"Xbox Series X",user1098@example.com
+P01099,2025-11-15T18:31:48Z,Germany,EMEA,Ps5,AppStore,21,Casual,"Samsung Galaxy",user1099@example.com
+P01100,"Oct 18, 2025 10:04AM",canada,NA,PC,"Google Ads",27,Core,PS5,user1100@example.com
+P01101,"Oct 15, 2025",KR,APAC,pc,influencer,30,Casual,"Windows 11",user1101@example.com
+P01102," 29-11-2025","United states",NA,ps5,AppStore,26,Competitive,Pixel,user1102@example.com
+P01103,2026-01-10T02:50:44Z,canada,NA,"Epic PC","Store Feature",16,Competitive,"Android Tablet",user1103@example.com
+P01104,2026-03-01T10:05:10Z,Brasil,LATAM,steam,paid_search,,Core,"Xbox Series X",user1104@example.com
+P01105,"12/18/25 07:37",Brazil,LATAM,iOS,"Paid Search",37,Core,"Samsung Galaxy",user1105@example.com
+P01106,28-12-2025,Nippon,APAC,PC,referral,29,Core,iPhone,user1106@example.com
+P01107,"Dec 26, 2025 09:33PM",US,NA,Android,Influencer,30,Casual,"Samsung Galaxy",user1107@example.com
+P01108,2025-12-24,U.K.,EMEA,mobile,discord,28,Casual,"Windows 10",user1108@example.com
+P01109,"Aug 01, 2025 03:01PM","United states",NA,mobile,YouTube,41,Casual,"Steam Deck",user1109@example.com
+P01110,2026/02/04,UK,EMEA,mobile,influencer,35,Casual,"Android Tablet",user1110@example.com
+P01111,"Sep 16, 2025",Brasil,LATAM,Steam,ORG,41,Casual,"Windows 11",user1111@example.com
+P01112,2026.01.22,México,LATAM,PS,"Google Ads",,Core,"Steam Deck",
+P01113,2026-01-19,Bharat,APAC,iOS,"Google Ads",41,Casual,"Samsung Galaxy",user1113@example.com
+P01114,"11/08/25 04:24",JP,APAC,Steam,Influencer,24,Competitive,"Samsung Galaxy",user1114@example.com
+P01115,2026-02-22,MX,LATAM,"xbox series",AppStore,32,Casual,PS5,user1115@example.com
+P01116,2025-11-17T18:11:57Z,GB,EMEA,steam,paid_search,43,Core,"Android Tablet",user1116@example.com
+P01117,"13.02.2026 03:45",IN,APAC,pc,ORG,20,Casual,"Android Tablet",user1117@example.com
+P01118,22-09-2025,ES,EMEA,pc,ORG,unknown,Core,"Windows 10",user1118@example.com
+P01119,"2025-09-08 09:07:51",,EMEA,Windows,paid_search,23,Core,"Samsung Galaxy",user1119@example.com
+P01120,02-01-2026,Canada,NA,"Xbox Series X",ORG,26,Casual,iPhone,user1120@example.com
+P01121,"08/01/25 11:53",Canada,NA,"xbox series","Friend Refer",27,Core,"Samsung Galaxy",user1121@example.com
+P01122,08/04/2025,KR,APAC,steam,Organic,35,Casual,"Windows 10",user1122@example.com
+P01123,"2025-11-04 14:06:33",IN,APAC,xbox,Discord,25,Casual,"Steam Deck",user1123@example.com
+P01124,2025.10.12,U.K.,EMEA,IOS/Android,Influencer,30,Casual,"Windows 11",user1124@example.com
+P01125,,BR,LATAM,pc,ORG,32,Casual,"Samsung Galaxy",user1125@example.com
+P01126,2025.08.31,Brasil,LATAM,PC,Streamer,25,casual,"Windows 11",user1126@example.com
+P01127," 2025-09-01",GB,EMEA,Steam,YT,44,Casual,,user1127@example.com
+P01128,"Dec 24, 2025 04:15AM","United States",NA,Mobile,Organic,17,Casual,"Windows 11",user1128@example.com
+P01129,2026/02/28,USA,NA,Android,Community,34,Competitive,"Windows 10",user1129@example.com
+P01130,"11/26/2025 ","République Française",EMEA,mobile,referral,25,Core,"Windows 10",user1130@example.com
+P01131,2025-09-16,Germany,EMEA,"xbox series","Paid Search",28,Casual,"Android Tablet",user1131@example.com
+P01132,"Jan 11, 2026",Spain,EMEA,Android,"App Store",unknown,Casual,"Windows 10",user1132@example.com
+P01133,2025-11-15,U.S.A,NA,pc,Influencer,unknown,Core,"Windows 11",user1133@example.com
+P01134,"Oct 25, 2025 08:09PM",KR,APAC,Playstation,ORG,35,Casual,"Android Tablet",user1134@example.com
+P01135,10/05/2025,"United states",NA,Android,influencer,31,Core,PS5,user1135@example.com
+P01136,12/16/2025,BR,LATAM,iOS,YT,31,Casual,PS5,user1136@example.com
+P01137,"14.11.2025 20:48","United states",NA,PS5,discord,44,Casual,iPhone,user1137@example.com
+P01138,"11/11/25 11:41",Canada,NA,Windows,"Friend Refer",43,Casual,iPhone,
+P01139," 2025.09.17",canada,NA,steam,"Paid Search",18,Core,Pixel,user1139@example.com
+P01140,2025-12-18,Deutschland,EMEA,PS5,,30,Core,PS5,user1140@example.com
+P01141,2026-03-05,Korea,APAC,xbox,Streamer,31,Core,PS5,user1141@example.com
+P01142,2025-10-07,"United States",NA,PC/Steam,"App Store",36,Competitive,"Xbox Series X",user1142@example.com
+P01143,"03.12.2025 08:49",Brazil,,IOS/Android,"Google Ads",17,Core,"Samsung Galaxy",user1143@example.com
+P01144," 05.01.2026 02:17",Brazil,LATAM,Windows,Influencer,28,Core,"Windows 11",user1144@example.com
+P01145,"2025-11-14 00:25:28",IN,APAC,Android,Organic,25,casual,iPhone,user1145@example.com
+P01146,2025.09.03,USA,NA,Android,Organic,33,Casual,iPad,user1146@example.com
+P01147,2025/10/24,U.S.A,NA,iOS,"Paid Search",40,Casual,PS5,user1147@example.com
+P01148,2025-10-02T08:40:20Z,IN,APAC,pc,Influencer,32,Core,"Samsung Galaxy",user1148@example.com
+P01149,09/03/2025,BR,LATAM,mobile,"Friend Refer",17,Casual,PS5,user1149@example.com
+P01150,"Oct 23, 2025 08:39PM",Japan,APAC,"xbox series",Discord,40,Casual,PS5,user1150@example.com
+P01151,2026-01-27,Australia,APAC,XBOX,organic,31,Core,Pixel,user1151@example.com
+P01152,"Oct 16, 2025",australia,APAC,iOS,"Paid Search",36,Core,iPhone,user1152@example.com
+P01153,2026.01.12,Mexico,LATAM,Android,paid_search,43,CORE,iPad,user1153@example.com
+P01154,"27.02.2026 00:36","United States",NA,Android,organic,41,Casual,"Windows 11",user1154@example.com
+P01155,"01/22/26 13:51",Bharat,APAC,NULL,Community,22,Competitive,"Steam Deck",user1155@example.com
+P01156,"11.08.2025 10:15","United Kingdom",NULL,PC/Steam,referral,,Competitive,iPad,user1156@example.com
+P01157,"Dec 27, 2025 09:15AM",Korea,NULL,PC/Steam,paid_search,36,Core,"Samsung Galaxy",user1157@example.com
+P01158,2025/09/11,US,NA,Steam,Discord,43,Casual,"Windows 11",user1158@example.com
+P01159,2025/08/01,Mexico,LATAM,PC/Steam,Creator,33,Casual,"Windows 11",user1159@example.com
+P01160,11/29/2025,FR,EMEA,iOS,organic,45,Casual,"Windows 11",user1160@example.com
+P01161,2025.12.23,USA,NULL,"Epic PC",,39,Core,iPhone,user1161@example.com
+P01162,"12/15/25 09:42",Brasil,,XBOX,twitch,37,core,iPhone,user1162@example.com
+P01163,2026.02.22,MX,LATAM,NULL,"Google Ads",34,Casual,"Xbox Series X",user1163@example.com
+P01164,"2025-12-24T22:51:37Z ","South Korea",APAC,Playstation,"Paid Search",24,Core,"Samsung Galaxy",user1164@example.com
+P01165,"03.02.2026 17:20","République Française",EMEA,Ps5,ORG,29,Core,PS5,user1165@example.com
+P01166,2025-08-15,"République Française",EMEA,xbox,"Paid Search",19,CASUAL,iPad,user1166@example.com
+P01167,"Dec 25, 2025 06:21AM ",BR,LATAM,PS,"Paid Search",34,Core,PS5,user1167@example.com
+P01168,08/31/2025,canada,NA,steam,Discord,40,Competitive,"Steam Deck",user1168@example.com
+P01169,2025/12/31,UK,EMEA,"xbox series",AppStore,36,Casual,"Samsung Galaxy",user1169@example.com
+P01170,2025/10/01,U.S.A,NA,mobile,paid_search,28,Casual,"Xbox Series X",user1170@example.com
+P01171,"17.10.2025 09:12",Canada,NA,PC/Steam,"Paid Search",17,Competitive,"Xbox Series X",user1171@example.com
+P01172,"Aug 07, 2025 09:36PM",España,NULL,Android,organic,26,Casual,"Windows 10",user1172@example.com
+P01173,25-02-2026,BR,LATAM,"xbox series","Google Ads",20,Competitive,"Windows 11",user1173@example.com
+P01174,2025-08-12T01:41:57Z,México,LATAM,iOS,"Google Ads",22,core,iPad,user1174@example.com
+P01175,"Oct 07, 2025 07:46PM",US,NA,xbox,ORG,29,CORE,"Samsung Galaxy",user1175@example.com
+P01176,2025.09.08,BR,LATAM,"Epic PC",paid_search,38,Core,"Android Tablet",user1176@example.com
+P01177,"Aug 29, 2025",Deutschland,EMEA,iOS,referral,28,Competitive,"Samsung Galaxy",user1177@example.com
+P01178,"07.02.2026 03:03",España,EMEA,steam,paid_search,42,Competitive,"Windows 10",user1178@example.com
+P01179,"Jan 14, 2026",MX,LATAM,ps5,paid_search,39,CASUAL,"Samsung Galaxy",user1179@example.com
+P01180,,DE,EMEA,IOS/Android,twitch,28,Competitive,"Samsung Galaxy",user1180@example.com
+P01181,2025.10.05,Australia,APAC,Playstation,Influencer,24,Competitive,iPhone,user1181@example.com
+P01182,01/07/2026,BR,LATAM,"Xbox Series X",twitch,42,Core,"Xbox Series X",user1182@example.com
+P01183,2026/03/06,Bharat,APAC,mobile,organic,25,Competitive,Pixel,user1183@example.com
+P01184,2025-12-04T09:49:21Z,Spain,EMEA,xbox,ORG,20,Core,"Windows 11",user1184@example.com
+P01185,2026/02/21,australia,APAC,PC/Steam,"App Store",27,Competitive,"Samsung Galaxy",user1185@example.com
+P01186,2025/08/17,BR,LATAM,xbox,discord,32,Core,Pixel,user1186@example.com
+P01187,"05.11.2025 03:39",Deutschland,EMEA,"Epic PC",Twitch,34,Casual,"Android Tablet",user1187@example.com
+P01188,2025.10.22,IN,APAC,Windows,influencer,35,CORE,"Windows 11",user1188@example.com
+NULL,"Oct 13, 2025 06:22AM",U.K.,EMEA,Mobile,twitch,18,Competitive,iPhone,user1189@example.com
+P01190,"18.11.2025 22:34","United states",NA,XBOX,ORG,17,Casual,"Xbox Series X",user1190@example.com
+P01191,"2025-10-03 19:50:31",ES,EMEA,Android,ORG,45,casual,Pixel,user1191@example.com
+P01192,2025.09.15,MX,LATAM,IOS/Android,YouTube,31,Casual,"Windows 11",user1192@example.com
+P01193,18-02-2026,México,LATAM,Android,Referral,23,Core,"Windows 10",user1193@example.com
+P01194,,India,APAC,Playstation,YT,37,Core,PS5,user1194@example.com
+P01195,2026-01-02,US,NA,steam,paid_search,24,Casual,"Windows 11",user1195@example.com
+P01196,2026-01-27,"United states",NA,pc,referral,33,Casual,"Steam Deck",user1196@example.com
+P01197,2026-02-20T14:43:21Z,"République Française",EMEA,Android,youtube,28,Competitive,"Samsung Galaxy",user1197@example.com
+P01198,"12/24/25 15:32",US,NA,Ps5,Organic,38,casual,"Windows 10",user1198@example.com
+P01199,28-02-2026,"United Kingdom",EMEA,PC,ORG,30,Casual,"Windows 10",user1199@example.com
+P01200,"01/26/26 17:30",CA,NA,IOS/Android,"Paid Search",33,Core,iPhone,user1200@example.com
+P00396,14-08-2025,ES,EMEA,IOS/Android,paid_search,32,Core,"Windows 11",user396@example.com
+P00666,"Nov 05, 2025 04:58PM",U.K.,EMEA,IOS/Android,paid_search,45,Core,iPhone,user666@example.com
+P00712,11/01/2025,MX,LATAM,PC,ORG,45,CASUAL,"Android Tablet",user712@example.com
+P00093,"11/03/25 04:47",India,EMEA,iOS,Organic,17,Casual,"Xbox Series X",user93@example.com
+P00832,"11.08.2025 19:43",Nippon,APAC,"xbox series",Community,20,Core,"Windows 11",user832@example.com
+P00806,"02/28/26 18:19","République Française",EMEA,ps5,"Google Ads",42,Casual,"Xbox Series X",user806@example.com
+P00488,2025.11.25,KR,APAC,pc,Influencer,21,Competitive,"Windows 10",user488@example.com
+P00452,"Oct 04, 2025",Nippon,APAC,"Epic PC",referral,unknown,Core,PS5,user452@example.com
+P00464,2026.02.20,MX,EMEA,PC/Steam,Creator,24,Casual,"Windows 11",user464@example.com
+P00036,2025/11/13,USA,APAC,IOS/Android,paid_search,20,Casual,"Windows 10",user36@example.com
+P00085,2025.11.10,BR,EMEA,"Xbox Series X",Discord,23,Competitive,"Windows 10",
+P00358,"Dec 04, 2025 01:46PM","United States",APAC,PS5,YouTube,18,Core,Pixel,user358@example.com
+P01137,"14.11.2025 20:48",Brasil,NA,PS5,discord,44,Casual,iPhone,user1137@example.com
+P00753,2025/12/17,"United states",EMEA,PC,AppStore,28,casual,"Samsung Galaxy",user753@example.com
+P00367,2025-08-21T23:30:39Z,CA,NA,Mobile,Discord,27,Core,"Windows 11",user367@example.com
+NULL,2025.09.26,U.S.A,NA,PC,,43,Core,"Windows 10",user678@example.com
+P00537,"12/22/25 20:53",Bharat,APAC,steam,Referral,31,Casual,"Android Tablet",user537@example.com
+P00764,"2025-09-11 14:51:06","South Korea",APAC,pc,Organic,20,Casual,"Windows 11",user764@example.com
+P00823,"2025-09-04 12:27:50",USA,EMEA,steam,paid_search,45,Casual,PS5,user823@example.com
+P00060,"Aug 28, 2025 07:45AM ",US,APAC,"Xbox Series X",,34,Core,PS5,user60@example.com
+P00582,01/20/2026,France,LATAM,IOS/Android,referral,45,Core,"Windows 10",user582@example.com
+P00135,2025-12-13,FR,EMEA,IOS/Android,Referral,25,Casual,"Windows 10",user135@example.com
+P00976,19-01-2026,Mexico,LATAM,steam,"Google Ads",44,Casual,iPhone,user976@example.com
+P00608,"08/03/25 08:22",Canada,EMEA,"Xbox Series X",organic,18,Casual,,user608@example.com
+P00868,"09/04/2025 ",USA,NA,pc,"Paid Search",45,Core,"Android Tablet",user868@example.com
+P00098,"15.12.2025 04:33",BR,LATAM,"Xbox Series X",paid_search,17,Casual,"Windows 11",user98@example.com
+P00204,02/04/2026,"United States",NA,Playstation,Influencer,27,Casual,"Xbox Series X",user204@example.com
+P00591,"Oct 14, 2025 07:00AM",KR,EMEA,pc,Organic,34,Casual,"Windows 11",user591@example.com
+P00243,"10/08/25 02:03 ",Nippon,APAC,IOS/Android,"Friend Refer",26,Casual,"Windows 10",user243@example.com
+P01040,2025-12-05,Germany,NA,"Epic PC",Influencer,38,CORE,PS5,user1040@example.com
+P00422,2025-11-28T22:00:46Z,Deutschland,EMEA,PC/Steam,Community,27,Casual,"Windows 10",user422@example.com
+P01082,14-08-2025,India,APAC,Xbox,twitch,24,Core,"Android Tablet",user1082@example.com
+P00252,02/26/2026,Bharat,NA,steam,organic,40,CASUAL,iPhone,user252@example.com
+P00416,"Jan 26, 2026 01:41AM",Germany,EMEA,pc,Referral,25,Competitive,"Windows 10",user416@example.com
+P00304,2026/01/31,Japan,EMEA,pc,"Paid Search",unknown,Competitive,PS5,user304@example.com
+P00696,"08.02.2026 22:35",USA,NA,IOS/Android,YT,40,Casual,"Windows 10",user696@example.com
+P00395,12/26/2025,México,LATAM,iOS,"Paid Search",unknown,Casual,iPhone,user395@example.com
+P01167,"Dec 25, 2025 06:21AM ",BR,LATAM,PS,"Paid Search",34,Core,PS5,user1167@example.com
+P00781,"Oct 15, 2025 12:19PM",BR,LATAM,PC/Steam,Influencer,24,Competitive,"Windows 11",user781@example.com
+P00297,2026-01-20,"République Française",NA,steam,paid_search,35,Casual,"Windows 11",user297@example.com
+P00021,"01.01.2026 14:56",Australia,LATAM,"Epic PC",paid_search,,Core,Pixel,user21@example.com
+P01086,"2025-12-17 10:46:25",U.K.,EMEA,Mobile,Streamer,39,casual,PS5,user1086@example.com
+P00521,2026-01-22,JP,APAC,"xbox series",paid_search,unknown,Casual,PS5,user521@example.com
+P01039,24-08-2025,Australia,APAC,PC/Steam,organic,17,Casual,"Samsung Galaxy",user1039@example.com
+P00113,2026-01-01,España,EMEA,mobile,paid_search,25,Casual,"Xbox Series X",user113@example.com
+P00398,"03/09/26 15:19",Japan,APAC,Android,"Google Ads",38,Casual,iPhone,user398@example.com
+NULL,08/14/2025,Korea,APAC,XBOX,Streamer,23,Core,PS5,user632@example.com
+P01158,02-02-2026,US,NA,Mobile,Discord,43,Casual,"Windows 11",user1158@example.com
+P00339,"Dec 07, 2025 10:36AM",México,LATAM,Playstation,Creator,24,Core,Pixel,user339@example.com
+P00788,"2026-02-14 06:53:10",BR,LATAM,pc,Influencer,44,casual,"Steam Deck",user788@example.com
+P00284,"2026-02-16 08:49:20",GB,EMEA,Windows,YT,41,Casual,Pixel,user284@example.com
+P00750,"Aug 29, 2025",ES,EMEA,Android,paid_search,29,Core,iPhone,user750@example.com
+P01064,2025-12-10T12:17:27Z,BR,LATAM,Steam,Referral,28,Core,"Xbox Series X",user1064@example.com
+P00131,"25.01.2026 05:55",Bharat,APAC,Xbox,Streamer,32,Casual,"Xbox Series X",
+P00549,08/20/2025,IN,APAC,Mobile,ORG,23,Core,iPhone,user549@example.com
+P00811,"01/03/26 19:43",Bharat,NA,PS,Organic,44,Casual,"Windows 11",user811@example.com
+P00752,2026-03-04T02:31:44Z,Japan,APAC,"Epic PC","App Store",33,Casual,"Windows 11",user752@example.com
+P00096,"03/07/26 10:29",GB,EMEA,PC,referral,39,Core,"Android Tablet",user96@example.com
+P00786,2026-03-08T00:05:45Z,Japan,LATAM,PC/Steam,"Paid Search",26,Casual,,user786@example.com
+P00564,"02/09/26 15:11",India,APAC,Android,organic,17,CASUAL,"Windows 11",user564@example.com
+P00020,"2025-12-23 08:31:03",India,APAC,PC/Steam,Influencer,19,Competitive,"Android Tablet",user20@example.com
+P00896,2025-10-03,IN,APAC,PlayStation,twitch,38,CASUAL,iPhone,user896@example.com
+P00871,"2025-11-08 21:37:23",JP,NA,XBOX,"App Store",24,CASUAL,"Xbox Series X",user871@example.com
+P00340,,JP,NA,IOS/Android,Twitch,20,Casual,"Windows 11",user340@example.com
+P00827," 01/06/26 07:07",USA,APAC,iOS,organic,34,Core,"Windows 10",user827@example.com
+P00763," Sep 13, 2025 08:08AM ",India,,"Epic PC",organic,25,Core,"Android Tablet",user763@example.com
+P00290,"2025-08-10 09:46:39",australia,APAC,IOS/Android,Twitch,32,Casual,iPhone,user290@example.com
+P01071,,México,LATAM,pc,Organic,21,Competitive,"Samsung Galaxy",user1071@example.com
+P00579,"10/24/25 09:42",IN,APAC,PC/Steam,paid_search,16,Core,"Android Tablet",user579@example.com
+P00994,"Mar 01, 2026 05:32PM",Australia,APAC,Ps5,influencer,25,Casual,"Windows 10",user994@example.com
+P00587,"Dec 13, 2025 03:31PM",Deutschland,EMEA,mobile,Twitch,38,Competitive,"Android Tablet",user587@example.com
+P01074,2026-01-06,GB,EMEA,ps5,influencer,23,Casual,"Samsung Galaxy",user1074@example.com
+P00426,"Sep 21, 2025 05:06PM",australia,APAC,xbox,YouTube,44,Core,"Android Tablet",user426@example.com
+P01131,2025-09-16,Germany,EMEA,"xbox series",discord,28,Casual,"Android Tablet",user1131@example.com
+P00653,10-11-2025,France,APAC,NULL,Twitch,39,Casual,"Windows 11",user653@example.com
